@@ -1,3 +1,7 @@
+# Finding scenius
+
+_Rough working notes on scenius._
+
 The artist Brian Eno has
 [defined](http://www.kk.org/thetechnium/archives/2008/06/scenius_or_comm.php)
 a notion of "scenius": 
@@ -80,7 +84,7 @@ These observations suggest many questions.  But I think they suggest
 one thing in particular, for the ambitious: **if you want to improve
 your chances of doing great things, then find scenius**. What else
 increases your chance of doing great things by a factor of 1,000 or
-more?  One must have a modicum of talent, a 
+more?  
 
 The question then becomes: **how to find scenius?**
 
