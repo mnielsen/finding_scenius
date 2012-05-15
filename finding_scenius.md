@@ -57,20 +57,21 @@ people to become much better painters.
   This is the idea that what makes someone like Michaelangelo great is
   some intrinsic quality of that person.  According to this
   hypothesis, he could have been brought up in another small town of
-  100,000 and he still would have been an artistic superstar.  The
-  other is the _scenius hypothesis_, which states that while intrinsic
-  properties are important, at least as important
+  100,000 and, provided that town had any sort of artistic community,
+  he still would have matured into a great artist.  The other is the
+  _scenius hypothesis_, which states that while intrinsic properties
+  are important, the environment in which an artist works may be even
+  more important.
   
-**Scenius is not merely a statistical fluke:** Many communities
-  contain artists.  And even if you believe the genius hypothesis,
-  then you would expect, just by the luck of the draw, that some
-  otherwise similar communities would contain more outstanding artists
-  than others.  Maybe Florence was just a statistical fluke?  It's
-  hard to make this case, however.  In the appendix I set up a simple
-  statistical model to test this idea.  What we find is that it is not
-  even remotely plausible that Florence was simply a statistical
-  fluke.
-    
+**Scenius is not merely a statistical fluke:** Suppose you believe the
+genius hypothesis.  You might wonder whether Florence was, perhaps,
+just a statistical fluke?  After all, under the genius hypothesis some
+otherwise unremarkable communities will contain an excess of good
+artists, just by the luck of the draw.  This is true.  However, in the
+appendix I set up a simple statistical model to test the idea.  And
+what we find is that Florence is far far beyond what can be accounted
+for, even by the luck of the draw.
+      
 **Wasn't it just that Florence was the right place at the right
   time?** In this explanation, we say that a few things came together:
   (1) the ideas, techniques and technologies of art had advanced to a
