@@ -1,3 +1,5 @@
+<!-- 1682 words -->
+
 # Finding scenius
 
 _Rough working notes on scenius._
@@ -47,27 +49,29 @@ What truly set Michaelangelo _et al_ apart wasn't talent.  It was
 their great good fortune in being in the right place at the right
 time.  Their genius derived from scenius.
 
-**Scenius is not merely a statistical fluke:** Might there be some way
-avoid this conclusion that the genius of the Florentines derived from
-scenius?  For example, you might wonder whether Florence was, perhaps,
-just a statistical fluke?  After all, no matter the importance of
-scenius, some otherwise unremarkable communities will contain an
-excess of artists, just by the luck of the draw.  Maybe the key to
-Florence's success wasn't scenius, it was simply luck.
+Might there be some way avoid the conclusion that the genius of the
+Florentines derived from scenius?  
 
-In the appendix to these notes I set up a simple statistical model to
-test the idea that Florence was just lucky.  In particular, I test the
-_genius hypothesis_, the idea that what makes someone like
-Michaelangelo great is some intrinsic property of that person.
-According to this hypothesis, he could have been brought up in another
-small town of 100,000 and, provided the town had some sort of artistic
-community, he still would have matured into a great artist.  In the
-appendix I show that the creativity we find in Florence cannot be
-accounted for by the genius hypothesis, even by the luck of the draw.
-Instead, it seems that we must take seriously the _scenius
-hypothesis_, which states that while intrinsic properties are
-important, the environment in which a creative type works may be even
-more important.
+One possibility is that Florence was just a statistical fluke.  After
+all, no matter the importance of scenius, some otherwise unremarkable
+communities will contain an excess of excellent artists, just by the
+luck of the draw.  So maybe the reason for Florence's success wasn't
+scenius, it was luck.
+
+In the appendix I set up a statistical model to test the idea that
+Florence was just lucky.  In particular, I test the _genius
+hypothesis_, the idea that what makes an artist such as Michaelangelo
+great is some intrinsic property of the artist, not the environment in
+which he found himself.  According to this hypothesis, he could have
+been brought up in another small town of 100,000 and, provided the
+town had some sort of artistic community, he still would have matured
+into a great artist.
+
+What I show in the appendix is that it's not possible to account for
+the creativity we find in Florence, even by the luck of the draw.
+Instead, we must take seriously the _scenius hypothesis_, i.e., the
+notion that while intrinsic properties are important, the environment
+in which a creative type works may be even more important.
 
 **Wasn't it just that Florence was the right place at the right
   time?** In this explanation, we say that a few things came together:
@@ -209,9 +213,3 @@ expect a great painter to emerge from about 1 city in every 10 of size
 100,000.  While some notable painters will likely come out of such a
 collection of cities, I frankly think that's far too modest a
 criterion.  So we can confidently reject the genius hypothesis.
-
-
-ZZZ
-
-
-
