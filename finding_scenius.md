@@ -40,17 +40,17 @@ scientific luminaries such Feynman, Fermi, Bethe, and (on occasion)
 Bohr and von Neumann.
 
 This is a galaxy of talent not unlike Florence in the 15th century.
-But, of course, the environment in Los Alamos could not be said to
-have _created_ such talent.  Most of the luminaries in town were
-already exceptionally accomplished _before_ going to Los Alamos.
-Perhaps the environment did make some positive difference to their
-future accomplishments, but it seems unlikely that it was primarily
-the environment which caused their future accomplishments.
+But, of course, the environment in Los Alamos did not _create_ such
+talent.  Most of the luminaries in town were already exceptionally
+accomplished _before_ going to Los Alamos.  Perhaps the environment
+did make some positive difference to their future accomplishments, but
+it seems unlikely that it was primarily the environment which caused
+their future accomplishments.
 
-By contrast, the great painters of Florence that I named above were
-all born in Florence, or in the countryside nearby.  And so in some
-sense it really was living in Florence during the 15th century which
-helped _cause_ these people to become much better painters.
+By contrast, the great painters of Florence named above were all born
+in Florence, or in the countryside nearby.  And so it really was
+living in Florence during the 15th century which helped _cause_ these
+people to become much better painters.
   
 **Two hypotheses:** Let me set up two hypotheses about how works of
   great distinction are produced.  One is the _genius hypothesis_.
@@ -86,23 +86,10 @@ your chances of doing great things, then find scenius**. What else
 increases your chance of doing great things by a factor of 1,000 or
 more?  
 
-The question then becomes: **how to find scenius?**
-
-**It's usually not something that is fashionable to do:**
-
-*It's usually not something which is high prestige:*
-
-*Look for communities that are held together by something other than
- fashion, money, or prestige:*  
-
-
-**But how to recognize scenius?**
-
-
-**What about the founder effect?**
-
-**Where is scenius today?** Let's look first at the related question:
-  **what are some examples of scenius in recent times?** Here's a few:
+The question then becomes: **how to find scenius?** And to answer
+that, the we can ask **Where is scenius today?** Let's look first at
+the related question: **what are some examples of scenius in recent
+times?** Here's a few that seem like likely candidates:
   
 + In the 1970s
   [Xerox PARC](http://en.wikipedia.org/wiki/PARC_(company)) made
@@ -110,25 +97,41 @@ The question then becomes: **how to find scenius?**
   mouse, windowing systems (and graphics more generally), the
   ethernet, and many more.
 
-+ 
++ Pixar: 11 of Pixar's 12 feature films have been critical and
+financial successes.  For the most part they're not to my taste, but
+clearly Pixar has figured out something which virtually none of the
+other studios have.
 
-
-**Is Google an example of scenius?** Maybe there are places inside
-  Google where that's true.
-
-**The distinction between the grand plan and the
-
-**What isn't scenius?** If something is fashionable or there's lots of
-  money to do it (or both).  This causes an inrush of poseurs and
-  9-to-5ers.  Consider, by contrast, the case of Camp 4 at Yosemite.
-  Climbers at Camp 4 will make a living . They'll live off boiled rice
-  and peanut butter.
+**What's going to be important in 10-15 years' time? Are there
+  high-concentration communities doing interesting work in the area
+  today?** Space, robotics, 
   
+**The problems of high-prestige, fashionable, or rich fields:** My
+empirical observation is that the density of stimulating people to
+learn from in these fields is often low.  A possible reason is that
+these are fields in which it is relatively easy to do well, and so
+attractive to lots of people who want to coast.  When money is pouring
+into a field, so will people who just want to take the easy way.  The
+counterpoint to this argument is that lots of very smart, very
+determined people will also be in these fields.
 
-**It doesn't come out of companies:** I do wonder . Many of
-  Michaelangelo's greatest works were, of course, produced on
-  commission.
+**A corollary to the above is to look for communities that are held
+ together by something other than fashion, money, or prestige:**
+ Often, they'll be held together by a shared ideal, or something else
+ that is shared.  Is what is shared awareness of a frontier?  Do the
+ people in it
 
+**Is there a rich frontier to mine?** Think of painting at the end of
+  the 15th century.  Painting at the start of the 20th.  Quantum
+  computing in the early 1990s.  Physics in the 1920s.  The internet
+  (especially the web) in the 1990s.  Possibly also today.  In each
+  case there were major frontiers on which it had become possible to
+  make rapid progress.
+  
+**Phil Agre:** Agre has pointed out (somewhere, I haven't tracked down
+  the location) that an excellent way to identify emerging fields is
+  to ask smart undergraduates what they're interested in, and then to
+  eliminate the already-fashionable answers.  In what remaisn
 
 **Appendix: was Florence a statistical fluke?** Suppose we regard the
   genius hypothesis as true, and believe that someone will achieve
@@ -149,3 +152,32 @@ The question then becomes: **how to find scenius?**
   
   Of course, the outcome here depends a lot on how exactly you choose
   the value for p to correspond to greatness.  Choose
+
+
+
+ZZZ
+
+
+
+
+
+**But how to recognize scenius?**
+
+
+**What about the founder effect?**
+
+
+
+**Is Google an example of scenius?** Maybe there are places inside
+  Google where that's true.
+
+**What isn't scenius?** If something is fashionable or there's lots of
+  money to do it (or both).  This causes an inrush of poseurs and
+  9-to-5ers.  Consider, by contrast, the case of Camp 4 at Yosemite.
+  Climbers at Camp 4 will make a living . They'll live off boiled rice
+  and peanut butter.
+  
+
+**It doesn't come out of companies:** I do wonder . Many of
+  Michaelangelo's greatest works were, of course, produced on
+  commission.
