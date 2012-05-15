@@ -1,4 +1,4 @@
-<!-- 1682 words -->
+<!-- 1828 words -->
 
 # Finding scenius
 
@@ -49,6 +49,8 @@ What truly set Michaelangelo _et al_ apart wasn't talent.  It was
 their great good fortune in being in the right place at the right
 time.  Their genius derived from scenius.
 
+## Was Florence just a statistical fluke?
+
 Might there be some way avoid the conclusion that the genius of the
 Florentines derived from scenius?  
 
@@ -58,7 +60,7 @@ communities will contain an excess of excellent artists, just by the
 luck of the draw.  So maybe the reason for Florence's success wasn't
 scenius, it was luck.
 
-In the appendix I set up a statistical model to test the idea that
+In the appendix I use a statistical model to test the idea that
 Florence was just lucky.  In particular, I test the _genius
 hypothesis_, the idea that what makes an artist such as Michaelangelo
 great is some intrinsic property of the artist, not the environment in
@@ -73,6 +75,24 @@ Instead, we must take seriously the _scenius hypothesis_, i.e., the
 notion that while intrinsic properties are important, the environment
 in which a creative type works may be even more important.
 
+## Maybe Florence was just the right place at the right time?
+
+Another way we might find to deny the importance of scenius is to say
+that maybe Florence was the right place at the right time?
+
+To see what I mean, suppose it is the 18th century, and you hear of a
+gold rush in some location.  People rush out, dig for gold, and then
+an unusually large fraction of them become wealthy.  Should we
+conclude from this that there was some special scenius in that
+location that imbued those people with a special talent for generating
+wealth?
+
+The answer, obviously, is no, except in the trivial sense that the
+ground did contain a larger-than-average amount of gold.  In
+particular, it would be wrong to attribute the wealth to anything
+particularly important in the social environment.
+
+
 **Wasn't it just that Florence was the right place at the right
   time?** In this explanation, we say that a few things came together:
   (1) the ideas, techniques and technologies of art had advanced to a
@@ -82,10 +102,11 @@ in which a creative type works may be even more important.
   Medici and other families created a business model to support
   artistic endeavours.
 
-**Scenius is causative:** An interesting contrast to Florence is the
-small town of Los Alamos during World War II.  Living in the town were
-scientific luminaries such Feynman, Fermi, Bethe, and (on occasion)
-Bohr and von Neumann.
+## Scenius as a causal factor
+
+An interesting contrast to Florence is the small town of Los Alamos
+during World War II.  Living in the town were scientific luminaries
+such Feynman, Fermi, Bethe, and (on occasion) Bohr and von Neumann.
 
 This is a galaxy of talent not unlike Florence in the 15th century.
 But, of course, the environment in Los Alamos did not _create_ such
