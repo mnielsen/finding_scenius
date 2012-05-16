@@ -137,9 +137,42 @@ Florence became _the place_ to be for ambitious artists.
 This explanation for Florence's pre-eminence is subtly different from
 Eno's explanation of scenius.  It's not that the great painters of
 Florence were learning and benefiting from each other.  Instead, in
-this explanation they were benefting from being at .  Essentially,
-they were first on the scene, just as a new vein of gold was found,
-and were able to cart most of it away.
+this explanation they were more like gold miners who just happened to
+be first on the scene, just as a new vein of gold was to be found.
+
+This is what might be called the _rich frontier_ hypothesis of genius,
+which is that there's a huge advantage to getting in very early as a
+rich frontier is opening up.  There are relatively few other people
+present initially, and so not only can they stake a major claim, but
+they're often able to remain ahead of the curve for many years or
+decades, even after others have entered.
+
+So now we have an interesting question.  How much were the great
+Florentine artists benefiting from being at a rich frontier, and how
+much were they benefiting from a rich social environment?  I don't
+think it's at all clear.
+
+How does this affect our notion of scenius? 
+
+There are two paths we could take at this point.  One is to adopt a
+narrow notion of scenius as the benefit a creative worker gets from
+their social scene.  If we adopt this notion of scenius then it
+explicitly excludes the rich frontier.  Any attempt to explain
+Florence must include both scenius and the rich frontier.  We could
+ask questions about the relative contribution of the two.
+
+The other approach is to embrace a wider notion of scenius which
+includes both the benefits someone gets from working at a rich
+frontier _and_ the benefit they get from their social environment.
+
+For the purposes of this essay, I'm going to adopt the broader notion
+of scenius.
+
+## Difficulty in writing about these issues
+
+It's difficult to write about these issues.  Questions like "how to
+choose where you work" or "what should you work on" are challenging
+questions.
 
 # How to find scenius
 
@@ -227,10 +260,15 @@ determined people will also be in these fields.
   
 
   
-**Phil Agre:** Agre has pointed out (somewhere, I haven't tracked down
-  the location) that an excellent way to identify emerging fields is
-  to ask smart undergraduates what they're interested in, and then to
-  eliminate the already-fashionable answers.  In what remaisn
+**Phil Agre:** The information scientist Phil Agre has proposed an
+  interesting way to identify important emerging fields. He suggested
+  asking the very smartest undergrads what they're interested in, and
+  making a list of their replies. Cross the already fashionable
+  answers (cosmology, nanotech etc) off the list. Look instead for
+  fields that you've never heard of, that sound strange, and slightly
+  off the wall. Some of those fields will fail, of course. But chances
+  are that some of biggest fields a decade or two hence will be on
+  that list.
 
 # Appendix: was Florence a statistical fluke?
 
@@ -257,3 +295,10 @@ expect a great painter to emerge from about 1 city in every 10 of size
 100,000.  While some notable painters will likely come out of such a
 collection of cities, I frankly think that's far too modest a
 criterion.  So we can confidently reject the genius hypothesis.
+
+# Acknowledgements
+
+Thanks to [Jen Dodd](http://jendodd.com),
+[Ilya Grigorik](http://www.igvita.com) and
+[Hassan Masum](http://www.hassanmasum.com) for many conversations
+about these issues.
