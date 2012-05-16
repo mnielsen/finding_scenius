@@ -49,25 +49,54 @@ What truly set Michaelangelo _et al_ apart wasn't talent.  It was
 their great good fortune in being in the right place at the right
 time.  Their genius derived from scenius.
 
-## Was Florence just a statistical fluke?
+## Is scenius really the _cause_ of genius?
 
-Might there be some way avoid the conclusion that the genius of the
-Florentines derived from scenius?  
+Its it really defensible to claim that scenius _caused_ Florence's
+15th century outbreak of artistic genius.  Maybe some other causal
+factor was responsible?
 
-One possibility is that Florence was just a statistical fluke.  After
-all, no matter the importance of scenius, some otherwise unremarkable
-communities will contain an excess of excellent artists, just by the
-luck of the draw.  So maybe the reason for Florence's success wasn't
-scenius, it was luck.
+To see what I mean, consider a case where it _seems_ as though scenius
+was occurring, but upon closer examination that explanation seems
+unlikely.  The example is the project to build the atomic bomb,
+carried out in the small town of Los Alamos during World War II.
+Living in town at the time were scientific luminaries such Feynman,
+Fermi, Bethe, and (on occasion) Bohr and von Neumann, many other
+scientists of Nobel or near-Nobel caliber, as well as many
+extraordinary engineers and technicians.
+
+This is a galaxy of talent not unlike Florence in the 15th century.
+But, of course, the environment in Los Alamos did not _create_ such
+talent.  Most of the luminaries in town were already exceptionally
+accomplished before going to Los Alamos.  Perhaps the environment did
+make some positive difference to their future accomplishments, but it
+seems unlikely that it was primarily the environment which caused
+their future accomplishments.
+
+By contrast, the great painters of Florence named above were all born
+in Florence, or in the countryside nearby.  And so it really was
+living in Florence during the 15th century which helped _cause_ these
+people to become better painters.
+
+## Was Florence just at the tail end of the distribution?
+
+Another way of countering the scenius hypothesis is to wonder whether
+ordinary statistics might explain the existence of a town like
+Florence.  After all, the world has contained many communities of
+100,000 people through history.  And some of those communities will
+contain what appears to be an unusually large number of excellent
+artists, just by the luck of the draw.  Maybe the reason for
+Florence's success wasn't scenius, it was luck.  After all, _some_
+community had to have the most great artists, and maybe it just
+happened to be Florence.
 
 In the appendix I use a statistical model to test the idea that
 Florence was just lucky.  In particular, I test the _genius
 hypothesis_, the idea that what makes an artist such as Michaelangelo
 great is some intrinsic property of the artist, not the environment in
-which he found himself.  According to this hypothesis, he could have
-been brought up in another small town of 100,000 and, provided the
-town had some sort of artistic community, he still would have matured
-into a great artist.
+which he found himself.  According to this hypothesis, Michaelangelo
+could have been brought up in another small town of 100,000 and,
+provided the town had some sort of artistic community, he would still
+have matured into a great artist.
 
 What I show in the appendix is that it's not possible to account for
 the creativity we find in Florence, even by the luck of the draw.
@@ -77,50 +106,40 @@ in which a creative type works may be even more important.
 
 ## Maybe Florence was just the right place at the right time?
 
-Another way we might find to deny the importance of scenius is to say
-that maybe Florence was the right place at the right time?
+Imagine it is the 18th century.  You are living in New York and you
+hear the first news of a major gold strike in California.  Many people
+rush out to California, dig for gold, and then an unusually large
+fraction of them become wealthy.  Should we conclude from this that
+there was some special scenius in California that imbued those people
+with a special talent for generating wealth?  Were they picking up
+special wealth-generating skills from their friends and colleagues?
 
-To see what I mean, suppose it is the 18th century, and you hear of a
-gold rush in some location.  People rush out, dig for gold, and then
-an unusually large fraction of them become wealthy.  Should we
-conclude from this that there was some special scenius in that
-location that imbued those people with a special talent for generating
-wealth?
+The answer, obviously, is no, it would be wrong to attribute the
+wealth to anything particularly important in the social environment.
+Rather, they chose to put themselves in the right place at the right
+time.
 
-The answer, obviously, is no, except in the trivial sense that the
-ground did contain a larger-than-average amount of gold.  In
-particular, it would be wrong to attribute the wealth to anything
-particularly important in the social environment.
+You can make a similar case for Florence.  There is a sense in which
+in the 15th century Florence was a rich frontier waiting to be mined
+for great art, not unlike the California gold fields.  At least three
+factors contributed to Florence being such a frontier: (1) it had been
+a leading European center for art for hundreds of years; (2) the rise
+of the Medici family created a business model to support a large
+number of artistic endeavours; and (3) the ideas, techniques and
+technologies of art had advanced to a point where they open up a whole
+new world of artistic possibilities.
 
+Any one of these three things would not have been enough to establish
+Florence as pre-eminent not just in its time, but arguably for all
+time.  But with all three factors occurring in the same place,
+Florence became _the place_ to be for ambitious artists.
 
-**Wasn't it just that Florence was the right place at the right
-  time?** In this explanation, we say that a few things came together:
-  (1) the ideas, techniques and technologies of art had advanced to a
-  point where it opened up a whole new world of artistic
-  possibilities; (2) Florence already had a community of artists who
-  were already on the leading edge (true); and (3) the success of the
-  Medici and other families created a business model to support
-  artistic endeavours.
-
-## Scenius as a causal factor
-
-An interesting contrast to Florence is the small town of Los Alamos
-during World War II.  Living in the town were scientific luminaries
-such Feynman, Fermi, Bethe, and (on occasion) Bohr and von Neumann.
-
-This is a galaxy of talent not unlike Florence in the 15th century.
-But, of course, the environment in Los Alamos did not _create_ such
-talent.  Most of the luminaries in town were already exceptionally
-accomplished _before_ going to Los Alamos.  Perhaps the environment
-did make some positive difference to their future accomplishments, but
-it seems unlikely that it was primarily the environment which caused
-their future accomplishments.
-
-By contrast, the great painters of Florence named above were all born
-in Florence, or in the countryside nearby.  And so it really was
-living in Florence during the 15th century which helped _cause_ these
-people to become much better painters.
-  
+This explanation for Florence's pre-eminence is subtly different from
+Eno's explanation of scenius.  It's not that the great painters of
+Florence were learning and benefiting from each other.  Instead, in
+this explanation they were benefting from being at .  Essentially,
+they were first on the scene, just as a new vein of gold was found,
+and were able to cart most of it away.
 
 # How to find scenius
 
@@ -170,6 +189,9 @@ into a field, so will the people who just want to take the easy way.
 When prestige or fashionability is pouring into a field, so too will
 the poseurs.
 
+**However, there may still be identifiable sub-veins within those
+  locations:**
+
 Consider, by contrast, the case of Camp 4 at Yosemite.  Climbers at
 Camp 4 will often make a living by collecting and recycling aluminium
 cans. They'll live off boiled rice and peanut butter.  They're not
@@ -186,6 +208,7 @@ determined people will also be in these fields.
  that is shared.  Is what is shared awareness of a frontier?  Do the
  people in it
  
+
  
 **What isn't scenius?** If something is fashionable or there's lots of
   money to do it (or both).  This causes an inrush of poseurs and
