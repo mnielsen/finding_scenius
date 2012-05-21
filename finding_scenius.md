@@ -1,4 +1,4 @@
-<!-- 2396 words -->
+<!-- 3032 words -->
 
 # Finding scenius
 
