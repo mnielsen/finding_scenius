@@ -13,9 +13,9 @@ a notion of collective intelligence that he calls "scenius":
 > genius."
 
 Kevin Kelly has a
-[http://www.kk.org/thetechnium/archives/2008/06/scenius_or_comm.php](stimulating
-blog post) in which he discusses what scenius is, and proposes some
-ideas about how it's nurtured:
+[stimulating blog post](http://www.kk.org/thetechnium/archives/2008/06/scenius_or_comm.php)
+in which he discusses what scenius is, and proposes some ideas about
+how it's nurtured:
 
 > Individuals immersed in a productive scenius will blossom and
 > produce their best work. When buoyed by scenius, you act like
@@ -235,12 +235,12 @@ or a lot of money is available, then people who just want to coast
 arrive in droves.  It requires high barriers to keep those people out.
   
 Walter Isaacson's
-[http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537](recent
-biography of Steve Jobs) makes it clear that one of Jobs's main
-functions at Apple was to act as a human barrier, either firing or
-driving away people who weren't superb at their job.  This no doubt
-had many negative consequences.  But it's also part of the reason
-Apple maintained a very good core team, despite being high prestige.
+[recent biography of Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
+makes it clear that one of Jobs's main functions at Apple was to act
+as a human barrier, either firing or driving away people who weren't
+superb at their job.  This no doubt had many negative consequences.
+But it's also part of the reason Apple maintained a very good core
+team, despite being high prestige.
   
 An advantage of being high prestige is that also attracts many very
 smart, very determined people will be interested in participating.
@@ -299,21 +299,22 @@ intelligence.
 Maybe there's insurmountable bottlenecks that will stop progress
 toward all these goals.  But, at least today, progress on each
 continues to hum along, and bottlenecks sure seem hard to spot.  To
-paraphrase [http://www.vpri.org/pdf/m2007007a_revolution.pdf](Alan
-Kay), the real internet revolution hasn't happened yet.
+paraphrase
+[Alan Kay](http://www.vpri.org/pdf/m2007007a_revolution.pdf), the real
+internet revolution hasn't happened yet.
 	  
 One sign of this is how many low-hanging fruit remain.  One thing that
 shocks me is that there's so little work on developing new internet
 protocols and new server and client software.  Danny Hillis once
-[http://www.edge.org/documents/digerati/Hillis.html](observed) that
+[observed](http://www.edge.org/documents/digerati/Hillis.html) that
 the web --- i.e., the http protocol --- is "the slime mold of the
 Internet".  That seems exactly right.  Sure, the web is neat.  But
 it's not as though we have well-developed distributed user interfaces.
 (Actually, that's not entirely true: online games such as World of
 Warcraft have remarkable distributed user interfaces.  But they're not
 open platforms.)  We see some work on developing new open protocols
---- things like [http://en.wikipedia.org/wiki/BitTorrent](BitTorrent)
-and [http://en.wikipedia.org/wiki/SPDY](SPDY) --- but much less than
+--- things like [BitTorrent](http://en.wikipedia.org/wiki/BitTorrent)
+and [SPDY](http://en.wikipedia.org/wiki/SPDY) --- but much less than
 I'd _a priori_ expect.
 
 **What am I trying to do in the essay?** I'm not sure.  Partially I'm
