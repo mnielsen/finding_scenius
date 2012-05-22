@@ -12,23 +12,51 @@ a notion of collective intelligence that he calls "scenius":
 > cultural scene. It is the communal form of the concept of the
 > genius."
 
+Kevin Kelly has a
+[http://www.kk.org/thetechnium/archives/2008/06/scenius_or_comm.php](stimulating
+blog post) in which he discusses what scenius is, and proposes some
+ideas about how it's nurtured:
+
+> Individuals immersed in a productive scenius will blossom and
+> produce their best work. When buoyed by scenius, you act like
+> genius. Your like-minded peers, and the entire environment inspire
+> you.
+>
+> The geography of scenius is nurtured by several factors:
+>
+> + Mutual appreciation -- Risky moves are applauded by the group,
+>   subtlety is appreciated, and friendly competition goads the
+>   shy. Scenius can be thought of as the best of peer pressure.
+>
+> + Rapid exchange of tools and techniques -- As soon as something is
+>   invented, it is flaunted and then shared. Ideas flow quickly
+>   because they are flowing inside a common language and sensibility.
+>
+> + Network effects of success -- When a record is broken, a hit
+>   happens, or breakthrough erupts, the success is claimed by the
+>   entire scene. This empowers the scene to further success.
+
+> + Local tolerance for the novelties -- The local "outside" does not
+>   push back too hard against the transgressions of the scene. The
+>   renegades and mavericks are protected by this buffer zone.
+
 As an example, conside the town of Florence in the 15th century.  At
-the time it had perhaps 100,000 inhabitants, whose number included
-Michaelangelo, Botticelli, Masaccio, Fra Angelico, Donatello, and a
-host of lesser but still great painters.
+the time it had perhaps 100,000 inhabitants.  That's a tiny number,
+but included Michaelangelo, Botticelli, Masaccio, Fra Angelico,
+Donatello, and a host of lesser but still great painters.
 
 How remarkable a clustering of painters was this?
 
 Numerical attempts to value creative work are always arguable, and I
 don't want to get caught up in arguing over details.  However, let us
-conservatively grant that several of these painters could be listed
+conservatively grant that several of these painters would be listed
 among the 100 greatest painters of all time.  For example, four of
 them appear on
 [this list](http://www.theartwolf.com/articles/most-important-painters.htm).
 A modern country of, say, 100 million inhabitants, might, if it were
-lucky, produce more than four painters of such quality during a
-century.  But it is almost inconceivable that it would produce (say)
-40 such painters.
+lucky, produce more than four painters of such quality in a century.
+But it is almost inconceivable that it would produce (say) 40 such
+painters.
 
 In other words, if you were an artist who aspired to be considered a
 great painter, you upped your chances by a factor of perhaps a
@@ -169,15 +197,69 @@ and the rich social scene.
 
 A lot of what I've said so far seems like bland truisms. Yes,
 environment matters.  Yes, being in the right place at the right time
-matters.  But they're not bland when set up against their opposites.
-Most people think great creative achievement requires supreme talent.
-But the moral of this is that it's better to be moderately talented,
-and in the right place at the right time than it is to be supremely
-talented and in the wrong place at the wrong time.  
+matters.  Everyone can trivially agree with these statements.  But
+they acquire force when contrasted with other supposely obvious
+truisms.  Most people think great creative achievement requires
+supreme talent.  But the moral of the Florence Renaissance is that
+it's better to be moderately talented and in the right place at the
+right time than it is to be supremely talented and in the wrong place
+at the wrong time.
+
+What you want: a high density of dedicated people pursuing a rich
+frontier.  And you want the size of the frontier to dwarf the number
+of people involved.
 
 # How to find scenius
 
-**Where is scenius nascent today?** I don't know where scenius is
+Where is scenius nascent today?
+
+It's tempting to think scenius must be in the high-prestige,
+fashionable, or rich fields or organizations. Just look at all the
+books and glossy magazine articles which have been written extolling
+the virtues of Google, Apple, private space ventures, and so on (fill
+in your favourite example here!)
+
+I think it's quite a bit more complicated than the laudatory publicity
+suggests.
+
+I've no doubt Google has many good or even great engineers.  But at
+the same time I doubt there are many parts of the organization which
+match the intensity of good ideas produced by Bell Labs, Xerox PARC,
+or the MIT AI Lab in their heyday.  Why is that?  And how can we find
+those places today?
+
+I think it's worth understanding
+
+One problem is that when a field becomes prestigious or fashionable,
+or a lot of money is available, then people who just want to coast
+arrive in droves.  It requires high barriers to keep those people out.
+  
+Walter Isaacson's
+[http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537](recent
+biography of Steve Jobs) makes it clear that one of Jobs's main
+functions at Apple was to act as a human barrier, either firing or
+driving away people who weren't superb at their job.  This no doubt
+had many negative consequences.  But it's also part of the reason
+Apple maintained a very good core team, despite being high prestige.
+  
+An advantage of being high prestige is that also attracts many very
+smart, very determined people will be interested in participating.
+The problem is that those people will be a tiny subset of an avalanche
+of others.  Creating a great environment will require very good
+filters, both in terms of who you accept, and in terms of who you
+drive away.
+    
+The counter-argument is that lots of very smart, very determined
+people will also be in these fields.  My gut feeling is that while
+this is true, the density becomes relatively low.  Not as low as in
+many other fields, of course, but it's not amazing: it's not Florence
+in the 1400s, or Los Alamos in the 1940s.
+
+
+What really matters: the density of people 
+
+
+I don't know where scenius is
   nascent today.  I have my suspicions.  Very interesting areas
   include: robotics, 3d-printing, energy, space, synthetic biology,
   gaming, virtual worlds, self-driving cars, augmented reality, the
@@ -196,65 +278,43 @@ talented and in the wrong place at the wrong time.
   it's all a few brilliant engineers, and everyone else is a drone.
   It's hard to know from the outside.
 
-**High-prestige, fashionable, or rich fields and organizations:** It's
-  tempting to think scenius must be in the high-prestige, fashionable,
-  or rich fields. How many books and glossy magazine articles have
-  been written about Google?  About Apple?  About private space
-  ventures?
+Celebrating the right kind of failure.
 
-  My empirical observation is that the density of stimulating people
-  to learn from in such organizations and fields is often not as high
-  as the publicity suggests.  Google no doubt has many good engineers.
-  But I wonder if there are many parts of the organization which match
-  the intensity of good ideas produced by Bell Labs, Xerox PARC, or
-  the MIT AI Lab in their heyday?
-    
-  There are multiple forces to untangle here.
-  
-  One problem is that it's relatively easy to do well in fields where
-  lots of money is available.  That makes them attractive to people
-  who want to coast.  When a field becomes prestigous or fashionable,
-  the poseurs also arrive in droves.  It requires high barriers to
-  keep them out.
-  
-  (One remarkable thing about the recent Steve Jobs biography: one of
-  Jobs's main functions at Apple was to act as a barrier, either
-  firing or drive away people who weren't superb at their job.  This
-  no doubt had many negative consequences.  But it's also part of the
-  reason Apple was able to be both high-prestige and still have a very
-  good core team.)
-  
-The counter-argument is that lots of very smart, very determined
-people will also be in these fields.  My gut feeling is that while
-this is true, the density becomes relatively low.  Not as low as in
-many other fields, of course, but it's not amazing: it's not Florence
-in the 1400s, or Los Alamos in the 1940s.
+## Is the internet still a rich frontier?
 
-**Is the internet still a frontier?** People have been saying the web
-  is over almost since the web was begun.  
+I've heard many people say that the internet is over over the past
+decade, that the great emerging frontier is clean energy, or space,
+_etc_.
+
+My instinct is that these people are wrong.  Not wrong to say that
+clean energy and space are great emerging frontiers.  But wrong to
+think.  
   
-  My instinct is that this is wrong.  
+There are huge problems that remain to be solved online.  We're a long
+way from networking every object and every event in the world.  We're
+drowning in human co-ordination problems.  We're drowning in data
+analysis problems.  And we're still a long way from artificial
+intelligence.
   
-  There are huge problems that remain to be solved.  We're a long way
-  from every object and every event in the world being networked; we
-  are drowning in co-ordination problems; we're drowning in data
-  analysis problems; we're a long way from artificial intelligence.
-  
-  Maybe there's insurmountable bottlenecks that will stop progress
-  toward all these goals.  But if that's the case, then those
-  bottlenecks sure seem invisible today, and progress continues to hum
-  away.
-    
-  Indeed, there's many still many low-hanging fruit.  One thing that
-  shocks me is that there's so little work on new internet protocols
-  and new server and client software.  Danny Hillis once
-  [http://www.edge.org/documents/digerati/Hillis.html](observed)
-  observed that the web --- i.e., the http protocol --- is "the slime
-  mold of the Internet", and that seems exactly right.  We see some
-  work on developing new open protocols --- things like
-  [http://en.wikipedia.org/wiki/BitTorrent](BitTorrent) and
-  [http://en.wikipedia.org/wiki/SPDY](SPDY) --- but much less than I'd
-  _a priori_ expect.
+Maybe there's insurmountable bottlenecks that will stop progress
+toward all these goals.  But, at least today, progress on each
+continues to hum along, and bottlenecks sure seem hard to spot.  To
+paraphrase [http://www.vpri.org/pdf/m2007007a_revolution.pdf](Alan
+Kay), the real internet revolution hasn't happened yet.
+	  
+One sign of this is how many low-hanging fruit remain.  One thing that
+shocks me is that there's so little work on developing new internet
+protocols and new server and client software.  Danny Hillis once
+[http://www.edge.org/documents/digerati/Hillis.html](observed) that
+the web --- i.e., the http protocol --- is "the slime mold of the
+Internet".  That seems exactly right.  Sure, the web is neat.  But
+it's not as though we have well-developed distributed user interfaces.
+(Actually, that's not entirely true: online games such as World of
+Warcraft have remarkable distributed user interfaces.  But they're not
+open platforms.)  We see some work on developing new open protocols
+--- things like [http://en.wikipedia.org/wiki/BitTorrent](BitTorrent)
+and [http://en.wikipedia.org/wiki/SPDY](SPDY) --- but much less than
+I'd _a priori_ expect.
 
 **What am I trying to do in the essay?** I'm not sure.  Partially I'm
   just exploring a fascinating phenomenon for anyone interested in
@@ -394,10 +454,28 @@ about these issues.
 
 # Notes
 
-**Feedback:** Michaelangelo at some point must have realized that he
-  had an opportunity to be one of the great artists of all time.  That
-  would have motivated him to work far harder.  The best way to sail
-  confidently is with a wind at your back.
+Charactersistics:
+
+A **high density** of dedicated people.  As I've argued above, they
+don't need to be supremely talented, but they must be dedicated, and
+ambitious to accomplish a lot.  Michaelangelo wasn't coasting.
+
+A frontier that is large and rich, relative to the number.  If there
+are just a few
+
+Ownership at the edges, not at the center.  I think it matters that
+things like Unix and C were produced by XXX, not by "Bell Labs".
+
+
+
+
+
+**Feedback effects:** Michaelangelo at some point must have realized
+  that he had an opportunity to be one of the great artists of all
+  time.  That would have motivated him to work far harder.  How much
+  harder did Michael Jordan practice at basketball once he realized he
+  had it in him to be one of the great basketballers?  The best way to
+  sail confidently is with a wind at your back.
 
 **Phil Agre:** The information scientist Phil Agre has proposed an
   interesting way to identify important emerging fields. He suggested
