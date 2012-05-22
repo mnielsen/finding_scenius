@@ -167,11 +167,94 @@ adopt this broader notion of scenius.  I'll still occasionally find it
 helpful to break out both components of scenius --- the rich frontier
 and the rich social scene.
 
+A lot of what I've said so far seems like bland truisms. Yes,
+environment matters.  Yes, being in the right place at the right time
+matters.  But they're not bland when set up against their opposites.
+Most people think great creative achievement requires supreme talent.
+But the moral of this is that it's better to be moderately talented,
+and in the right place at the right time than it is to be supremely
+talented and in the wrong place at the wrong time.  
 
 # How to find scenius
 
-_At this point these really do turn into disconnected notes.  Still, I
-hope they each make sense individually._
+**Where is scenius nascent today?** I don't know where scenius is
+  nascent today.  I have my suspicions.  Very interesting areas
+  include: robotics, 3d-printing, energy, space, synthetic biology,
+  gaming, virtual worlds, self-driving cars, augmented reality, the
+  maker and DIY movements.
+  
+  Most probably it's in areas edgier than any of these, areas I've
+  never heard of.
+
+  But identifying promising subject areas is not the same as
+  identifying high-concentration communities doing great work.
+  
+  Part of the problem is public relations.  It's easy to be wowed by
+  the pubicity coming from an organization such as SpaceX.  And maybe
+  it really is a great place, a place that is enabling its engineers
+  and scientists to grow by leaps and bounds.  Equally well, maybe
+  it's all a few brilliant engineers, and everyone else is a drone.
+  It's hard to know from the outside.
+
+**High-prestige, fashionable, or rich fields and organizations:** It's
+  tempting to think scenius must be in the high-prestige, fashionable,
+  or rich fields. How many books and glossy magazine articles have
+  been written about Google?  About Apple?  About private space
+  ventures?
+
+  My empirical observation is that the density of stimulating people
+  to learn from in such organizations and fields is often not as high
+  as the publicity suggests.  Google no doubt has many good engineers.
+  But I wonder if there are many parts of the organization which match
+  the intensity of good ideas produced by Bell Labs, Xerox PARC, or
+  the MIT AI Lab in their heyday?
+    
+  There are multiple forces to untangle here.
+  
+  One problem is that it's relatively easy to do well in fields where
+  lots of money is available.  That makes them attractive to people
+  who want to coast.  When a field becomes prestigous or fashionable,
+  the poseurs also arrive in droves.  It requires high barriers to
+  keep them out.
+  
+  (One remarkable thing about the recent Steve Jobs biography: one of
+  Jobs's main functions at Apple was to act as a barrier, either
+  firing or drive away people who weren't superb at their job.  This
+  no doubt had many negative consequences.  But it's also part of the
+  reason Apple was able to be both high-prestige and still have a very
+  good core team.)
+  
+The counter-argument is that lots of very smart, very determined
+people will also be in these fields.  My gut feeling is that while
+this is true, the density becomes relatively low.  Not as low as in
+many other fields, of course, but it's not amazing: it's not Florence
+in the 1400s, or Los Alamos in the 1940s.
+
+**Is the internet still a frontier?** People have been saying the web
+  is over almost since the web was begun.  
+  
+  My instinct is that this is wrong.  
+  
+  There are huge problems that remain to be solved.  We're a long way
+  from every object and every event in the world being networked; we
+  are drowning in co-ordination problems; we're drowning in data
+  analysis problems; we're a long way from artificial intelligence.
+  
+  Maybe there's insurmountable bottlenecks that will stop progress
+  toward all these goals.  But if that's the case, then those
+  bottlenecks sure seem invisible today, and progress continues to hum
+  away.
+    
+  Indeed, there's many still many low-hanging fruit.  One thing that
+  shocks me is that there's so little work on new internet protocols
+  and new server and client software.  Danny Hillis once
+  [http://www.edge.org/documents/digerati/Hillis.html](observed)
+  observed that the web --- i.e., the http protocol --- is "the slime
+  mold of the Internet", and that seems exactly right.  We see some
+  work on developing new open protocols --- things like
+  [http://en.wikipedia.org/wiki/BitTorrent](BitTorrent) and
+  [http://en.wikipedia.org/wiki/SPDY](SPDY) --- but much less than I'd
+  _a priori_ expect.
 
 **What am I trying to do in the essay?** I'm not sure.  Partially I'm
   just exploring a fascinating phenomenon for anyone interested in
@@ -216,90 +299,42 @@ hope they each make sense individually._
   Torvalds' comment sums up the attitude many technical people have
   about books on "soft" human-centred subjects, like how to live your
   life.  We don't have a science which answers questions such as how
-  to spend one's time, how to deal with your spouse, and so on.  Of
-  course, such questions still matter, and so self-help books such as
-  Covey's rack up millions of sales.
+  to spend one's time, how to deal with your spouse, and so on.  But
+  such questions still matter, and so self-help books rack up millions
+  of sales.
   
-  Intellecturals sneer at such books as witch-doctory, but they _can't
-  point to obviously superior solutions_.  There have been attempts by
-  psychologists to colonize this field --- many write books using the
-  fact that they're REAL SCIENCE as a marketing credential --- but the
-  results are often oversold, the evidence and reasoning flimst.  In
-  one or two hundred years I expect we'll genuinely _know_ a lot about
-  these sorts of questions.  But for now, these "scientific" self-help
-  books don't seem so much more trustworthy to me than any other.
+  Many in the intellectual elite sneer at such books as witch-doctory.
+  But, and here's the rub, they _can't point to obviously superior
+  solutions_.  There have been attempts by psychologists to colonize
+  this field --- many write books using the fact that they're REAL
+  SCIENCE as a marketing credential --- but the results are often
+  oversold, the evidence and reasoning flimsy.  In one or two hundred
+  years I expect we'll genuinely _know_ a lot about these sorts of
+  questions.  But for now, the "scientific" self-help books seem
+  little more trustworthy than any other.
        
   The problem is that just because we don't have a science of how to
   live, doesn't mean we get to opt out of questions like how to live a
   happy and interesting life.  The right question isn't whether Covey
   and his ilk are witch doctors.  Rather, when you only have witch
-  doctors to choose from, you want to make darn sure you find the
-  best.
+  doctors to choose from, you want to make darn sure you find the best
+  witch doctor available.
       
   (Parenthetically, I've occasionally talked to the intellectual
   sneerers. I've noticed a few odd things.  When discussing questions
   like how to choose work, they'll often make extremely
   black-and-white statements supporting some obvious conventionalism.
-  When pushed on _why_ they believe those things, they often respond
-  with sneers, or with flimsy or non-existent evidence.  Their
-  commitment to evidence is often thin, disguising a discomfort with
-  how to deal with not knowing.)
+  When pushed on _why_ they believe those things, they respond with
+  flimsy or non-existent evidence.  Their commitment to evidence is
+  often thin, disguising an inability to deal with not knowing.)
     
   In any case this essay deals with such soft issues, and because of
   that is making me feel some discomfort in talking publicly about
   such issues.  I feel the need to be bulletproof in my discussion,
-  when of course that is not feasible.  This kind of thing is
-  necessarily speculative.
+  when of course is not feasible.  This kind of thing is necessarily
+  speculative.
 
-**Where is scenius nascent today?** I don't know where scenius is
-  nascent today.  I have speculations: maybe it's in robotics, in
-  energy, in space, in 3d-printing, in synthetic biology, in gaming,
-  in virtual worlds, in self-driving cars, in augmented reality, or in
-  the maker movement.  Probably it's in areas edgier than any of
-  these, areas I've never heard of.
-    
-  But identifying promising subject areas is not the same as
-  identifying high-concentration communities already doing great work,
-  or which (even better) will soon start to do great work.
-    
-  Part of the problem is public relations.  It's easy to look at the
-  pubicity coming from an organization like SpaceX --- XXX, wow!  Any
-  maybe it really is a great place, a place that is enabling its
-  engineers and scientists to grow by leaps and bounds.  Equally well,
-  maybe it's all a few brilliant engineers, and everyone else is a
-  drone.  I don't know.
   
-**High-prestige, fashionable, or rich fields and organizations:** You
-  see many magazine articles, books written about fashionable fields:
-  the web, energy, space, and so on.  And you see lots about
-  organizations such as Google, SpaceX, the MIT Media Lab, and others.
-  My empirical observation is that the density of stimulating people
-  to learn from in these fields and organizations is often not as high
-  as publicity suggests.  Sometimes, it's quite low.  A possible
-  reason is that these are fields in which it is relatively easy to do
-  well, and so attractive to lots of people who want to coast.  When
-  money is pouring into a field, so will the people who just want to
-  take the easy way.  When prestige or fashionability is pouring into
-  a field, so too will the poseurs.
-
-The counter-argument is that lots of very smart, very determined
-people will also be in these fields.  My gut feeling is that while
-this is true, the density becomes relatively low.  Not as low as in
-many other fields, of course, but it's not amazing: it's not Florence
-in the 1400s, or Los Alamos in the 1940s.
-
-**Is the internet still a frontier?** People have been saying the web
-  is over almost since the web was begun.  My instinct is that this is
-  wrong.  Think about te huge problems that remain to be solved: we're
-  a long way from every object and every event in the world being
-  networked; we are drowning in co-ordination problems; we're drowning
-  in data analysis problems; we're a long way from artificial
-  intelligence.  Maybe there's insurmountable bottlenecks that will
-  stop progress toward all these goals.  But I'd be surprised.  One
-  thing that shocks me especially: there's so little work on new
-  internet protocols and new clients.  Danny Hillis made the
-  observation that the web --- i.e., the http protocol --- is the
-  "slime mold of the internet", and that seems exactly right.
 
 
 **A corollary to the above is to look for communities that are held
@@ -458,11 +493,6 @@ about these issues.  Questions like "how to choose where you work" or
   thinking .  It's an old observation that there is no democracy of
   talent.  More important, to my mind.
 
-**Problem: Many of the notions at the start seem bland:** They are
-  only bland when not set up in opposition to their opposites.  E.g.,
-  it may seem trite to acknowledge the role of others.  But it's
-  really an assertion that innate talent just doesn't matter that
-  much.
 
 **The talent myth:** This idea of talent just seems utterly
   destructive.  If Michaelangelo had grown up in Waterloo, he'd be a
@@ -470,3 +500,4 @@ about these issues.  Questions like "how to choose where you work" or
   regarded as remarkable, and forgotten by history.
 
  
+**What's wrong with the first half?**
