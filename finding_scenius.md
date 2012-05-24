@@ -328,9 +328,10 @@ they're willing to live this way, pushing the frontier of climbing.
   case there were major frontiers on which it had become possible to
   make rapid progress.
 
+_As an experiment I drafted this essay on GitHub.  You can find the
+repository [here](https://github.com/mnielsen/finding_scenius)_
 
-## Appendix: Isn't it a waste of time to talk about these silly, soft
-## things?
+## Appendix: Isn't it a waste of time to talk about these silly, soft things?
 
 There's a best-selling self-help book by Steven Covey entitled "The
 Seven Habits of Highly Effective People".  It's about what you'd
@@ -344,40 +345,38 @@ in no uncertain terms:
   
 Torvalds's comment illustrates the attitude many technical people have
 about discussions of "soft" human-centred subjects.  And I'm acutely
-aware that the current essay on scenius fits this bill just as much as
-do the subjects of books such as Covery's.  We don't yet have a
-science which answers questions such as how to spend one's time, how
-to deal with your spouse, how to create a great creative scene, and so
-on.  But such questions still matter, and so self-help books rack up
-millions of sales.
+aware that this essay fits this bill just as much as do books such as
+Covery's.  We don't yet have a science which answers questions such as
+how to live an effective and meaningful life, how to create a great
+creative scene, and so on.  But such questions still matter, and so
+self-help books and essays rack up sales and pageviews.
   
 Many in the intellectual elite sneer at such self-help as
 witch-doctory.  "It's not real science", they say.  True.  But, and
 here's the rub, they _can't point to obviously superior solutions_.
-And the problem is that just because we don't yet have a good science
-of how to live, doesn't mean we get to opt out of questions like how
-to live a happy and interesting life.  The right question isn't
-whether Covey and his ilk are witch doctors.  Rather, when you only
-have witch doctors to choose from, you want to make darn sure you find
-the best witch doctor available.
+And just because we don't yet have a good science of these questions
+doesn't mean we get to opt out of answering them.  The right question
+isn't whether Covey and his ilk are witch doctors.  Rather, when you
+only have witch doctors to choose from, you want to make darn sure you
+find the best witch doctor available.
 
-This phenomenon has led to something interesting: psychologists are
-colonzizing self-help, writing books using the fact that they're REAL
-SCIENCE as a marketing credential.  Unfortunately, the results are
-often oversold, the evidence and reasoning little better than in any
-other books.  In another century or two I expect we'll genuinely
-_know_ a lot about these sorts of questions.  But for now, the
-"scientific" self-help books seem little more trustworthy than any
-other.  We're stuck trying to find high quality witch doctors,
-regardless of whether they have PhDs, MDs, or simply a charismatic
-personality and writing style.
+This phenomenon has led to something interesting: psychologists and
+sociologists are colonizing self-help, writing books making much of
+the fact that they're REAL SCIENCE as a marketing credential.
+Unfortunately, the results are often oversold, the evidence and
+reasoning little better than in any other books.  In another century
+or two I expect we'll genuinely _know_ a lot about these sorts of
+questions.  But for now, the "scientific" self-help books seem little
+more trustworthy than any other.  We're stuck trying to find high
+quality witch doctors, regardless of whether they have PhDs, MDs, or
+simply a charismatic personality and writing style.
 
 For all these reasons I was somewhat hesitant to write this essay.
 I'm well aware that we're still at the stage of just-so stories in
 understanding things like scenius.  Still, I believe that it's worth
-thinking hard about, no matter how imperfect and uncertain the results
-may be.  Just because a question is difficult is no reason to refrain
-from attempting to answer it.
+thinking hard about these questions, no matter how imperfect and
+uncertain the results may be.  Just because a question is difficult is
+no reason to refrain from attempting to answer it.
 
 ## Appendix: Was Florence a statistical fluke?
 
@@ -545,6 +544,44 @@ fences and succeed.
 
 
 
+
+
+**What should I actually do?** Maybe write a series of articles.
+  Frankly, I think it's actually.  Maybe more agressively link.  Ask
+  people for their ideas of where scenius is to be found?  I think
+  there's that alternating series.  Go into fields where you are a
+  learner.  Look for young people to learn from.  Older creative
+  people suffer a form of the sunk cost fallacy: they continue to work
+  in creative fields, even when those fields are no longer as exciting
+  as frontiers.  There's a widespread suspicion that older people
+  aren't as creative.  I don't think that's becase they're old.  I
+  think it's in part because of the sunk cost fallacy, regression
+  toward the mean, and, most important negativ network externalities.
+  
+Things which bug me:
+
+**The tension between exploration and deep work:** Very few people are
+  good at finding scenius.  And to do so they need to explore a lot.
+  They become journalists --- like the people working on the Whole
+  Earth Catalog.  And there's a real tension between such exploration
+  and doing deep creative work.  Do I really believe this?  Brand and
+  several of the other Whole Earthers have done deep work.  Maybe it's
+  a question of alternating.  Maybe you spend some time doing a
+  "reconaissance in force" of several areas, writing articles, doing
+  interviews, trying to find the interesting edges.  And then you pick
+  a deep project to commit to, something that will take a few years.
+  I think it was Chandrasekhar who said that it took two years to do
+  significant work, so he kept changing fields every two years, and
+  then picking some new and important problem to be working on.  I
+  seem to recall Brand saying something similar.
+
+**WOndering whether my horizons are broad enough?**  Maybe 
+
+**Either commit to exploring full out.  Or else make a commitment to
+  doing deep work in some area.**
+
+# Notes
+
 There's a lot to be said about the characteristics are of scenius.
 
 + **A high density of dedicated people:** As I've argued above, they
@@ -587,7 +624,8 @@ structure: they're mini-essays that didn't fit into .  I could have
 spun them out into separate blog posts, but
 
 
-# Notes
+
+
 
 "I look to the edges to see where the center is going."
 
@@ -620,19 +658,6 @@ I don't know how Brand did this.  But I'll bet it helped that he ran
 the Whole Earth Catalog.  It's purpose was pretty much to _find_ the
 most interesting stuff going on.
 
-**The tension between exploration and deep work:** Very few people are
-  good at finding scenius.  And to do so they need to explore a lot.
-  They become journalists --- like the people working on the Whole
-  Earth Catalog.  And there's a real tension between such exploration
-  and doing deep creative work.  Do I really believe this?  Brand and
-  several of the other Whole Earthers have done deep work.  Maybe it's
-  a question of alternating.  Maybe you spend some time doing a
-  "reconaissance in force" of several areas, writing articles, doing
-  interviews, trying to find the interesting edges.  And then you pick
-  a deep project to commit to, something that will take a few years.
-  I think it was Chandrasekhar who said that it took two years to do
-  significant work, so he kept changing fields every two years, and
-  then picking some new and important problem to be working on.
 
 **Prestige and fashion:** One problem is that when a field becomes
 prestigious or fashionable, or a lot of money is available, then
@@ -749,14 +774,6 @@ of people involved.
 **Academia?**
 
 **Public intellectualism**
-
-**What should I actually do?** Maybe write a series of articles.
-  Frankly, I think it's actually.  Maybe more agressively link.  Ask
-  people for their ideas of where scenius is to be found?  I think
-  there's that alternating series.  Go into fields where you are a
-  learner.  Look for young people to learn from --- they don't suffer
-  so much either from the sunk cost fallacy, or from bad network
-  effects.
 
 **However, there may still be identifiable sub-veins within those
   locations:** This is an interesting question.  Going in an _ad hoc_
