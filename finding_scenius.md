@@ -1,4 +1,4 @@
-<!-- 3032 words -->
+<!-- 3809 words -->
 
 # Finding scenius
 
@@ -458,6 +458,9 @@ but there's much less than I'd _a priori_ expect.
   artist) than if all he could hope for was to be a well-known local
   artist.  The best way to sail is with the wind at your back.
 
+[*] I've been unable to track down a source for this.  I believe Brand
+said it in conversation with Marvin Minsky, but don't recall where.
+
 # Acknowledgements
 
 Thanks to [Jen Dodd](http://jendodd.com),
@@ -468,18 +471,20 @@ about these issues.
 
 # Attempt
 
-"I look at the edge to see where the center is going." --- S. Brand
-(one of our great scenius detectors).
+> _I look at the edge to see where the center is going._ --
+> [Stewart Brand](http://en.wikipedia.org/wiki/Stewart_Brand) [*], one
+> of our best scenius hounds.
 
-I'm interested in this for an intensely personal reason.  I'm
-exploring new projects at the moment, and so I'm thinking about how to
-commit to good, fun projects.  Scenius isn't my only criterion, but
-it's definitely on my mind.  All other things being equal, I'd rather
-work in a fantastic environment that will buoy me up, and also be
-working on the right stuff at the right time.
+I'm interested in scenius for an intensely personal reason.  I'm
+exploring new projects, and so I'm thinking about how to find good,
+fun projects to work on.  Scenius isn't my only criterion, but it's on
+my mind.  All other things being equal, I'd rather work at a rich,
+underpopulated frontier, in a fantastic environment that will buoy me
+up, that will make me smarter.
  
 So I'm asking myself the question: where is scenius nascent today?
-And one thing I'e realized is that I'm not very happy with my answers.
+And one thing I've realized is that I don't have more than a vague
+idea of the answer.
   
 Sure, I know of many emerging fields that are interesting.  A partial
 list, in no particular order, includes 3d printing, synthetic biology,
@@ -490,21 +495,57 @@ are also corners of big data, machine learning and programming
 language design that are interesting.
   
 But looking at that list, most of the things on it are pretty
-mainstream.  Going mainstream dilutes scenius.  People rush in as
-money and prestige become available.  This increases the density of
-people who just want to coast, and decreases the density of the truly
-dedicated.  Meanwhile, the scope of the frontier --- of the adjacent
-possible, in Stephen Johnson's great phrase --- expands far more
-slowly than the inrush of people. People sense that their piece of the
-creative pie is becoming smaller, even as their access to resources
-increases; they become less willing to share.  Once an idea has
-appeared on ted.com, it's no longer at the edge, it's moving toward
-the middle.
+mainstream.  Once an idea has appeared on ted.com, it's no longer at
+the edge, it's moving toward the middle.  And going mainstream dilutes
+scenius.  People rush in as money and prestige become available.  This
+increases the density of several types of people: people who just want
+to coast, riding the coattails of pioneers; people whose main interest
+is money and prestige; and people who only work on the conventional.
+None of these promotes scenius.  Meanwhile, the scope of the frontier
+--- of the
+[adjacent possible](http://online.wsj.com/article/SB10001424052748703989304575503730101860838.html),
+in Stephen Johnson's wonderful useage --- expands far more slowly than
+the inrush of people. People sense that their piece of the creative
+pie is becoming smaller, even as their access to resources increases.
+They become more competitive, less willing to boost others up.
 
-A particularly pernicious form of this is...
+A particularly pernicious form of this is our cultural obsession with
+high-prestige, fashionable, or rich fields and organizations.
 
-There's a lot to be said about what the characteristics are of
-scenius.
+Just look at all the books and glossy magazine articles which have
+been written extolling the virtues of Google, private space ventures,
+Apple, open education, and so on -- you can fill in your own examples
+here!  If you believe what's written these fields and organizations
+are creative nirvana.
+
+I think it's quite a bit more complicated than the laudatory publicity
+suggests.
+
+I've no doubt Google, say, has many good and even great engineers.
+But at the same time I doubt there are more than few small parts of
+the organization today which match the intensity of good ideas
+produced by Bell Labs, Xerox PARC, and the MIT AI Lab in their heyday.
+In the early days, no question --- Google was a relatively small
+company which produced search, gmail, fundaental systems for
+distributed computing.  But today, even as Google has grown by orders
+of magnitude, the rate of major innovations has not correspondingly
+increased.  Their success has created a major inrush of people into
+the company, and made it a fashionable, high-prestige place to be.
+But most of those people are working to maintain and incrementally
+improve what GOogle already does.  And so the density of scenius
+across the company has inevitably decreased.
+
+An interesting question is whether there are corners of the company
+which are just as remarkable as the early Google?  I don't know.  But
+events such as Google Wave's failure are encouraging.  It was a huge,
+swing-for-the-fences idea that contained a lot of good ideas, and
+arguably very nearly worked.  If Google continues developing such
+ideas, then it seems likely to me that they'll sometimes swing for the
+fences and succeed.
+
+
+
+There's a lot to be said about the characteristics are of scenius.
 
 + **A high density of dedicated people:** As I've argued above, they
   don't need to be supremely talented, but they must be dedicated, and
@@ -546,8 +587,6 @@ structure: they're mini-essays that didn't fit into .  I could have
 spun them out into separate blog posts, but
 
 
-
-
 # Notes
 
 "I look to the edges to see where the center is going."
@@ -568,10 +607,10 @@ there are good reasons that the more mainstream an idea becomes, the
 less scenius is involved.  Once an idea has appeared on ted.com, it's
 no longer at the edge, it's moving toward the middle.
   
-Some people have amazing scenius radar.  Consider Stewart
-Brand. Here's a list of fields, institutions and people he identified
-_before_ they became famous: Doug Engelbart, LSD, ecology, the
-Grateful Dead, Xerox PARC, Paul Ehrlich, the hippy movement.  That
+**Scenius radar:** Some people have amazing scenius radar.  Consider
+Stewart Brand. Here's a list of fields, institutions and people he
+identified _before_ they became famous: Doug Engelbart, LSD, ecology,
+the Grateful Dead, Xerox PARC, Paul Ehrlich, the hippy movement.  That
 list could be continued almost _ad infinitum_; over the last fifty
 years if you wanted to know "What's interesting?" then you could do a
 lot worse than answer "Whatever Stewart Brand is paying attention to
@@ -581,18 +620,32 @@ I don't know how Brand did this.  But I'll bet it helped that he ran
 the Whole Earth Catalog.  It's purpose was pretty much to _find_ the
 most interesting stuff going on.
 
-The Whole Earth Catalog is no longer with us.  But there are people
-who aggregate interesting items.  
-
-**So what?**
-
-
 **The tension between exploration and deep work:** Very few people are
   good at finding scenius.  And to do so they need to explore a lot.
-  And there's a real tension between such exploration and doing deep
-  creative work.
-  
+  They become journalists --- like the people working on the Whole
+  Earth Catalog.  And there's a real tension between such exploration
+  and doing deep creative work.  Do I really believe this?  Brand and
+  several of the other Whole Earthers have done deep work.  Maybe it's
+  a question of alternating.  Maybe you spend some time doing a
+  "reconaissance in force" of several areas, writing articles, doing
+  interviews, trying to find the interesting edges.  And then you pick
+  a deep project to commit to, something that will take a few years.
+  I think it was Chandrasekhar who said that it took two years to do
+  significant work, so he kept changing fields every two years, and
+  then picking some new and important problem to be working on.
 
+**Prestige and fashion:** One problem is that when a field becomes
+prestigious or fashionable, or a lot of money is available, then
+people who just want to coast arrive in droves.  It requires high
+barriers to keep those people out.
+  
+**Jobs and high barriers:** Walter Isaacson's
+[recent biography of Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
+makes it clear that one of Jobs's main functions at Apple was to act
+as a human barrier, either firing or driving away people who weren't
+superb at their job.  This no doubt had many negative consequences.
+But it's also part of the reason Apple maintained a very good core
+team, despite being high prestige.
 
 **Open, but with high standards:** Anyone can join.  But they may have
   to pay a price.  Furthermore, their work will ultimately be judged
@@ -603,25 +656,61 @@ who aggregate interesting items.
   you frequently hear people's work being criticised on the grounds
   that "It's not foo fizzle pop", where "foo fizzle pop" seems only
   meaningful to insiders.
-  
-**The right types of failure are encouraged:**
 
-Ownership at the edges, not at the center.  I think it matters that
-things like Unix and C were produced by XXX, not by "Bell Labs".
+**Open, but with ruthless standards:** Or maybe the right way of
+  thinking.  It's an old observation that there is no democracy of
+  talent.  More important, to my mind, is that there there's no
+  democracy of...
+
+**Advantage of being high prestige:** An advantage of being high
+prestige is that also attracts many very smart, very determined people
+will be interested in participating.  The problem is that those people
+will be a tiny subset of an avalanche of others.  Creating a great
+environment will require very good filters, both in terms of who you
+accept, and in terms of who you drive away.
+    
+The counter-argument is that lots of very smart, very determined
+people will also be in these fields.  My gut feeling is that while
+this is true, the density becomes relatively low.  Not as low as in
+many other fields, of course, but it's not amazing: it's not Florence
+in the 1400s, or Los Alamos in the 1940s.
+
+**I there really anything at all to the notion of scenius?** Even the
+  term sounds kind of vague and wishy-washy.  It also has the problem
+  that for most people it's not very concrete.  They've never had the
+  experience. They don't know what it feels like to be inside a
+  fantastic scene.  Richard Feynman's story of running into Max
+  Delbruck(?), and why he stayed at Caltech.
+
+**The right types of failure are encouraged:** This is just an
+  instinctive comment.  I feel like some types of failure are
+  punished, while others are rewarded.  When a scene is still small,
+  people know each other.  They know when someone is a foolish dreamer
+  with low standards, and when someone is a smart dreamer who holds
+  themself to high standards.  And the latter will be forgiven when
+  they come up short.  Indeed, they may even be celebrated.  And, in
+  moderation, that's not a bad thing.
+    
+**Ownership at the edges, not at the center:** I suspect it matters
+that things like Unix and C were produced by XXX, not by "Bell Labs".
+
+
+
+**The characteristics of scenius:** Kelly has a list.  It's mismatched
+  to mine, since he has a different conception of scenius.  I'd change
+  his list anyway.  But for my approach, which splits scenius into two
+  pieces, a different type of list is needed anyway.
+  
+  
+**Choose a rich, underpopulated frontier.  And then find a community
+where very smart people are helping one another open that frontier.**
+A difficult balancing act then ensues.  You need to both learn as much
+as possible from those people, but also to begin developing your own
+identity.
 
 What you want: a high density of dedicated people pursuing a rich
 frontier.  And you want the size of the frontier to dwarf the number
 of people involved.
-
-
-Incidentally, I suspect that this at le
-
-**The characteristics of scenius:**
-
-Kelly's list:
-
-Can split up into two types.  
-
 
 **Phil Agre:** The information scientist Phil Agre has proposed an
   interesting way to identify important emerging fields. He suggested
@@ -653,12 +742,27 @@ Can split up into two types.
   money to do it (or both).  This causes an inrush of poseurs and
   9-to-5ers.  
 
-**However, there may still be identifiable sub-veins within those
-  locations:**
+**What about the developing world?**
 
-**Is Google an example of scenius?** Maybe there are places inside
-  Google where that's true.
-  
+**What about ideas outside this narrow set?** I'm painfully aware 
+
+**Academia?**
+
+**Public intellectualism**
+
+**What should I actually do?** Maybe write a series of articles.
+  Frankly, I think it's actually.  Maybe more agressively link.  Ask
+  people for their ideas of where scenius is to be found?  I think
+  there's that alternating series.  Go into fields where you are a
+  learner.  Look for young people to learn from --- they don't suffer
+  so much either from the sunk cost fallacy, or from bad network
+  effects.
+
+**However, there may still be identifiable sub-veins within those
+  locations:** This is an interesting question.  Going in an _ad hoc_
+  fashion to the big, fashionable places doesn't work.  But maybe if
+  you have inside information, you can find great, innovative groups
+  inside an organization or field.
 
 **It doesn't come out of companies:** I wonder. Many of
   Michaelangelo's greatest works were, of course, produced on
@@ -707,10 +811,3 @@ other studios have.
   friendly with one another, and supporting one another.
 
 
-**OPen, but with ruthless standards:** Or maybe the right way of
-  thinking .  It's an old observation that there is no democracy of
-  talent.  More important, to my mind.
-
-**What's wrong with the first half?**
-
-**Celebrating the right kind of failure.**
