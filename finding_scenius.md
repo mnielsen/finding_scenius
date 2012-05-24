@@ -590,8 +590,17 @@ Things which bug me:
   possibilites in the adjacent possible.  Should the scene come first,
   or the project idea?
 
-**Either commit to exploring full out.  Or else make a commitment to
+**Either commit to exploring full out, or else make a commitment to
   doing deep work in some area.**
+  
+
+
+
+**Scenius and the adjacent possible:** Stephen Johnson has this great
+  idea of the adjacent possible.  It's the idea ...  What really
+  distinguishes scenius is that the adjacent possible has tremendously
+  opened up.  A way of identifying scenius is to ask "Is the adjacent
+  possible tremendously exciting?"
 
 # Notes
 
