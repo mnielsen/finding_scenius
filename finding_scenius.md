@@ -193,13 +193,12 @@ it's better to be moderately talented and in the right place at the
 right time than it is to be supremely talented and in the wrong place
 at the wrong time.  
 
-In a sense, I think this over-emphasis we have on talent is utterly
-destructive.  It's not a myth, exactly --- there are certainly
-different levels of talent.  But we overemphasize it at the expense of
-other, more important things.  If Michaelangelo had grown up in a
-Florence-sized town day, he'd be a well-known local artist, admired
+In a sense, I think this over-emphasis we have on talent is
+destructive.  It's not a myth --- different people do have different
+levels of talent.  But we overemphasize talent at the expense of
+other, more important things.  If Michaelangelo had grown up today in
+a Florence-sized town, he'd be a well-known local artist, admired
 within a small sphere, but forgotten by history [1].
-
   
 # How to find scenius
 
@@ -252,23 +251,6 @@ in the 1400s, or Los Alamos in the 1940s.
 What really matters: the density of people 
 
 
-I don't know where scenius is nascent today.  I have my suspicions.
-  Very interesting areas include: robotics, 3d-printing, energy,
-  space, synthetic biology, gaming, virtual worlds, self-driving cars,
-  augmented reality, the maker and DIY movements.
-  
-  Most probably it's in areas edgier than any of these, areas I've
-  never heard of.
-
-  But identifying promising subject areas is not the same as
-  identifying high-concentration communities doing great work.
-  
-  Part of the problem is public relations.  It's easy to be wowed by
-  the pubicity coming from an organization such as SpaceX.  And maybe
-  it really is a great place, a place that is enabling its engineers
-  and scientists to grow by leaps and bounds.  Equally well, maybe
-  it's all a few brilliant engineers, and everyone else is a drone.
-  It's hard to know from the outside.
 
 
 
@@ -331,7 +313,7 @@ they're willing to live this way, pushing the frontier of climbing.
 _As an experiment I drafted this essay on GitHub.  You can find the
 repository [here](https://github.com/mnielsen/finding_scenius)_
 
-## Appendix: Isn't it a waste of time to talk about these silly, soft things?
+## Appendix: Isn't it a waste of time to talk about these squishy, vague ideas?
 
 There's a best-selling self-help book by Steven Covey entitled "The
 Seven Habits of Highly Effective People".  It's about what you'd
@@ -471,22 +453,22 @@ about these issues.
 # Attempt
 
 > _I look at the edge to see where the center is going._ --
-> [Stewart Brand](http://en.wikipedia.org/wiki/Stewart_Brand) [*], one
-> of our best scenius hounds.
+> [Stewart Brand](http://en.wikipedia.org/wiki/Stewart_Brand) [*],
+> eagle-eyed scenius hunter.
 
-I'm interested in scenius for an intensely personal reason.  I'm
-exploring new projects, and so I'm thinking about how to find good,
-fun projects to work on.  Scenius isn't my only criterion, but it's on
-my mind.  All other things being equal, I'd rather work at a rich,
-underpopulated frontier, in a fantastic environment that will buoy me
-up, that will make me smarter.
+I'm interested in scenius for an intensely personal reason.  I
+recently completed a major, years-long project, and so I'm searching
+for good, new projects to work on.  Of course, scenius isn't my only
+criterion, but it's on my mind.  All other things being equal, I'd
+rather work on a project at a rich, underpopulated frontier, in a
+fantastic environment that will buoy me up.
  
 So I'm asking myself the question: where is scenius nascent today?
 And one thing I've realized is that I don't have more than a vague
-idea of the answer.
+idea of where scenius is nascent today.
   
-Sure, I know of many emerging fields that are interesting.  A partial
-list, in no particular order, includes 3d printing, synthetic biology,
+Sure, I know of many interesting emerging fields.  A partial list, in
+no particular order, includes 3d printing, synthetic biology,
 connectomics, gaming and virtual worlds, open science, robotics,
 self-driving cars, space, augmented reality, wearable computing,
 online education, cognitive tools, the maker and DIY movements.  There
@@ -495,13 +477,16 @@ language design that are interesting.
 
 But looking at that list, most of the things on it are pretty
 mainstream.  Once an idea has appeared on ted.com, it's no longer at
-the edge, it's moving toward the middle.  And going mainstream dilutes
-scenius.  People rush in as money and prestige become available.  This
-increases the density of several types of people: people who just want
-to coast, riding the coattails of pioneers; people whose main interest
-is money and prestige; and people who only work on the conventional.
-None of these promotes scenius.  Meanwhile, the scope of the frontier
---- of the
+the edge, it's moving toward the middle, and mainstream acceptance.  I
+can't help but feel that scenius is probably in areas edgier than any
+of these, areas I've never heard of.
+
+Going mainstream dilutes scenius.  People rush in as money and
+prestige become available.  This increases the density of several
+types of people: people who just want to coast, riding the coattails
+of pioneers; people whose main interest is money and prestige; and
+people who only work on the conventional.  None of these promotes
+scenius.  Meanwhile, the scope of the frontier --- of the
 [adjacent possible](http://online.wsj.com/article/SB10001424052748703989304575503730101860838.html),
 in Stephen Johnson's wonderful useage --- expands far more slowly than
 the inrush of people. People sense that their piece of the creative
@@ -600,8 +585,49 @@ Things which bug me:
   idea of the adjacent possible.  It's the idea ...  What really
   distinguishes scenius is that the adjacent possible has tremendously
   opened up.  A way of identifying scenius is to ask "Is the adjacent
-  possible tremendously exciting?"
+  possible tremendously exciting?"  My guess is that this is really
+  the signal.  YOu go into a field
+   
+**How most of us search for new projects:** When looking for new
+  projects it's tempting to look only at the adjacent possible within
+  domains we've already mastred.  That's not always a bad idea.  But
+  it does mean that we stay largely in the same scene.  Another
+  strategy is to take a step back and to get more of the big picture.
+  
+**Teleportation and the adjacent possible:** It's tempting to think
+ the adjacent possible is just about low-hanging fruit.  But it's not.
+ Quantum teleportation was discovered in 1993.  Technically, it's a
+ simple enough protocol that it could have been discovered in the
+ 1920s.  By the 1930s physicists were routinely doing quantum
+ mechanical calculations that were far more complex.  But they weren't
+ asking the kind of questions that would lead to the discovery of
+ quantum teleportation.  And those questions couldn't arise until a
+ new narrative had arisen about physics and information, a narrative
+ that stimulated all sorts of interestng questions and research
+ directions.
+    
 
+**Quantum computing:** I've had one or two experiences with scenius.
+  The first came in the field of quantum computing.  I worked on
+  quantum computing from 1992 to 2007.  From 1992-1994 I was largely
+  isolated from the (very small) community of people working on
+  quantum computing.  But in 1995 I started to become part of that
+  community.  And the scene was amazing.  From 1993 through 1996 saw
+  the invention of quantum teleportation, the fast quantum factoring
+  algorithm, the fast quantum search algorithm, quantum
+  error-correction, fault-tolerant quantum computing, and topological
+  quantum computing.  All of these are Nobel or near-Nobel level
+  achievements, in my opinion.  And they came out of a scientific
+  community that could get together in a small room for most of that
+  time.
+  
+  The second is too early to say.  But from 2007 to now I've
+  concentrated most of my creative work in open science.  And although
+  it's too early to say what the impact of open science will be, I
+  hope that from the viewpoint of history the current efforts will be
+  seen as having helped initiate a major transformation in how science
+  is done.
+    
 # Notes
 
 There's a lot to be said about the characteristics of scenius.
@@ -796,23 +822,18 @@ of people involved.
   today?** Space, robotics, energy.
 
 
-**The adjacent possible:**
-
-**Teleportation was the adjacent possible for a long, long time:**
-  It's tempting to think this is just about low-haning fruit.  But
-  it's not.  Quantum teleportation is a simple enough protocol that it
-  could have been discovered in the 1920s.  But it wasn't.  It had to
-  wait until 1993.
 
  
 **What isn't scenius?** If something is fashionable or there's lots of
   money to do it (or both).  This causes an inrush of poseurs and
   9-to-5ers.  
 
+**Other places:** Where in academia?  What do I think of academia in
+  this context, generally?  What about public intellectualism?
+  Probably not.  Most public intellectuals are providing new answers
+  to old, classic questions.  Scenius is often concerned with new
+  questions.  The narrative isn't yet even known by the mainstream.
 
-**Academia?**
-
-**Public intellectualism**
 
 **However, there may still be identifiable sub-veins within those
   locations:** This is an interesting question.  Going in an _ad hoc_
@@ -856,4 +877,15 @@ financial successes.  For the most part they're not to my taste, but
 clearly Pixar has figured out something which virtually none of the
 other studios have.
 
+
+**Identifying promising subject areas is not the same as identifying
+  high-concentration communities doing great work.**
   
+**Public relations:** Part of the problem is public relations.  It's
+  easy to be wowed by the pubicity coming from an organization such as
+  SpaceX.  And maybe it really is a great place, a place that is
+  enabling its engineers and scientists to grow by leaps and bounds.
+  Equally well, maybe it's all a few brilliant engineers, and everyone
+  else is a drone.  It's hard to know from the outside.
+
+
