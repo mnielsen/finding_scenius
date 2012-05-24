@@ -453,19 +453,19 @@ about these issues.
 # Attempt
 
 > _I look at the edge to see where the center is going._ --
-> [Stewart Brand](http://en.wikipedia.org/wiki/Stewart_Brand) [*],
-> eagle-eyed scenius hunter.
+> [Stewart Brand](http://en.wikipedia.org/wiki/Stewart_Brand) [*], one
+> of our best scenius hounds (and instigators)
 
-I'm interested in scenius for an intensely personal reason.  I
-recently completed a major, years-long project, and so I'm searching
-for good, new projects to work on.  Of course, scenius isn't my only
-criterion, but it's on my mind.  All other things being equal, I'd
-rather work on a project at a rich, underpopulated frontier, in a
-fantastic environment that will buoy me up.
+I'm interested in scenius for a personal reason.  I recently completed
+a major, years-long project, and so I'm searching for good, new
+projects to work on.  Scenius isn't my only criterion, but it's on my
+mind.  All other things being equal, I'd rather work on a project at a
+rich, underpopulated frontier, in a fantastic environment that buoys
+me up.
  
 So I'm asking myself the question: where is scenius nascent today?
-And one thing I've realized is that I don't have more than a vague
-idea of where scenius is nascent today.
+And I've realized that I don't have more than a vague idea of where
+scenius is nascent today.
   
 Sure, I know of many interesting emerging fields.  A partial list, in
 no particular order, includes 3d printing, synthetic biology,
@@ -482,25 +482,25 @@ can't help but feel that scenius is probably in areas edgier than any
 of these, areas I've never heard of.
 
 Going mainstream dilutes scenius.  People rush in as money and
-prestige become available.  This increases the density of several
-types of people: people who just want to coast, riding the coattails
-of pioneers; people whose main interest is money and prestige; and
-people who only work on the conventional.  None of these promotes
-scenius.  Meanwhile, the scope of the frontier --- of the
+prestige become available.  This creates a problem because it
+increases the density of people who just want to coast, riding the
+coattails of pioneers; it increases the density of people whose main
+interest is money and prestige; and it increases the density of people
+who are unwilling to work on the unconventional.  None of this
+promotes scenius.  Meanwhile, the scope of the frontier --- of the
 [adjacent possible](http://online.wsj.com/article/SB10001424052748703989304575503730101860838.html),
 in Stephen Johnson's wonderful useage --- expands far more slowly than
-the inrush of people. People sense that their piece of the creative
-pie is becoming smaller, even as their access to resources increases.
-They become more competitive, less willing to boost others up.
+the inrush of people. People's piece of the creative pie shrinks, even
+as their access to resources expands.  And so they become more
+competitive, less willing to boost others up.
 
 A particularly pernicious form of this is our cultural obsession with
 high-prestige, fashionable, or rich fields and organizations.
 
-Just look at all the books and glossy magazine articles which have
-been written extolling the virtues of Google, private space ventures,
-Apple, open education, and so on -- you can fill in your own examples
-here!  If you believe what's written these fields and organizations
-are creative nirvana.
+Just look at all the books and glossy magazine articles extolling the
+virtues of Google, private space ventures, Apple, open education, and
+so on -- you can fill in your own examples here!  If you believe
+what's written these fields and organizations are creative nirvana.
 
 I think it's quite a bit more complicated than the laudatory publicity
 suggests.
@@ -519,13 +519,18 @@ But most of those people are working to maintain and incrementally
 improve what GOogle already does.  And so the density of scenius
 across the company has inevitably decreased.
 
-An interesting question is whether there are corners of the company
-which are just as remarkable as the early Google?  I don't know.  But
-events such as Google Wave's failure are encouraging.  It was a huge,
-swing-for-the-fences idea that contained a lot of good ideas, and
-arguably very nearly worked.  If Google continues developing such
-ideas, then it seems likely to me that they'll sometimes swing for the
-fences and succeed.
+Are there corners of Google today which are just as remarkable as the
+early Google?  I don't know.  But events such as Google Wave's failure
+are encouraging.  It was a huge, swing-for-the-fences idea that
+contained many good ideas, and very nearly worked.  If Google
+continues developing such ideas, then it seems likely to me that
+they'll sometimes swing for the fences and succeed.
+
+That notwithstanding, my point about the density of scenius falling
+remains.  The lesson is that going in an _ad hoc_ fashion to a big,
+fashionable place is a bad idea.  You should only do that if you have
+inside inforomation, telling you which are the great, innovative
+groups inside an organization or field.
 
 
 
@@ -630,7 +635,7 @@ Things which bug me:
     
 # Notes
 
-There's a lot to be said about the characteristics of scenius.
+**Characteristics of scenius**
 
 + **A high density of dedicated people:** As I've argued above, they
   don't need to be supremely talented, but they must be dedicated, and
@@ -651,9 +656,12 @@ There's a lot to be said about the characteristics of scenius.
   because while the number of people had exploded, the intellectual
   frontier had not.
 
-**WHere is scenius nascent today?** xSo I will conclude this main part
-of my essay by asking my readers: where is scenius nascent today?
-This is really a few different questions:
+
+
+
+**Queston for my readers: where is scenius nascent today?** So I will
+conclude this main part of my essay by asking my readers: where is
+scenius nascent today?  This is really a few different questions:
 
 + **What are the most important emerging fields?** Typically, these
 are fields that have just opened up because of some other advance or
@@ -661,7 +669,10 @@ advances.
 
 + **Where are the best environments to work in?  Why?** Beware the
 distinction between great PR and branding, and real success.  MIT is a
-great brand, but
+great brand, but individual groups at MIT will span the full range
+from superb creative incubators to complete dead ends.  All will
+appear glossy outwardly, and be quoted in the _New York Times_ as
+though they have equal authority.
 
 
 **Structure: three appendices:** This essay has not one but three
@@ -674,24 +685,6 @@ context.  So I've opted instead for a loose integration.
 
 
 
-"I look to the edges to see where the center is going."
-
-Why am I writing this?  It's mostly because I'm bugged by the
-question: where is scenius nascent today?  I've been asking myself
-this for a long time, and I'm not happy with my answers.
-
-Sure, I know of many emerging fields that are interesting.  A partial
-list might include 3d printing, synthetic biology, gaming and virtual
-worlds, robotics, connectomics, self-driving cars, augmented reality,
-wearable computing, the maker and DIY movements.
-
-But looking at that list, two thoughts strike me.  First, I don't know
-where the best places are for these things.  And second, all the
-things on that list are pretty mainstream.  And, as I discuss below,
-there are good reasons that the more mainstream an idea becomes, the
-less scenius is involved.  Once an idea has appeared on ted.com, it's
-no longer at the edge, it's moving toward the middle.
-  
 **Scenius radar:** Some people have amazing scenius radar.  Consider
 Stewart Brand. Here's a list of fields, institutions and people he
 identified _before_ they became famous: Doug Engelbart, LSD, ecology,
@@ -715,11 +708,11 @@ barriers to keep those people out.
   
 **Jobs and high barriers:** Walter Isaacson's
 [recent biography of Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
-makes it clear that one of Jobs's main functions at Apple was to act
-as a human barrier, either firing or driving away people who weren't
-superb at their job.  This no doubt had many negative consequences.
-But it's also part of the reason Apple maintained a very good core
-team, despite being high prestige.
+shows that one of Jobs's main functions at Apple was to act as a human
+barrier, either firing or driving away people who weren't superb at
+their job.  This no doubt had many negative consequences.  But it's
+also part of the reason Apple maintained a very good core team,
+despite being high prestige.
 
 **Open, but with high standards:** Anyone can join.  But they may have
   to pay a price.  Furthermore, their work will ultimately be judged
@@ -777,12 +770,12 @@ many other fields, of course, but it's not amazing: it's not Florence
 in the 1400s, or Los Alamos in the 1940s.
 
 
-    
 **Ownership at the edges, not at the center:** I suspect it matters
 that things like Unix and C were produced by XXX, not by "Bell Labs".
 
 **Might it only be founders-only?** Maybe **early-employees only?** Is
   there much evidence for that?
+    
 
 
 
@@ -815,7 +808,7 @@ of people involved.
   are that some of biggest fields a decade or two hence will be on
   that list.
 
-**How to recognize scenius?**
+
 
 **What's going to be important in 10-15 years' time? Are there
   high-concentration communities doing interesting work in the area
@@ -835,11 +828,6 @@ of people involved.
   questions.  The narrative isn't yet even known by the mainstream.
 
 
-**However, there may still be identifiable sub-veins within those
-  locations:** This is an interesting question.  Going in an _ad hoc_
-  fashion to the big, fashionable places doesn't work.  But maybe if
-  you have inside information, you can find great, innovative groups
-  inside an organization or field.
 
 **It doesn't come out of companies:** I wonder. Many of
   Michaelangelo's greatest works were, of course, produced on
@@ -850,8 +838,8 @@ of people involved.
     
 
 **Brainstorming questions:** How to find scenius?  Where is scenius
-  today?  How to create scenius?  I have a practical question: what
-  impact should it have?  
+  today?  How to create scenius?  How to recognize scenius?  xI have a
+  practical question: what impact should it have?
 
 There are two natural questions to ask at this point.  If you are
 still not yet decided on a career, and ambitious to do great creative
