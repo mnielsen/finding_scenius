@@ -2,8 +2,6 @@
 
 # Finding scenius
 
-_Rough working notes on scenius._
-
 The artist Brian Eno has
 [introduced](http://www.kk.org/thetechnium/archives/2008/06/scenius_or_comm.php)
 a notion of collective intelligence that he calls "scenius":
@@ -21,24 +19,6 @@ how it's nurtured:
 > produce their best work. When buoyed by scenius, you act like
 > genius. Your like-minded peers, and the entire environment inspire
 > you.
->
-> The geography of scenius is nurtured by several factors:
->
-> + Mutual appreciation -- Risky moves are applauded by the group,
->   subtlety is appreciated, and friendly competition goads the
->   shy. Scenius can be thought of as the best of peer pressure.
->
-> + Rapid exchange of tools and techniques -- As soon as something is
->   invented, it is flaunted and then shared. Ideas flow quickly
->   because they are flowing inside a common language and sensibility.
->
-> + Network effects of success -- When a record is broken, a hit
->   happens, or breakthrough erupts, the success is claimed by the
->   entire scene. This empowers the scene to further success.
-
-> + Local tolerance for the novelties -- The local "outside" does not
->   push back too hard against the transgressions of the scene. The
->   renegades and mavericks are protected by this buffer zone.
 
 As an example, conside the town of Florence in the 15th century.  At
 the time it had perhaps 100,000 inhabitants.  That's a tiny number,
@@ -102,6 +82,14 @@ By contrast, the great painters of Florence named above were all born
 in Florence, or in the countryside nearby.  And so it really was
 living in Florence during the 15th century which _caused_ these people
 to become better painters.
+
+I suspect that many other examples of supposed scenius are more like
+Los Alamos -- great aggregations of talent that will flourish no
+matter what -- than Florence, where just being in Florence at the
+right time seemed to help produce much better creative work.  I
+suspect this is at least partially true of
+[Bloomsbury](http://en.wikipedia.org/wiki/Bloomsbury_Group), for
+example, and of the [Inklings](http://en.wikipedia.org/wiki/Inklings).
 
 ## Was Florence just at the tail end of the distribution?
 
@@ -182,11 +170,11 @@ How does this affect our notion of scenius?
 
 There are two paths we could take at this point.  One is to adopt a
 narrow notion of scenius as the benefit a creative worker gets from
-their social scene.  I'm prety sure this is how Eno intended it.  If
-we adopt this notion of scenius then it explicitly excludes the rich
-frontier.  Any attempt to explain Florence and similar events must
-engage the question of the relative contribution of both scenius and
-the rich frontier.  
+their social scene.  I'm prety sure this is how Eno intended it, and
+it's certainly how Kevin Kelly discusses it.  If we adopt this notion
+of scenius then it explicitly excludes the rich frontier.  Any attempt
+to explain Florence and similar events must engage the question of the
+relative contribution of both scenius and the rich frontier.
 
 The other approach is to embrace a broader notion of scenius which
 includes both the benefits from working at a rich frontier _and_ the
@@ -203,12 +191,16 @@ truisms.  Most people think great creative achievement requires
 supreme talent.  But the moral of the Florence Renaissance is that
 it's better to be moderately talented and in the right place at the
 right time than it is to be supremely talented and in the wrong place
-at the wrong time.
+at the wrong time.  
 
-What you want: a high density of dedicated people pursuing a rich
-frontier.  And you want the size of the frontier to dwarf the number
-of people involved.
+In a sense, I think this over-emphasis we have on talent is utterly
+destructive.  It's not a myth, exactly --- there are certainly
+different levels of talent.  But we overemphasize it at the expense of
+other, more important things.  If Michaelangelo had grown up in a
+Florence-sized town day, he'd be a well-known local artist, admired
+within a small sphere, but forgotten by history [1].
 
+  
 # How to find scenius
 
 Where is scenius nascent today?
@@ -217,16 +209,17 @@ It's tempting to think scenius must be in the high-prestige,
 fashionable, or rich fields or organizations. Just look at all the
 books and glossy magazine articles which have been written extolling
 the virtues of Google, Apple, private space ventures, and so on (fill
-in your favourite example here!)
+in your favourite example here!)  If you believe what's written, these
+places are creative nirvana.
 
 I think it's quite a bit more complicated than the laudatory publicity
 suggests.
 
-I've no doubt Google has many good or even great engineers.  But at
-the same time I doubt there are many parts of the organization which
-match the intensity of good ideas produced by Bell Labs, Xerox PARC,
-or the MIT AI Lab in their heyday.  Why is that?  And how can we find
-those places today?
+I've no doubt Google, say, has many good or even great engineers.  But
+at the same time I doubt there are many parts of the organization
+which match the intensity of good ideas produced by Bell Labs, Xerox
+PARC, or the MIT AI Lab in their heyday.  Why is that?  And how can we
+find those places today?
 
 I think it's worth understanding
 
@@ -259,11 +252,10 @@ in the 1400s, or Los Alamos in the 1940s.
 What really matters: the density of people 
 
 
-I don't know where scenius is
-  nascent today.  I have my suspicions.  Very interesting areas
-  include: robotics, 3d-printing, energy, space, synthetic biology,
-  gaming, virtual worlds, self-driving cars, augmented reality, the
-  maker and DIY movements.
+I don't know where scenius is nascent today.  I have my suspicions.
+  Very interesting areas include: robotics, 3d-printing, energy,
+  space, synthetic biology, gaming, virtual worlds, self-driving cars,
+  augmented reality, the maker and DIY movements.
   
   Most probably it's in areas edgier than any of these, areas I've
   never heard of.
@@ -278,44 +270,8 @@ I don't know where scenius is
   it's all a few brilliant engineers, and everyone else is a drone.
   It's hard to know from the outside.
 
-Celebrating the right kind of failure.
 
-## Is the internet still a rich frontier?
 
-I've heard many people say that the internet is over over the past
-decade, that the great emerging frontier is clean energy, or space,
-_etc_.
-
-My instinct is that these people are wrong.  Not wrong to say that
-clean energy and space are great emerging frontiers.  But wrong to
-think.  
-  
-There are huge problems that remain to be solved online.  We're a long
-way from networking every object and every event in the world.  We're
-drowning in human co-ordination problems.  We're drowning in data
-analysis problems.  And we're still a long way from artificial
-intelligence.
-  
-Maybe there's insurmountable bottlenecks that will stop progress
-toward all these goals.  But, at least today, progress on each
-continues to hum along, and bottlenecks sure seem hard to spot.  To
-paraphrase
-[Alan Kay](http://www.vpri.org/pdf/m2007007a_revolution.pdf), the real
-internet revolution hasn't happened yet.
-	  
-One sign of this is how many low-hanging fruit remain.  One thing that
-shocks me is that there's so little work on developing new internet
-protocols and new server and client software.  Danny Hillis once
-[observed](http://www.edge.org/documents/digerati/Hillis.html) that
-the web --- i.e., the http protocol --- is "the slime mold of the
-Internet".  That seems exactly right.  Sure, the web is neat.  But
-it's not as though we have well-developed distributed user interfaces.
-(Actually, that's not entirely true: online games such as World of
-Warcraft have remarkable distributed user interfaces.  But they're not
-open platforms.)  We see some work on developing new open protocols
---- things like [BitTorrent](http://en.wikipedia.org/wiki/BitTorrent)
-and [SPDY](http://en.wikipedia.org/wiki/SPDY) --- but much less than
-I'd _a priori_ expect.
 
 **What am I trying to do in the essay?** I'm not sure.  Partially I'm
   just exploring a fascinating phenomenon for anyone interested in
@@ -348,52 +304,6 @@ I'd _a priori_ expect.
   found scenius".  I'm perhaps trying too hard to find a narrative
   thread, and should instead just tie things up, and let it go.
 
-**Why do I feel discomfort with the whole essay?** I've talked a bit
-  about this above.  But there are more reasons.
-  
-  There's a best-selling self-help book by Steven Covey entitled "The
-  Seven Habits of Highly Effective People".  It's about what you'd
-  expect --- advice on how to live a better and more effective life.
-  Linus Torvalds once wrote of Covey's book: "XXX
-  [random insulting remarks here]".
-  
-  Torvalds' comment sums up the attitude many technical people have
-  about books on "soft" human-centred subjects, like how to live your
-  life.  We don't have a science which answers questions such as how
-  to spend one's time, how to deal with your spouse, and so on.  But
-  such questions still matter, and so self-help books rack up millions
-  of sales.
-  
-  Many in the intellectual elite sneer at such books as witch-doctory.
-  But, and here's the rub, they _can't point to obviously superior
-  solutions_.  There have been attempts by psychologists to colonize
-  this field --- many write books using the fact that they're REAL
-  SCIENCE as a marketing credential --- but the results are often
-  oversold, the evidence and reasoning flimsy.  In one or two hundred
-  years I expect we'll genuinely _know_ a lot about these sorts of
-  questions.  But for now, the "scientific" self-help books seem
-  little more trustworthy than any other.
-       
-  The problem is that just because we don't have a science of how to
-  live, doesn't mean we get to opt out of questions like how to live a
-  happy and interesting life.  The right question isn't whether Covey
-  and his ilk are witch doctors.  Rather, when you only have witch
-  doctors to choose from, you want to make darn sure you find the best
-  witch doctor available.
-      
-  (Parenthetically, I've occasionally talked to the intellectual
-  sneerers. I've noticed a few odd things.  When discussing questions
-  like how to choose work, they'll often make extremely
-  black-and-white statements supporting some obvious conventionalism.
-  When pushed on _why_ they believe those things, they respond with
-  flimsy or non-existent evidence.  Their commitment to evidence is
-  often thin, disguising an inability to deal with not knowing.)
-    
-  In any case this essay deals with such soft issues, and because of
-  that is making me feel some discomfort in talking publicly about
-  such issues.  I feel the need to be bulletproof in my discussion,
-  when of course is not feasible.  This kind of thing is necessarily
-  speculative.
 
   
 
@@ -419,7 +329,57 @@ they're willing to live this way, pushing the frontier of climbing.
   make rapid progress.
 
 
-# Appendix: was Florence a statistical fluke?
+## Appendix: Isn't it a waste of time to talk about these silly, soft
+## things?
+
+There's a best-selling self-help book by Steven Covey entitled "The
+Seven Habits of Highly Effective People".  It's about what you'd
+expect --- advice on how to live a better and more effective life.
+Linus Torvalds once
+[stated his opinion](http://lwn.net/Articles/105375/) of Covey's book
+in no uncertain terms:
+
+> I'd suggest buying "Seven Habits of Highly Successful People", and
+> NOT read it.  Burn it, it's a great symbolic gesture.
+  
+Torvalds's comment illustrates the attitude many technical people have
+about discussions of "soft" human-centred subjects.  And I'm acutely
+aware that the current essay on scenius fits this bill just as much as
+do the subjects of books such as Covery's.  We don't yet have a
+science which answers questions such as how to spend one's time, how
+to deal with your spouse, how to create a great creative scene, and so
+on.  But such questions still matter, and so self-help books rack up
+millions of sales.
+  
+Many in the intellectual elite sneer at such self-help as
+witch-doctory.  "It's not real science", they say.  True.  But, and
+here's the rub, they _can't point to obviously superior solutions_.
+And the problem is that just because we don't yet have a good science
+of how to live, doesn't mean we get to opt out of questions like how
+to live a happy and interesting life.  The right question isn't
+whether Covey and his ilk are witch doctors.  Rather, when you only
+have witch doctors to choose from, you want to make darn sure you find
+the best witch doctor available.
+
+This phenomenon has led to something interesting: psychologists are
+colonzizing self-help, writing books using the fact that they're REAL
+SCIENCE as a marketing credential.  Unfortunately, the results are
+often oversold, the evidence and reasoning little better than in any
+other books.  In another century or two I expect we'll genuinely
+_know_ a lot about these sorts of questions.  But for now, the
+"scientific" self-help books seem little more trustworthy than any
+other.  We're stuck trying to find high quality witch doctors,
+regardless of whether they have PhDs, MDs, or simply a charismatic
+personality and writing style.
+
+For all these reasons I was somewhat hesitant to write this essay.
+I'm well aware that we're still at the stage of just-so stories in
+understanding things like scenius.  Still, I believe that it's worth
+thinking hard about, no matter how imperfect and uncertain the results
+may be.  Just because a question is difficult is no reason to refrain
+from attempting to answer it.
+
+## Appendix: Was Florence a statistical fluke?
 
 Suppose we assume the genius hypothesis as true, and believe that
 someone will achieve greatness as a painter with a fixed probability,
@@ -445,6 +405,59 @@ expect a great painter to emerge from about 1 city in every 10 of size
 collection of cities, I frankly think that's far too modest a
 criterion.  So we can confidently reject the genius hypothesis.
 
+## Appendix: Is the internet still a rich frontier?
+
+Over the past decade I've heard many people say that the internet is
+over, and that the great emerging frontier is clean energy, or space,
+_etc_.
+
+My instinct is that these people are wrong.  Not wrong to say that
+clean energy and space are great emerging frontiers; they certainly
+are.  But wrong to think that the internet is over.
+  
+There are huge problems that remain to be solved online.  We're a long
+way from networking every object and every event in the world.  We're
+drowning in human co-ordination problems.  We're drowning in data
+analysis problems.  And we're still a long way from artificial
+intelligence.
+  
+Maybe there's insurmountable bottlenecks that will stop progress
+toward all these goals.  But, at least today, progress on each
+continues to hum along, and convincing bottlenecks hard to spot.  To
+paraphrase
+[Alan Kay](http://www.vpri.org/pdf/m2007007a_revolution.pdf), the real
+internet revolution hasn't happened yet.
+	  
+One sign of this is the many low-hanging fruit which remain.  
+
+For instance, it shocks me how little work there is on developing new
+internet protocols and new server and client software.  Danny Hillis
+once [observed](http://www.edge.org/documents/digerati/Hillis.html)
+that the web --- i.e., the http protocol --- is "the slime mold of the
+Internet".  
+
+That summary seems exactly right.  Sure, the web and other existing
+protocols such as email and so on are neat.  But it's not as though
+we've done more than begin exploring what can be done with distributed
+user interfaces.  Few communities are even exploring this in depth.
+One which is is the online gaming community, and games such as World
+of Warcraft start to show how remarkable distributed user interfaces
+can be.  But while that work is interesting, it's not leading to new
+open platforms.  We only see a trickle of work on developing new open
+platforms --- things like
+[BitTorrent](http://en.wikipedia.org/wiki/BitTorrent) and
+[SPDY](http://en.wikipedia.org/wiki/SPDY).  Those things are great,
+but there's much less than I'd _a priori_ expect.
+
+# Footnotes
+
+[1] I wonder about the importance of feedback effects.  The Florentine
+  Michaelangelo must at some point have realized that he had an
+  opportunity to be one of the great artists of all time.  That may
+  well have motivated him to work far harder (and thus become a better
+  artist) than if all he could hope for was to be a well-known local
+  artist.  The best way to sail is with the wind at your back.
+
 # Acknowledgements
 
 Thanks to [Jen Dodd](http://jendodd.com),
@@ -453,30 +466,162 @@ Thanks to [Jen Dodd](http://jendodd.com),
 about these issues.
 
 
+# Attempt
+
+"I look at the edge to see where the center is going." --- S. Brand
+(one of our great scenius detectors).
+
+I'm interested in this for an intensely personal reason.  I'm
+exploring new projects at the moment, and so I'm thinking about how to
+commit to good, fun projects.  Scenius isn't my only criterion, but
+it's definitely on my mind.  All other things being equal, I'd rather
+work in a fantastic environment that will buoy me up, and also be
+working on the right stuff at the right time.
+ 
+So I'm asking myself the question: where is scenius nascent today?
+And one thing I'e realized is that I'm not very happy with my answers.
+  
+Sure, I know of many emerging fields that are interesting.  A partial
+list, in no particular order, includes 3d printing, synthetic biology,
+connectomics, gaming and virtual worlds, open science, robotics,
+self-driving cars, space, augmented reality, wearable computing,
+online education, cognitive tools, the maker and DIY movements.  There
+are also corners of big data, machine learning and programming
+language design that are interesting.
+  
+But looking at that list, most of the things on it are pretty
+mainstream.  Going mainstream dilutes scenius.  People rush in as
+money and prestige become available.  This increases the density of
+people who just want to coast, and decreases the density of the truly
+dedicated.  Meanwhile, the scope of the frontier --- of the adjacent
+possible, in Stephen Johnson's great phrase --- expands far more
+slowly than the inrush of people. People sense that their piece of the
+creative pie is becoming smaller, even as their access to resources
+increases; they become less willing to share.  Once an idea has
+appeared on ted.com, it's no longer at the edge, it's moving toward
+the middle.
+
+A particularly pernicious form of this is...
+
+There's a lot to be said about what the characteristics are of
+scenius.
+
++ **A high density of dedicated people:** As I've argued above, they
+  don't need to be supremely talented, but they must be dedicated, and
+  ambitious to create.  Michaelangelo wasn't coasting.
+
++ **The creative frontier is large, relative to the number of people
+  involved:** This is pretty vague. A field that is fun and ripe if
+  just 50 people are involved may be overcrowded if 5,000 people are
+  involved.  People start to get squeezed into tiny little boxes,
+  pursuing tiny dreams.  Furthermore, people start to _feel_ as though
+  there is more competition, even if there are actually more resources
+  per capita.  The result is that they can become more selfish,
+  restricting the flow of information.  You feel less buoyed by
+  others.  I had an experience like this: I worked in quantum
+  computing from 1992 through 2007.  And even though far more
+  resources were available per person to do quantum computing in 2007,
+  the field also felt (to me) like it was much more competitive,
+  because while the number of people had exploded, the intellectual
+  frontier had not.
+
+So I will conclude this main part of my essay by asking my readers:
+where is scenius nascent today?  This is really a few different
+questions:
+
++ **What are the most important emerging fields?** Typically, these
+are fields that have just opened up because of some other advance or
+advances.
+
++ **Where are the best environments to work in?  Why?** Beware the
+distinction between great PR and branding, and real success.  MIT is a
+great brand, but
+
+Not the
+name-brand institutions:
+
+
+This essay has not one but three appendices.  It's an unusual
+structure: they're mini-essays that didn't fit into .  I could have
+spun them out into separate blog posts, but
+
+
+
+
 # Notes
 
-Charactersistics:
+"I look to the edges to see where the center is going."
 
-A **high density** of dedicated people.  As I've argued above, they
-don't need to be supremely talented, but they must be dedicated, and
-ambitious to accomplish a lot.  Michaelangelo wasn't coasting.
+Why am I writing this?  It's mostly because I'm bugged by the
+question: where is scenius nascent today?  I've been asking myself
+this for a long time, and I'm not happy with my answers.
 
-A frontier that is large and rich, relative to the number.  If there
-are just a few
+Sure, I know of many emerging fields that are interesting.  A partial
+list might include 3d printing, synthetic biology, gaming and virtual
+worlds, robotics, connectomics, self-driving cars, augmented reality,
+wearable computing, the maker and DIY movements.
+
+But looking at that list, two thoughts strike me.  First, I don't know
+where the best places are for these things.  And second, all the
+things on that list are pretty mainstream.  And, as I discuss below,
+there are good reasons that the more mainstream an idea becomes, the
+less scenius is involved.  Once an idea has appeared on ted.com, it's
+no longer at the edge, it's moving toward the middle.
+  
+Some people have amazing scenius radar.  Consider Stewart
+Brand. Here's a list of fields, institutions and people he identified
+_before_ they became famous: Doug Engelbart, LSD, ecology, the
+Grateful Dead, Xerox PARC, Paul Ehrlich, the hippy movement.  That
+list could be continued almost _ad infinitum_; over the last fifty
+years if you wanted to know "What's interesting?" then you could do a
+lot worse than answer "Whatever Stewart Brand is paying attention to
+right now".
+
+I don't know how Brand did this.  But I'll bet it helped that he ran
+the Whole Earth Catalog.  It's purpose was pretty much to _find_ the
+most interesting stuff going on.
+
+The Whole Earth Catalog is no longer with us.  But there are people
+who aggregate interesting items.  
+
+**So what?**
+
+
+**The tension between exploration and deep work:** Very few people are
+  good at finding scenius.  And to do so they need to explore a lot.
+  And there's a real tension between such exploration and doing deep
+  creative work.
+  
+
+
+**Open, but with high standards:** Anyone can join.  But they may have
+  to pay a price.  Furthermore, their work will ultimately be judged
+  by very high standards.  Those standards are ultimately grounded in
+  something meaningful to the outside field, not merely the internal
+  politics of the field.  I've seen academic and artistic communities
+  become a prisoner to their internal politics.  It's a bad sign when
+  you frequently hear people's work being criticised on the grounds
+  that "It's not foo fizzle pop", where "foo fizzle pop" seems only
+  meaningful to insiders.
+  
+**The right types of failure are encouraged:**
 
 Ownership at the edges, not at the center.  I think it matters that
 things like Unix and C were produced by XXX, not by "Bell Labs".
 
+What you want: a high density of dedicated people pursuing a rich
+frontier.  And you want the size of the frontier to dwarf the number
+of people involved.
 
 
+Incidentally, I suspect that this at le
 
+**The characteristics of scenius:**
 
-**Feedback effects:** Michaelangelo at some point must have realized
-  that he had an opportunity to be one of the great artists of all
-  time.  That would have motivated him to work far harder.  How much
-  harder did Michael Jordan practice at basketball once he realized he
-  had it in him to be one of the great basketballers?  The best way to
-  sail confidently is with a wind at your back.
+Kelly's list:
+
+Can split up into two types.  
+
 
 **Phil Agre:** The information scientist Phil Agre has proposed an
   interesting way to identify important emerging fields. He suggested
@@ -551,12 +696,6 @@ financial successes.  For the most part they're not to my taste, but
 clearly Pixar has figured out something which virtually none of the
 other studios have.
 
-**Difficulty in writing about these issues:** It's difficult to write
-about these issues.  Questions like "how to choose where you work" or
-"what should you work on" are challenging questions.
-
-**What question do I want to ask in the second half?**
-      
 **Paypal as an example?**
 
 **Might it only be founders-only?** Maybe **early-employees only?** Is
@@ -572,11 +711,6 @@ about these issues.  Questions like "how to choose where you work" or
   thinking .  It's an old observation that there is no democracy of
   talent.  More important, to my mind.
 
-
-**The talent myth:** This idea of talent just seems utterly
-  destructive.  If Michaelangelo had grown up in Waterloo, he'd be a
-  talented local artist, admired within a small sphere, but not
-  regarded as remarkable, and forgotten by history.
-
- 
 **What's wrong with the first half?**
+
+**Celebrating the right kind of failure.**
