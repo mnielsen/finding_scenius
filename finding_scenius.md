@@ -492,7 +492,7 @@ self-driving cars, space, augmented reality, wearable computing,
 online education, cognitive tools, the maker and DIY movements.  There
 are also corners of big data, machine learning and programming
 language design that are interesting.
-  
+
 But looking at that list, most of the things on it are pretty
 mainstream.  Once an idea has appeared on ted.com, it's no longer at
 the edge, it's moving toward the middle.  And going mainstream dilutes
@@ -575,14 +575,27 @@ Things which bug me:
   then picking some new and important problem to be working on.  I
   seem to recall Brand saying something similar.
 
-**WOndering whether my horizons are broad enough?**  Maybe 
+**WOndering whether my horizons are broad enough?** I'm painfully
+  aware of how narrow my horizons are.  Maybe I should be looking to
+  things I know little about --- the developing world, materials
+  science, and other such things?  On reflection, I think I'm
+  suffering from a fallac here.  The point isn't to take a complete
+  inventory of scenius.  It's to find it in a few places, and then to
+  pursue a promising project which has just opened up in the adjacent
+  possible, and to which I feel equal.  That said, there's a lot to be
+  said for broadening my horizons.  But I shouldn't feel any necessity
+  to get a complete picture; no-one ever will.
+
+**Going deep:** It's really all about identifying wonderful project
+  possibilites in the adjacent possible.  Should the scene come first,
+  or the project idea?
 
 **Either commit to exploring full out.  Or else make a commitment to
   doing deep work in some area.**
 
 # Notes
 
-There's a lot to be said about the characteristics are of scenius.
+There's a lot to be said about the characteristics of scenius.
 
 + **A high density of dedicated people:** As I've argued above, they
   don't need to be supremely talented, but they must be dedicated, and
@@ -603,9 +616,9 @@ There's a lot to be said about the characteristics are of scenius.
   because while the number of people had exploded, the intellectual
   frontier had not.
 
-So I will conclude this main part of my essay by asking my readers:
-where is scenius nascent today?  This is really a few different
-questions:
+**WHere is scenius nascent today?** xSo I will conclude this main part
+of my essay by asking my readers: where is scenius nascent today?
+This is really a few different questions:
 
 + **What are the most important emerging fields?** Typically, these
 are fields that have just opened up because of some other advance or
@@ -615,13 +628,12 @@ advances.
 distinction between great PR and branding, and real success.  MIT is a
 great brand, but
 
-Not the
-name-brand institutions:
 
-
-This essay has not one but three appendices.  It's an unusual
-structure: they're mini-essays that didn't fit into .  I could have
-spun them out into separate blog posts, but
+**Structure: three appendices:** This essay has not one but three
+appendices.  It's an unusual structure: they're mini-essays that
+didn't fit into the main part of the essay.  I could have spun them
+out into separate blog posts, but they would have lost important
+context.  So I've opted instead for a loose integration.
 
 
 
@@ -659,9 +671,11 @@ the Whole Earth Catalog.  It's purpose was pretty much to _find_ the
 most interesting stuff going on.
 
 
-**Prestige and fashion:** One problem is that when a field becomes
-prestigious or fashionable, or a lot of money is available, then
-people who just want to coast arrive in droves.  It requires high
+
+
+**Prestige, fashion, and barriers:** One problem is that when a field
+becomes prestigious or fashionable, or a lot of money is available,
+then people who just want to coast arrive in droves.  It requires high
 barriers to keep those people out.
   
 **Jobs and high barriers:** Walter Isaacson's
@@ -687,6 +701,33 @@ team, despite being high prestige.
   talent.  More important, to my mind, is that there there's no
   democracy of...
 
+**Do you need some selection process for quality?** Yes, a ruthless
+  one.  Ideally, one that will concentrate the best people in the same
+  locations, but at the same time not dissuade them from being
+  friendly with one another, and supporting one another.
+
+
+
+
+**The right types of failure are encouraged:** Some types of failure
+ are punished, while others are rewarded.  When a scene is still
+ small, people know each other.  They know when someone is a foolish
+ dreamer with low standards, and when someone is a smart dreamer who
+ holds themself to high standards.  The latter will be forgiven and
+ perhaps even celebrated when they come up short, if much was learnt
+ through the failure.
+
+
+
+**I there really anything at all to the notion of scenius?** Even the
+  term sounds kind of vague and wishy-washy.  It also has the problem
+  that for most people it's not very concrete.  They've never had the
+  experience. They don't know what it feels like to be inside a
+  fantastic scene.  Richard Feynman's story of running into Max
+  Delbruck(?), and why he stayed at Caltech.
+
+
+
 **Advantage of being high prestige:** An advantage of being high
 prestige is that also attracts many very smart, very determined people
 will be interested in participating.  The problem is that those people
@@ -700,24 +741,13 @@ this is true, the density becomes relatively low.  Not as low as in
 many other fields, of course, but it's not amazing: it's not Florence
 in the 1400s, or Los Alamos in the 1940s.
 
-**I there really anything at all to the notion of scenius?** Even the
-  term sounds kind of vague and wishy-washy.  It also has the problem
-  that for most people it's not very concrete.  They've never had the
-  experience. They don't know what it feels like to be inside a
-  fantastic scene.  Richard Feynman's story of running into Max
-  Delbruck(?), and why he stayed at Caltech.
 
-**The right types of failure are encouraged:** This is just an
-  instinctive comment.  I feel like some types of failure are
-  punished, while others are rewarded.  When a scene is still small,
-  people know each other.  They know when someone is a foolish dreamer
-  with low standards, and when someone is a smart dreamer who holds
-  themself to high standards.  And the latter will be forgiven when
-  they come up short.  Indeed, they may even be celebrated.  And, in
-  moderation, that's not a bad thing.
     
 **Ownership at the edges, not at the center:** I suspect it matters
 that things like Unix and C were produced by XXX, not by "Bell Labs".
+
+**Might it only be founders-only?** Maybe **early-employees only?** Is
+  there much evidence for that?
 
 
 
@@ -736,6 +766,9 @@ identity.
 What you want: a high density of dedicated people pursuing a rich
 frontier.  And you want the size of the frontier to dwarf the number
 of people involved.
+
+
+
 
 **Phil Agre:** The information scientist Phil Agre has proposed an
   interesting way to identify important emerging fields. He suggested
@@ -767,9 +800,6 @@ of people involved.
   money to do it (or both).  This causes an inrush of poseurs and
   9-to-5ers.  
 
-**What about the developing world?**
-
-**What about ideas outside this narrow set?** I'm painfully aware 
 
 **Academia?**
 
@@ -817,14 +847,4 @@ financial successes.  For the most part they're not to my taste, but
 clearly Pixar has figured out something which virtually none of the
 other studios have.
 
-**Paypal as an example?**
-
-**Might it only be founders-only?** Maybe **early-employees only?** Is
-  there much evidence for that?
   
-**Do you need some selection process for quality?** Yes, a ruthless
-  one.  Ideally, one that will concentrate the best people in the same
-  locations, but at the same time not dissuade them from being
-  friendly with one another, and supporting one another.
-
-
