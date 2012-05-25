@@ -1,4 +1,4 @@
-<!-- 3498 words.  Revise section on the characteristics of scenius -->
+<!-- 5153 words.  Revise section on the characteristics of scenius -->
 
 # Finding scenius
 
