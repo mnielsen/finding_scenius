@@ -203,21 +203,20 @@ a Florence-sized town, he'd be a well-known local artist, admired
 within a small sphere, but forgotten by history [1].
   
 
-## The problems of the term scenius
+## The problems of "scenius"
 
-I must admit the term "scenius" has significant problems.  It inherits
-many romantic overtones from the term "genius", overtones which make
-it easy to use in a way that is vague and wishy-washy.  (Thus some of
-the pedanticism in this essay).  Misused, both terms can easily
-mislead more than they enlighten.  They become empty explanations:
-"She was a genius as a piano player" can easily mutate into: "She was
-part of an enormous eruption of scenius in music in her town." Both
+The term "scenius" has significant problems.  It inherits many
+romantic overtones from the term "genius", overtones which make it
+easy to misuse "scenius" in a way that is vague and wishy-washy.  The
+empty platitude "she was a genius piano player" can become "she was
+part of an enormous eruption of scenius in music in her town". Both
 are equally devoid of explanatory power.
 
 Despite these problems, scenius reminds us forcefully that it's not
-just individual talent that matters.  At least as important is working
-in the right area at the right time, and having a rich and stimulating
-environment.  And these things make scenius worth thinking about in depth.
+just individual talent that matters.  It's at least as important to be
+working in the right area at the right time, and in a rich and
+stimulating environment.  And these things make scenius worth thinking
+about in depth.
   
 
 
