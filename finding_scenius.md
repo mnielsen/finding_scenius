@@ -81,7 +81,7 @@ seems unlikely that it was primarily the environment which caused
 their future accomplishments.
 
 By contrast, the great painters of Florence named above were all born
-in Florence, or in the countryside nearby.  And so it really was
+in Florence, or in the countryside nearby [*].  And so it really was
 living in Florence during the 15th century which _caused_ these people
 to become better painters.
 
@@ -297,56 +297,121 @@ criterion.  So we can confidently reject the genius hypothesis.
 
 ## Scenius and the adjacent possible
 
-The author [Stephen Johnson](XXX) has developed the idea of the
-_adjacent possible_ [*] in his book [XXX](XXX).  The adjacent possible
-is XXX (quote from WSJ?)
+The author [Steven Johnson](http://www.stevenberlinjohnson.com/) has
+developed the idea of the _adjacent possible_ [*] in his book
+[Where Good Ideas Come From](http://www.amazon.com/exec/obidos/ASIN/1594487715/stevenberlinj-20).
+The adjacent possible is the set of ideas, discoveries and inventions
+that we've _nearly_ made.  They're just waiting to happen, on the tip
+of our collective tongue.  In Johnson's words in the
+[Wall Street Journal](http://online.wsj.com/article/SB10001424052748703989304575503730101860838.html)
+(adapted from the book):
 
-Consider, for example, Einstein's Special Theory of Relativity.  If
-you don't know anything about the history it sounds like a miraculous
-breakthrough: Einstein shows up and tells us that time, space, mass
-and energy all need to be radically rethought!  It appears as a
-miracle.  But if you look in detail at the history, Einstein's work is
-really a much smaller next step from the work of many of his
-contemporaties and immediate predecessors, people such as XXX.  He was
-building directly on their ideas and thinking, just as they built on
-their predecssors.  This is not to undervalue Einstein's work.  But
-his work would not have been possible without that 
+> The adjacent possible is a kind of shadow future, hovering on the
+> edges of the present state of things, a map of all the ways in which
+> the present can reinvent itself.
+
+> The strange and beautiful truth about the adjacent possible is that
+> its boundaries grow as you explore them. Each new combination opens
+> up the possibility of other new combinations. Think of it as a house
+> that magically expands with each door you open. You begin in a room
+> with four doors, each leading to a new room that you haven't visited
+> yet. Once you open one of those doors and stroll into that room,
+> three new doors appear, each leading to a brand-new room that you
+> couldn't have reached from your original starting point. Keep
+> opening new doors and eventually you'll have built a palace.
+
+An example of the adjacent possible is Einstein's development of his
+Special Theory of Relativity.  If you know nothing about the history
+it sounds like a miraculous breakthrough: Einstein shows up and tells
+the world that time, space, mass and energy are all radically
+different than we thought!  But if you look in detail at the history,
+Einstein's work is really an incremental step building on the work of
+his contemporaties and immediate predecessors.  People such as
+Maxwell, Michelson, Morley, Lorentz, Fitzgerald and Poincaré had
+already realized that the speed of light might behave oddly in
+different reference frames, and that something might therefore be
+wrong with our intuitive notions of space and time.  Einstein built in
+part on their results, just as they built on their predecssors.  This
+is not to undervalue Einstein's work.  But his work was within the
+adjacent possible at the time.  
 
 It's tempting to think the adjacent possible is just about low-hanging
-fruit.  But it's not.  As an example, quantum teleportation was
-discovered in 1993.  Technically, it's a simple enough protocol that
-it could have been discovered in the 1920s.  By the 1930s physicists
-were routinely doing quantum mechanical calculations that were far
-more complex.  But they weren't asking the kind of questions that
-would lead to the discovery of quantum teleportation.  And those
-questions couldn't arise until a new narrative arose in the 1970s and
-1980s connecting physics and information.  It was that narrative ---
-not any technical breakthrough --- which dramatically expanded the
-adjacent possible, stimulating many new questions and research
-directions.
+fruit.  But that's not quite the right way to think.  As an example,
+[quantum teleportation](http://en.wikipedia.org/wiki/Quantum_teleportation)
+was discovered in 1993.  Technically, it's an extremely simple use of
+the ideas of quantum mechanics.  It could likely have been discovered
+in the 1920s, and certainly in the 1930s, by which time physicists
+were routinely doing far more complex quantum mechanical calculations.
+But they weren't asking the kind of questions that would lead to the
+discovery of quantum teleportation. Those questions didn't arise until
+a new narrative connecting physics and information was developed in
+the 1970s and 1980s.  It was that narrative --- not any technical
+breakthrough --- which dramatically expanded the adjacent possible.
+The new narrative stimulated many new questions and research
+directions, which could be answered with existing technical ideas (the
+principles of quantum mechanics).
 
-There seems to me to be a close connection between scenius and the
-adjacent possible.  Sometimes we get platform innovations: keystone
-tools or ideas that greatly expand the adjacent possible.  The
-introduction of the http protocol and the web browser circa XXX was an
-example.  It was a simple piece of technology.  But it dramatically
-expanded the adjacent possible, opening up a rich frontier, and
-creating the conditions for scenius to emerge.
+There is a close connection between scenius and the adjacent possible.
+Let me return to Johnson's analogy of the expanding house:
 
-And so I think one thing that really distinguishes scenius is that the
-adjacent possible has tremendously opened up.  A way of identifying
-scenius is to ask "Is the adjacent possible tremendously exciting?"
-My guess is that this is really the signal.  YOu go into a field
+> Each new combination opens up the possibility of other new
+> combinations. Think of it as a house that magically expands with
+> each door you open. You begin in a room with four doors, each
+> leading to a new room that you haven't visited yet. Once you open
+> one of those doors and stroll into that room, three new doors
+> appear, each leading to a brand-new room that you couldn't have
+> reached from your original starting point.
 
-**How most of us search for new projects:** When looking for new
-  projects it's tempting to look only at the adjacent possible within
-  domains we've already mastred.  That's not always a bad idea.  But
-  it does mean that we stay largely in the same scene.  Another
-  strategy is to take a step back and to get more of the big picture.
+Mostly, when we make discoveries, it's like opening a door into a room
+with a few more doors.  But occasionally people make platform
+discoveries that dramatically expand the adjacent possible.  It's like
+opening the door to a new room, and discovering a giant hall with
+thousands of doors.
 
+A good example of a platform innovation was the introduction of the
+http protocol and the web browser, circa 1990.  It was a simple piece
+of technology.  But it dramatically expanded the adjacent possible,
+opening up a rich frontier.  This, in turn, created the conditions for
+scenius to emerge.
 
-[*] The term is originally due to the XXX XXX XXX, who applied it in a
-XXX.
+And so one possible test  for scenius is whether the adjacent possible
+has tremendously  opened up.  You  can ask: "Is the  adjacent possible
+tremendously exciting?"  If the answer is obviously yes --- if you can
+see or guess that there are thousands of rich questions, waiting to be
+answered,  within reach  ---  then that's  a  clear signal  of a  rich
+frontier, and  good grounds for the emergence  of scenius.  Sometimes,
+of course, the answer _isn't_ yes  --- you can't see all the questions
+waiting to be answered.
+
+There's a connection here to how most of us work.  When looking for
+new projects it's tempting to look only at the adjacent possible
+within domains we've already mastered.  That's not always a bad idea.
+But if we do it all the time, then we'll always be staying in the same
+scene.  Another strategy is to take a step back and to get more of the
+big picture.
+
+In a sense, the way to do deep work is to specialize, and to focus
+hard, continually improving your skills within some domain.  But the
+way to work on the right stuff is to be a serious dilettante, someone
+who moves from field to field, not just skimming, but digging down
+intensively enough down a little.
+
+[Andre Gheim](http://en.wikipedia.org/wiki/Andre_Geim), the
+co-discoverer of graphene, has a lab tradition of "Friday-afternoon
+experiments" --- simple, playful experiments, often in areas he
+doesn't know well.  Most of the experiments don't work well.  But
+sometimes they're notable.  Geim say both his IgNobel prize work (for
+magnetically levitating a frog) and his Nobel prize work (for
+graphene) started with such experiments.  Geim says:
+
+> Many people chose a subject for their PhD and then continue the same
+> subject until they retire. I despise this approach. I have changed
+> my subject five times before I got my first tenured position and
+> that helped me to learn different subjects.
+
+In other words, he balances his deep, intensive work with wide-ranging
+exploration.
+
 
 ## Appendix: Is the internet still a rich frontier?
 
@@ -402,8 +467,18 @@ but there's much less than I'd _a priori_ expect.
   artist) than if all he could hope for was to be a well-known local
   artist.  The best way to sail is with the wind at your back.
 
-[*] I've been unable to track down a source for this.  I believe Brand
-said it in conversation with Marvin Minsky, but don't recall where.
+[*] Leonardo was also born in the Florentine countryside, and began to
+paint under the tutelage of a Florentine artist, and could arguably be
+included on my list of great Florentine painters.  But much of his
+mature work was produced elsewhere, so I have omitted him.
+
+[*] I've been unable to track down a source for this quote.  I believe
+Brand said it in conversation with Marvin Minsky, but don't recall
+where.
+
+[*] The term "adjacent possible" is originally due to the biologist
+[Stuart Kauffman](http://en.wikipedia.org/wiki/Stuart_Kauffman), who
+applied it to biological systems.
 
 ## Acknowledgements
 
@@ -886,3 +961,4 @@ they're willing to live this way, pushing the frontier of climbing.
   (especially the web) in the 1990s.  Possibly also today.  In each
   case there were major frontiers on which it had become possible to
   make rapid progress.
+
