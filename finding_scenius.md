@@ -1,6 +1,8 @@
-<!-- 3809 words -->
+<!-- 3498 words.  Revise section on the adjacent possible. -->
 
 # Finding scenius
+
+_Rough working notes on scenius._
 
 The artist Brian Eno has
 [introduced](http://www.kk.org/thetechnium/archives/2008/06/scenius_or_comm.php)
@@ -200,118 +202,25 @@ other, more important things.  If Michaelangelo had grown up today in
 a Florence-sized town, he'd be a well-known local artist, admired
 within a small sphere, but forgotten by history [1].
   
-# How to find scenius
 
-Where is scenius nascent today?
+## The problems of the term scenius
 
-It's tempting to think scenius must be in the high-prestige,
-fashionable, or rich fields or organizations. Just look at all the
-books and glossy magazine articles which have been written extolling
-the virtues of Google, Apple, private space ventures, and so on (fill
-in your favourite example here!)  If you believe what's written, these
-places are creative nirvana.
-
-I think it's quite a bit more complicated than the laudatory publicity
-suggests.
-
-I've no doubt Google, say, has many good or even great engineers.  But
-at the same time I doubt there are many parts of the organization
-which match the intensity of good ideas produced by Bell Labs, Xerox
-PARC, or the MIT AI Lab in their heyday.  Why is that?  And how can we
-find those places today?
-
-I think it's worth understanding
-
-One problem is that when a field becomes prestigious or fashionable,
-or a lot of money is available, then people who just want to coast
-arrive in droves.  It requires high barriers to keep those people out.
-  
-Walter Isaacson's
-[recent biography of Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
-makes it clear that one of Jobs's main functions at Apple was to act
-as a human barrier, either firing or driving away people who weren't
-superb at their job.  This no doubt had many negative consequences.
-But it's also part of the reason Apple maintained a very good core
-team, despite being high prestige.
-  
-An advantage of being high prestige is that also attracts many very
-smart, very determined people will be interested in participating.
-The problem is that those people will be a tiny subset of an avalanche
-of others.  Creating a great environment will require very good
-filters, both in terms of who you accept, and in terms of who you
-drive away.
-    
-The counter-argument is that lots of very smart, very determined
-people will also be in these fields.  My gut feeling is that while
-this is true, the density becomes relatively low.  Not as low as in
-many other fields, of course, but it's not amazing: it's not Florence
-in the 1400s, or Los Alamos in the 1940s.
-
-
-What really matters: the density of people 
-
-
-
-
-
-
-**What am I trying to do in the essay?** I'm not sure.  Partially I'm
-  just exploring a fascinating phenomenon for anyone interested in
-  human achievement or human institutions: the clustering of talent.
-  Why does it happen?  What does it mean?  Are there interesting
-  hypotheses about the clustering that we can rule in or out?
-
-  Partially I'm interested for much more personal reasons. I'm trying
-  to figure out what _I_ should be doing.  There are two problems with
-  this: (1) it's very personal, and it's hard to write about personal
-  stuff; and (2) it's incomplete: am I writing about scenius, or about
-  how to choose work?  Because of this there is a natural pull to make
-  this merely _part_ of a much larger and more ambitious essay on how
-  to choose work.  But that feels like more than I can or want to bite
-  off at present.
-  
-  Partially I'm interested in the question as an institutional design
-  problem.
-  
-  I'm left in an uncomfortable position: I have what seem like many
-  interesting observations.  But I don't have a natural frame to put
-  them in.
-  
-  One possibility would be just to stop, to make the first part of the
-  essay, above, the entirety of the essay, with some re-organization.
-  But I feel like I can do better.
-  
-  Another possibility: just go with something cheap: "Five signs of
-  scenius" or something like that.  Or maybe "Five signs you haven't
-  found scenius".  I'm perhaps trying too hard to find a narrative
-  thread, and should instead just tie things up, and let it go.
-
-
-  
-
-
-**A corollary to the above is to look for communities that are held
- together by something other than fashion, money, or prestige:**
- Often, they'll be held together by a shared ideal, or something else
- that is shared.  It may just be shared awareness of a frontier.
+I must admit the term "scenius" has some significant problems.  It
+inherits many of the romantic overtones I dislike about the term
+"genius".  It's easy to use in a way that is vague and wishy-washy.
+(Thus some of the pedanticism in this essay).  Misused, both terms can
+easily mislead more than they enlighten, becoming empty explanations:
+"She was a genius as a piano player" can easily mutate into the
+equally uninformative: "She was part of an enormous eruption of
+scenius in music in her town."
  
-An example is the case of Camp 4 at Yosemite.  Climbers at Camp 4 will
-often make a living by collecting and recycling aluminium
-cans. They'll live off boiled rice and peanut butter.  They're not
-doing it for the money.  And they're not doing it because it's
-fashionable or prestigious in the wider society.  Rather, they have a
-shared ideal of what matters, and they believe so strongly in it that
-they're willing to live this way, pushing the frontier of climbing.
+Despite these problems, I believe it's worth thinking about scenius.
+It reminds us forcefully of the fact that it's not just individual
+talent that matters.  At least as important is working in the right
+area at the right time, and having a rich and stimulating environment.
+And so for those reasons it's worth thinking about in some depth.
+  
 
-**Is there a rich frontier to mine?** Think of painting at the end of
-  the 15th century.  Painting at the start of the 20th.  Quantum
-  computing in the early 1990s.  Physics in the 1920s.  The internet
-  (especially the web) in the 1990s.  Possibly also today.  In each
-  case there were major frontiers on which it had become possible to
-  make rapid progress.
-
-_As an experiment I drafted this essay on GitHub.  You can find the
-repository [here](https://github.com/mnielsen/finding_scenius)_
 
 ## Appendix: Isn't it a waste of time to talk about these squishy, vague ideas?
 
@@ -386,6 +295,59 @@ expect a great painter to emerge from about 1 city in every 10 of size
 collection of cities, I frankly think that's far too modest a
 criterion.  So we can confidently reject the genius hypothesis.
 
+## Scenius and the adjacent possible
+
+The author [Stephen Johnson](XXX) has developed the idea of the
+_adjacent possible_ [*] in his book [XXX](XXX).  The adjacent possible
+is XXX (quote from WSJ?)
+
+Consider, for example, Einstein's Special Theory of Relativity.  If
+you don't know anything about the history it sounds like a miraculous
+breakthrough: Einstein shows up and tells us that time, space, mass
+and energy all need to be radically rethought!  It appears as a
+miracle.  But if you look in detail at the history, Einstein's work is
+really a much smaller next step from the work of many of his
+contemporaties and immediate predecessors, people such as XXX.  He was
+building directly on their ideas and thinking, just as they built on
+their predecssors.  This is not to undervalue Einstein's work.  But
+his work would not have been possible without that 
+
+It's tempting to think the adjacent possible is just about low-hanging
+fruit.  But it's not.  As an example, quantum teleportation was
+discovered in 1993.  Technically, it's a simple enough protocol that
+it could have been discovered in the 1920s.  By the 1930s physicists
+were routinely doing quantum mechanical calculations that were far
+more complex.  But they weren't asking the kind of questions that
+would lead to the discovery of quantum teleportation.  And those
+questions couldn't arise until a new narrative arose in the 1970s and
+1980s connecting physics and information.  It was that narrative ---
+not any technical breakthrough --- which dramatically expanded the
+adjacent possible, stimulating many new questions and research
+directions.
+
+There seems to me to be a close connection between scenius and the
+adjacent possible.  Sometimes we get platform innovations: keystone
+tools or ideas that greatly expand the adjacent possible.  The
+introduction of the http protocol and the web browser circa XXX was an
+example.  It was a simple piece of technology.  But it dramatically
+expanded the adjacent possible, opening up a rich frontier, and
+creating the conditions for scenius to emerge.
+
+And so I think one thing that really distinguishes scenius is that the
+adjacent possible has tremendously opened up.  A way of identifying
+scenius is to ask "Is the adjacent possible tremendously exciting?"
+My guess is that this is really the signal.  YOu go into a field
+
+**How most of us search for new projects:** When looking for new
+  projects it's tempting to look only at the adjacent possible within
+  domains we've already mastred.  That's not always a bad idea.  But
+  it does mean that we stay largely in the same scene.  Another
+  strategy is to take a step back and to get more of the big picture.
+
+
+[*] The term is originally due to the XXX XXX XXX, who applied it in a
+XXX.
+
 ## Appendix: Is the internet still a rich frontier?
 
 Over the past decade I've heard many people say that the internet is
@@ -411,11 +373,12 @@ internet revolution hasn't happened yet.
 	  
 One sign of this is the many low-hanging fruit which remain.  
 
-For instance, it shocks me how little work there is on developing new
-internet protocols and new server and client software.  Danny Hillis
-once [observed](http://www.edge.org/documents/digerati/Hillis.html)
-that the web --- i.e., the http protocol --- is "the slime mold of the
-Internet".  
+For instance, it surprises me how little work there is on developing
+new internet protocols and new server and client software.  Danny
+Hillis once
+[observed](http://www.edge.org/documents/digerati/Hillis.html) that
+the web --- i.e., the http protocol --- is "the slime mold of the
+Internet".
 
 That summary seems exactly right.  Sure, the web and other existing
 protocols such as email and so on are neat.  But it's not as though
@@ -430,7 +393,7 @@ platforms --- things like
 [SPDY](http://en.wikipedia.org/wiki/SPDY).  Those things are great,
 but there's much less than I'd _a priori_ expect.
 
-# Footnotes
+## Footnotes
 
 [1] I wonder about the importance of feedback effects.  The Florentine
   Michaelangelo must at some point have realized that he had an
@@ -442,12 +405,17 @@ but there's much less than I'd _a priori_ expect.
 [*] I've been unable to track down a source for this.  I believe Brand
 said it in conversation with Marvin Minsky, but don't recall where.
 
-# Acknowledgements
+## Acknowledgements
 
 Thanks to [Jen Dodd](http://jendodd.com),
 [Ilya Grigorik](http://www.igvita.com) and
 [Hassan Masum](http://www.hassanmasum.com) for many conversations
 about these issues.
+
+## Note on the drafting of this essay ##
+
+As an experiment I drafted this essay on GitHub.  You can find the
+repository [here](https://github.com/mnielsen/finding_scenius)_
 
 
 # Attempt
@@ -534,7 +502,12 @@ groups inside an organization or field.
 
 
 
+# Notes
 
+
+  
+
+## What should I actually do?
 
 **What should I actually do?** Maybe write a series of articles.
   Frankly, I think it's actually.  Maybe more agressively link.  Ask
@@ -551,19 +524,19 @@ groups inside an organization or field.
 Things which bug me:
 
 **The tension between exploration and deep work:** Very few people are
-  good at finding scenius.  And to do so they need to explore a lot.
-  They become journalists --- like the people working on the Whole
-  Earth Catalog.  And there's a real tension between such exploration
-  and doing deep creative work.  Do I really believe this?  Brand and
-  several of the other Whole Earthers have done deep work.  Maybe it's
-  a question of alternating.  Maybe you spend some time doing a
-  "reconaissance in force" of several areas, writing articles, doing
-  interviews, trying to find the interesting edges.  And then you pick
-  a deep project to commit to, something that will take a few years.
-  I think it was Chandrasekhar who said that it took two years to do
-  significant work, so he kept changing fields every two years, and
-  then picking some new and important problem to be working on.  I
-  seem to recall Brand saying something similar.
+good at finding scenius.  And to do so they need to explore a lot.
+They become journalists --- like the people working on the Whole Earth
+Catalog.  And there's a real tension between such exploration and
+doing deep creative work.  Do I really believe this?  Brand and
+several of the other Whole Earthers have done deep work.  Maybe it's a
+question of alternating.  Maybe you spend some time doing a
+"reconaissance in force" of several areas, writing articles, doing
+interviews, trying to find the interesting edges.  And then you pick a
+deep project to commit to, something that will take a few years.  I
+think it was Chandrasekhar who said that it took two years to do
+significant work, so he kept changing fields every two years, and then
+picking some new and important problem to be working on.  I seem to
+recall Brand saying something similar.
 
 **WOndering whether my horizons are broad enough?** I'm painfully
   aware of how narrow my horizons are.  Maybe I should be looking to
@@ -582,60 +555,20 @@ Things which bug me:
 
 **Either commit to exploring full out, or else make a commitment to
   doing deep work in some area.**
+
+**How I'm framing this:** I'm framing this as a choice: do deep work
+  or find scenius.  
   
+**The story of the young Ed Witten.**
 
+**Some part of me wants to light on out, and do an exploration to find
+out what's interesting in the world.** Where is scenius today?  If you
+want to go beyond bland platitudes,
 
-
-**Scenius and the adjacent possible:** Stephen Johnson has this great
-  idea of the adjacent possible.  It's the idea ...  What really
-  distinguishes scenius is that the adjacent possible has tremendously
-  opened up.  A way of identifying scenius is to ask "Is the adjacent
-  possible tremendously exciting?"  My guess is that this is really
-  the signal.  YOu go into a field
-   
-**How most of us search for new projects:** When looking for new
-  projects it's tempting to look only at the adjacent possible within
-  domains we've already mastred.  That's not always a bad idea.  But
-  it does mean that we stay largely in the same scene.  Another
-  strategy is to take a step back and to get more of the big picture.
-  
-**Teleportation and the adjacent possible:** It's tempting to think
- the adjacent possible is just about low-hanging fruit.  But it's not.
- Quantum teleportation was discovered in 1993.  Technically, it's a
- simple enough protocol that it could have been discovered in the
- 1920s.  By the 1930s physicists were routinely doing quantum
- mechanical calculations that were far more complex.  But they weren't
- asking the kind of questions that would lead to the discovery of
- quantum teleportation.  And those questions couldn't arise until a
- new narrative had arisen about physics and information, a narrative
- that stimulated all sorts of interestng questions and research
- directions.
+    
     
 
-**Quantum computing:** I've had one or two experiences with scenius.
-  The first came in the field of quantum computing.  I worked on
-  quantum computing from 1992 to 2007.  From 1992-1994 I was largely
-  isolated from the (very small) community of people working on
-  quantum computing.  But in 1995 I started to become part of that
-  community.  And the scene was amazing.  From 1993 through 1996 saw
-  the invention of quantum teleportation, the fast quantum factoring
-  algorithm, the fast quantum search algorithm, quantum
-  error-correction, fault-tolerant quantum computing, and topological
-  quantum computing.  All of these are Nobel or near-Nobel level
-  achievements, in my opinion.  And they came out of a scientific
-  community that could get together in a small room for most of that
-  time.
-  
-  The second is too early to say.  But from 2007 to now I've
-  concentrated most of my creative work in open science.  And although
-  it's too early to say what the impact of open science will be, I
-  hope that from the viewpoint of history the current efforts will be
-  seen as having helped initiate a major transformation in how science
-  is done.
-    
-# Notes
-
-**Characteristics of scenius**
+## Characteristics of scenius
 
 + **A high density of dedicated people:** As I've argued above, they
   don't need to be supremely talented, but they must be dedicated, and
@@ -655,50 +588,6 @@ Things which bug me:
   the field also felt (to me) like it was much more competitive,
   because while the number of people had exploded, the intellectual
   frontier had not.
-
-
-
-
-**Queston for my readers: where is scenius nascent today?** So I will
-conclude this main part of my essay by asking my readers: where is
-scenius nascent today?  This is really a few different questions:
-
-+ **What are the most important emerging fields?** Typically, these
-are fields that have just opened up because of some other advance or
-advances.
-
-+ **Where are the best environments to work in?  Why?** Beware the
-distinction between great PR and branding, and real success.  MIT is a
-great brand, but individual groups at MIT will span the full range
-from superb creative incubators to complete dead ends.  All will
-appear glossy outwardly, and be quoted in the _New York Times_ as
-though they have equal authority.
-
-
-**Structure: three appendices:** This essay has not one but three
-appendices.  It's an unusual structure: they're mini-essays that
-didn't fit into the main part of the essay.  I could have spun them
-out into separate blog posts, but they would have lost important
-context.  So I've opted instead for a loose integration.
-
-
-
-
-
-**Scenius radar:** Some people have amazing scenius radar.  Consider
-Stewart Brand. Here's a list of fields, institutions and people he
-identified _before_ they became famous: Doug Engelbart, LSD, ecology,
-the Grateful Dead, Xerox PARC, Paul Ehrlich, the hippy movement.  That
-list could be continued almost _ad infinitum_; over the last fifty
-years if you wanted to know "What's interesting?" then you could do a
-lot worse than answer "Whatever Stewart Brand is paying attention to
-right now".
-
-I don't know how Brand did this.  But I'll bet it helped that he ran
-the Whole Earth Catalog.  It's purpose was pretty much to _find_ the
-most interesting stuff going on.
-
-
 
 
 **Prestige, fashion, and barriers:** One problem is that when a field
@@ -747,14 +636,80 @@ despite being high prestige.
 
 
 
-**I there really anything at all to the notion of scenius?** Even the
-  term sounds kind of vague and wishy-washy.  It also has the problem
-  that for most people it's not very concrete.  They've never had the
-  experience. They don't know what it feels like to be inside a
-  fantastic scene.  Richard Feynman's story of running into Max
-  Delbruck(?), and why he stayed at Caltech.
+## Brushes with scenius
 
 
+**Quantum computing:** I've had one or two experiences with scenius.
+  The first came in the field of quantum computing.  I worked on
+  quantum computing from 1992 to 2007.  From 1992-1994 I was largely
+  isolated from the (very small) community of people working on
+  quantum computing.  But in 1995 I started to become part of that
+  community.  And the scene was amazing.  From 1993 through 1996 saw
+  the invention of quantum teleportation, the fast quantum factoring
+  algorithm, the fast quantum search algorithm, quantum
+  error-correction, fault-tolerant quantum computing, and topological
+  quantum computing.  All of these are Nobel or near-Nobel level
+  achievements, in my opinion.  And they came out of a scientific
+  community that could get together in a small room for most of that
+  time.
+  
+  The second is too early to say.  But from 2007 to now I've
+  concentrated most of my creative work in open science.  And although
+  it's too early to say what the impact of open science will be, I
+  hope that from the viewpoint of history the current efforts will be
+  seen as having helped initiate a major transformation in how science
+  is done.
+
+
+## Other notes
+
+
+
+**Structure: multiple appendices:** This essay has XXX appendices.  If
+  this were a magazine article they'd be boxes in the text: they're
+  mini-articles that didn't fit into the main part of the essay.  I
+  could have spun them out into separate blog posts, but they would
+  have lost important context.  So I've opted instead for a loose
+  integration.
+
+**Queston for my readers: where is scenius nascent today?** So I will
+conclude this main part of my essay by asking my readers: where is
+scenius nascent today?  This is really a few different questions:
+
++ **What are the most important emerging fields?** Typically, these
+are fields that have just opened up because of some other advance or
+advances.
+
++ **Where are the best environments to work in?  Why?** Beware the
+distinction between great PR and branding, and real success.  MIT is a
+great brand, but individual groups at MIT will span the full range
+from superb creative incubators to complete dead ends.  All will
+appear glossy outwardly, and be quoted in the _New York Times_ as
+though they have equal authority.
+
+
+  
+
+
+
+**Scenius radar:** Some people have amazing scenius radar.  Consider
+Stewart Brand. Here's a list of fields, institutions and people he
+identified _before_ they became famous: Doug Engelbart, LSD, ecology,
+the Grateful Dead, Xerox PARC, Paul Ehrlich, the hippy movement.  That
+list could be continued almost _ad infinitum_; over the last fifty
+years if you wanted to know "What's interesting?" then you could do a
+lot worse than answer "Whatever Stewart Brand is paying attention to
+right now".
+
+I don't know how Brand did this.  But I'll bet it helped that he ran
+the Whole Earth Catalog.  It's purpose was pretty much to _find_ the
+most interesting stuff going on.
+
+
+
+
+
+ 
 
 **Advantage of being high prestige:** An advantage of being high
 prestige is that also attracts many very smart, very determined people
@@ -877,3 +832,57 @@ other studios have.
   else is a drone.  It's hard to know from the outside.
 
 
+
+**What am I trying to do in the essay?** I'm not sure.  Partially I'm
+  just exploring a fascinating phenomenon for anyone interested in
+  human achievement or human institutions: the clustering of talent.
+  Why does it happen?  What does it mean?  Are there interesting
+  hypotheses about the clustering that we can rule in or out?
+
+  Partially I'm interested for much more personal reasons. I'm trying
+  to figure out what _I_ should be doing.  There are two problems with
+  this: (1) it's very personal, and it's hard to write about personal
+  stuff; and (2) it's incomplete: am I writing about scenius, or about
+  how to choose work?  Because of this there is a natural pull to make
+  this merely _part_ of a much larger and more ambitious essay on how
+  to choose work.  But that feels like more than I can or want to bite
+  off at present.
+  
+  Partially I'm interested in the question as an institutional design
+  problem.
+  
+  I'm left in an uncomfortable position: I have what seem like many
+  interesting observations.  But I don't have a natural frame to put
+  them in.
+  
+  One possibility would be just to stop, to make the first part of the
+  essay, above, the entirety of the essay, with some re-organization.
+  But I feel like I can do better.
+  
+  Another possibility: just go with something cheap: "Five signs of
+  scenius" or something like that.  Or maybe "Five signs you haven't
+  found scenius".  I'm perhaps trying too hard to find a narrative
+  thread, and should instead just tie things up, and let it go.
+
+
+
+
+**A corollary to the above is to look for communities that are held
+ together by something other than fashion, money, or prestige:**
+ Often, they'll be held together by a shared ideal, or something else
+ that is shared.  It may just be shared awareness of a frontier.
+ 
+An example is the case of Camp 4 at Yosemite.  Climbers at Camp 4 will
+often make a living by collecting and recycling aluminium
+cans. They'll live off boiled rice and peanut butter.  They're not
+doing it for the money.  And they're not doing it because it's
+fashionable or prestigious in the wider society.  Rather, they have a
+shared ideal of what matters, and they believe so strongly in it that
+they're willing to live this way, pushing the frontier of climbing.
+
+**Is there a rich frontier to mine?** Think of painting at the end of
+  the 15th century.  Painting at the start of the 20th.  Quantum
+  computing in the early 1990s.  Physics in the 1920s.  The internet
+  (especially the web) in the 1990s.  Possibly also today.  In each
+  case there were major frontiers on which it had become possible to
+  make rapid progress.
