@@ -195,12 +195,13 @@ it's better to be moderately talented and in the right place at the
 right time than it is to be supremely talented and in the wrong place
 at the wrong time.  
 
-In a sense, I think this over-emphasis we have on talent is
-destructive.  It's not a myth --- different people do have different
-levels of talent.  But we overemphasize talent at the expense of
-other, more important things.  If Michaelangelo had grown up today in
-a Florence-sized town, he'd be a well-known local artist, admired
-within a small sphere, but forgotten by history [1].
+This over-emphasis we have on talent is enormously destructive.  It's
+not exactly a myth --- different people do have different levels of
+talent.  But it's such a tiny part of the overall picure, and we
+overemphasize talent at the expense of other, more important things.
+If Michaelangelo had grown up today in a Florence-sized town, he'd be
+a well-known local artist, admired within a small sphere, but
+forgotten by history [1].
   
 
 ## The problems of "scenius"
