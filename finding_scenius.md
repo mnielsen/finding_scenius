@@ -1,4 +1,4 @@
-<!-- 3498 words.  Revise section on the adjacent possible. -->
+<!-- 3498 words.  Revise section on the characteristics of scenius -->
 
 # Finding scenius
 
@@ -293,6 +293,57 @@ expect a great painter to emerge from about 1 city in every 10 of size
 100,000.  While some notable painters will likely come out of such a
 collection of cities, I frankly think that's far too modest a
 criterion.  So we can confidently reject the genius hypothesis.
+
+## Appendix: Characteristics of scenius
+
+While writing these notes I spent quite a bit of time attempting to
+enumerate characterisitics of scenius.  Kevin Kelly has such a list in
+his blog post:
+
+> + Mutual appreciation -- Risky moves are applauded by the group,
+>   subtlety is appreciated, and friendly competition goads the
+>   shy. Scenius can be thought of as the best of peer pressure.
+>
+> + Rapid exchange of tools and techniques -- As soon as something is
+>   invented, it is flaunted and then shared. Ideas flow quickly
+>   because they are flowing inside a common language and sensibility.
+>
+> + Network effects of success -- When a record is broken, a hit
+>   happens, or breakthrough erupts, the success is claimed by the
+>   entire scene. This empowers the scene to further success.
+>
+> + Local tolerance for the novelties -- The local "outside" does not
+>   push back too hard against the transgressions of the scene. The
+>   renegades and mavericks are protected by this buffer zone.
+
+Such lists are interesting and stimulating.  But what bugs me, I
+think, is that at the end of the day these characteristics seem more
+like consequences of scenius than anything else.  I am, if you like,
+more interested in the _underlying mechanics_ of scenius than I am in
+the external _characteristics_.
+
+However, I will mention two characteristics that seem to me to be
+worth noting, and very close to the underlying mechanics.
+
+First, scenius requires _a high density of dedicated people_.  The
+people in a great scene don't need to be supremely talented, but they
+must be dedicated and fearless, ambitious to create.  Michaelangelo
+wasn't coasting.
+
+Second, _the creative frontier is large, relative to the number of
+people involved_.  A field that is fun and stimulating when 50 people
+are involved may become overcrowded with 5,000 people.  People get
+squeeze into tiny boxes, pursuing tiny dreams.  Furthermore, people
+start to _feel_ as though there is more competition, even if there are
+actually more resources _per capita_.  They become more selfish, less
+helpful, and less willing to share.  You feel less buoyed by others.
+
+I had an experience like this.  I worked in quantum computing from
+1992 through 2007.  And even though far more resources were available
+per person to do quantum computing in 2007, the field also felt (to
+me) like it was much more competitive, because while the number of
+people had exploded, the intellectual frontier had not.
+
 
 ## Appendix: Scenius and the adjacent possible
 
@@ -697,26 +748,21 @@ want to go beyond bland platitudes,
     
     
 
-## Characteristics of scenius
 
-+ **A high density of dedicated people:** As I've argued above, they
-  don't need to be supremely talented, but they must be dedicated, and
-  ambitious to create.  Michaelangelo wasn't coasting.
+## Creating Scenius
 
-+ **The creative frontier is large, relative to the number of people
-  involved:** This is pretty vague. A field that is fun and ripe if
-  just 50 people are involved may be overcrowded if 5,000 people are
-  involved.  People start to get squeezed into tiny little boxes,
-  pursuing tiny dreams.  Furthermore, people start to _feel_ as though
-  there is more competition, even if there are actually more resources
-  per capita.  The result is that they can become more selfish,
-  restricting the flow of information.  You feel less buoyed by
-  others.  I had an experience like this: I worked in quantum
-  computing from 1992 through 2007.  And even though far more
-  resources were available per person to do quantum computing in 2007,
-  the field also felt (to me) like it was much more competitive,
-  because while the number of people had exploded, the intellectual
-  frontier had not.
+If I'm uncomfortable talking about characteristics of scenius, I am
+even more uncomfortable talking about
+
+institutional design.
+
+Desire of many leaders the world over.  "next SIlicon Valley" etc.
+
+MARs photo.
+
+
+
+## Scenius anti-patterns
 
 
 **Prestige, fashion, and barriers:** One problem is that when a field
@@ -999,4 +1045,11 @@ other studios have.
   (especially the web) in the 1990s.  Possibly also today.  In each
   case there were major frontiers on which it had become possible to
   make rapid progress.
+
+
+**State Lehrer's problem:** Empircally, great outbursts of talent
+  really do occur.  And we can .  Is there some way of designing
+  institutions
+  
+**Look of some of the people Lehrer citse.**
 
