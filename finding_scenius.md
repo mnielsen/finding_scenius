@@ -205,20 +205,19 @@ within a small sphere, but forgotten by history [1].
 
 ## The problems of the term scenius
 
-I must admit the term "scenius" has some significant problems.  It
-inherits many of the romantic overtones I dislike about the term
-"genius".  It's easy to use in a way that is vague and wishy-washy.
-(Thus some of the pedanticism in this essay).  Misused, both terms can
-easily mislead more than they enlighten, becoming empty explanations:
-"She was a genius as a piano player" can easily mutate into the
-equally uninformative: "She was part of an enormous eruption of
-scenius in music in her town."
- 
-Despite these problems, I believe it's worth thinking about scenius.
-It reminds us forcefully of the fact that it's not just individual
-talent that matters.  At least as important is working in the right
-area at the right time, and having a rich and stimulating environment.
-And so for those reasons it's worth thinking about in some depth.
+I must admit the term "scenius" has significant problems.  It inherits
+many romantic overtones from the term "genius", overtones which make
+it easy to use in a way that is vague and wishy-washy.  (Thus some of
+the pedanticism in this essay).  Misused, both terms can easily
+mislead more than they enlighten.  They become empty explanations:
+"She was a genius as a piano player" can easily mutate into: "She was
+part of an enormous eruption of scenius in music in her town." Both
+are equally devoid of explanatory power.
+
+Despite these problems, scenius reminds us forcefully that it's not
+just individual talent that matters.  At least as important is working
+in the right area at the right time, and having a rich and stimulating
+environment.  And these things make scenius worth thinking about in depth.
   
 
 
@@ -295,7 +294,7 @@ expect a great painter to emerge from about 1 city in every 10 of size
 collection of cities, I frankly think that's far too modest a
 criterion.  So we can confidently reject the genius hypothesis.
 
-## Scenius and the adjacent possible
+## Appendix: Scenius and the adjacent possible
 
 The author [Steven Johnson](http://www.stevenberlinjohnson.com/) has
 developed the idea of the _adjacent possible_ [*] in his book
@@ -410,7 +409,62 @@ graphene) started with such experiments.  Geim says:
 > that helped me to learn different subjects.
 
 In other words, he balances his deep, intensive work with wide-ranging
-exploration.
+exploration.  Or consider the following
+[story](http://www.colby.edu/colby.mag/issues/84n3/ivory.html) about
+the great string theorist Ed Witten, told by a friend of Witten's from
+the 1970s:
+
+> How long will you need to find your truest, most productive niche?
+> This I cannot predict, for, sadly, access to a podium confers no
+> gift of prophecy. But I can say that however long it takes, it will
+> be time well spent. I am reminded of a friend from the early 1970s,
+> Edward Witten. I liked Ed, but felt sorry for him, too, because, for
+> all his potential, he lacked focus. He had been a history major in
+> college, and a linguistics minor. On graduating, though, he
+> concluded that, as rewarding as these fields had been, he was not
+> really cut out to make a living at them. He decided that what he was
+> really meant to do was study economics. And so, he applied to
+> graduate school, and was accepted at the University of
+> Wisconsin. And, after only a semester, he dropped out of the
+> program. Not for him. So, history was out; linguistics, out;
+> economics, out. What to do? This was a time of widespread political
+> activism, and Ed became an aide to Senator George McGovern, then
+> running for the presidency on an anti-war platform. He also wrote
+> articles for political journals like the Nation and the New
+> Republic. After some months, Ed realized that politics was not for
+> him, because, in his words, it demanded qualities he did not have,
+> foremost among them common sense. All right, then: history,
+> linguistics, economics, politics, were all out as career
+> choices. What to do? Ed suddenly realized that he was really suited
+> to study mathematics. So he applied to graduate school, and was
+> accepted at Princeton. I met him midway through his first year
+> there--just after he had dropped out of the mathematics
+> department. He realized, he said, that what he was really meant to
+> do was study physics; he applied to the physics department, and was
+> accepted.
+>
+> I was happy for him. But I lamented all the false starts he had
+> made, and how his career opportunities appeared to be passing him
+> by. Many years later, in 1987, I was reading the New York Times
+> magazine and saw a full-page picture akin to a mug shot, of a thin
+> man with a large head staring out of thick glasses. It was Ed
+> Witten! I was stunned. What was he doing in the Times magazine?
+> Well, he was being profiled as the Einstein of his age, a pioneer of
+> a revolution in physics called "String Theory." Colleagues at
+> Harvard and Princeton, who marvelled at his use of bizarre
+> mathematics to solve physics problems, claimed that his ideas,
+> popularly called a "theory of everything," might at last explain the
+> origins and nature of the cosmos. Ed said modestly of his theories
+> that it was really much easier to solve problems when you analyzed
+> them in at least ten dimensions. Perhaps. Much clearer to me was an
+> observation Ed made that appeared near the end of this article:
+> every one of us has talent; the great challenge in life is finding
+> an outlet to express it. I thought, he has truly earned the right to
+> say that. And I realized that, for all my earlier concerns that he
+> had squandered his time, in fact his entire career path--the
+> ventures in history, linguistics, economics, politics, math, as well
+> as physics--had been rewarding: a time of hard work, self-discovery,
+> and new insight into his potential based on growing experience.
 
 
 ## Appendix: Is the internet still a rich frontier?
@@ -487,7 +541,7 @@ Thanks to [Jen Dodd](http://jendodd.com),
 [Hassan Masum](http://www.hassanmasum.com) for many conversations
 about these issues.
 
-## Note on the drafting of this essay ##
+## Note on the drafting of this essay
 
 As an experiment I drafted this essay on GitHub.  You can find the
 repository [here](https://github.com/mnielsen/finding_scenius)_
@@ -634,7 +688,7 @@ recall Brand saying something similar.
 **How I'm framing this:** I'm framing this as a choice: do deep work
   or find scenius.  
   
-**The story of the young Ed Witten.**
+
 
 **Some part of me wants to light on out, and do an exploration to find
 out what's interesting in the world.** Where is scenius today?  If you
@@ -667,9 +721,10 @@ want to go beyond bland platitudes,
 
 **Prestige, fashion, and barriers:** One problem is that when a field
 becomes prestigious or fashionable, or a lot of money is available,
-then people who just want to coast arrive in droves.  It requires high
-barriers to keep those people out.
-  
+then people who just want to coast arrive in droves.  There's an
+inrush of poseurs and 9-to-5ers.  It requires high barriers to keep
+those people out.
+
 **Jobs and high barriers:** Walter Isaacson's
 [recent biography of Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
 shows that one of Jobs's main functions at Apple was to act as a human
@@ -708,6 +763,20 @@ despite being high prestige.
  holds themself to high standards.  The latter will be forgiven and
  perhaps even celebrated when they come up short, if much was learnt
  through the failure.
+
+
+**A corollary to the above is to look for communities that are held
+ together by something other than fashion, money, or prestige:**
+ Often, they'll be held together by a shared ideal, or something else
+ that is shared.  It may just be shared awareness of a frontier.
+ 
+An example is the case of Camp 4 at Yosemite.  Climbers at Camp 4 will
+often make a living by collecting and recycling aluminium
+cans. They'll live off boiled rice and peanut butter.  They're not
+doing it for the money.  And they're not doing it because it's
+fashionable or prestigious in the wider society.  Rather, they have a
+shared ideal of what matters, and they believe so strongly in it that
+they're willing to live this way, pushing the frontier of climbing.
 
 
 
@@ -847,9 +916,6 @@ of people involved.
 
 
  
-**What isn't scenius?** If something is fashionable or there's lots of
-  money to do it (or both).  This causes an inrush of poseurs and
-  9-to-5ers.  
 
 **Other places:** Where in academia?  What do I think of academia in
   this context, generally?  What about public intellectualism?
@@ -859,12 +925,14 @@ of people involved.
 
 
 
-**It doesn't come out of companies:** I wonder. Many of
-  Michaelangelo's greatest works were, of course, produced on
-  commission.  I think a problem with companies is that people in them
-  often don't get the credit for what they do, and they often have to
-  fit into someone else's tighty controlled narrative.  Neither is
-  good for doing excellent work.
+**Does it come out of companies?** Sometimes it does.  And it's often
+  done for commercial reasons.  Many of Michaelangelo's greatest works
+  were, of course, produced on commission.  I think a problem with
+  companies is that people in them often don't get the credit for what
+  they do, and they often have to fit into someone else's tighty
+  controlled narrative.  Neither is good for doing excellent work.
+  Furthermore, the incentives facing the company often favour
+  incremental maintenance work, not investing in rich frontiers.
     
 
 **Brainstorming questions:** How to find scenius?  Where is scenius
@@ -923,37 +991,7 @@ other studios have.
   to choose work.  But that feels like more than I can or want to bite
   off at present.
   
-  Partially I'm interested in the question as an institutional design
-  problem.
-  
-  I'm left in an uncomfortable position: I have what seem like many
-  interesting observations.  But I don't have a natural frame to put
-  them in.
-  
-  One possibility would be just to stop, to make the first part of the
-  essay, above, the entirety of the essay, with some re-organization.
-  But I feel like I can do better.
-  
-  Another possibility: just go with something cheap: "Five signs of
-  scenius" or something like that.  Or maybe "Five signs you haven't
-  found scenius".  I'm perhaps trying too hard to find a narrative
-  thread, and should instead just tie things up, and let it go.
 
-
-
-
-**A corollary to the above is to look for communities that are held
- together by something other than fashion, money, or prestige:**
- Often, they'll be held together by a shared ideal, or something else
- that is shared.  It may just be shared awareness of a frontier.
- 
-An example is the case of Camp 4 at Yosemite.  Climbers at Camp 4 will
-often make a living by collecting and recycling aluminium
-cans. They'll live off boiled rice and peanut butter.  They're not
-doing it for the money.  And they're not doing it because it's
-fashionable or prestigious in the wider society.  Rather, they have a
-shared ideal of what matters, and they believe so strongly in it that
-they're willing to live this way, pushing the frontier of climbing.
 
 **Is there a rich frontier to mine?** Think of painting at the end of
   the 15th century.  Painting at the start of the 20th.  Quantum
