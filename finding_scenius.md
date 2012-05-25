@@ -1,4 +1,5 @@
-<!-- 5153 words.  Revise section on the characteristics of scenius -->
+<!-- 5501 words.  Revise section on the characteristics of scenius,
+and on brushes with scenius -->
 
 # Finding scenius
 
@@ -517,6 +518,50 @@ the 1970s:
 > as physics--had been rewarding: a time of hard work, self-discovery,
 > and new insight into his potential based on growing experience.
 
+## Brushes with scenius
+
+I've had two extended brushes with scenius.
+
+The first was in the field of quantum computing.  I worked on quantum
+computing from 1992 to 2007.  From 1992 to 1994 I only had contact
+with a few people in the quantum computing community.  But in 1995 and
+especially 1996 I became a part of the international community of
+scientists working on quantum computing.
+
+The (theoretical) quantum computing scene at that time was amazing.
+From 1993 through 1996 saw the invention of quantum teleportation, the
+fast quantum factoring algorithm, the fast quantum search algorithm,
+quantum data compression, quantum error-correction, fault-tolerant
+quantum computing, and topological quantum computing.  All of these
+are Nobel or near-Nobel level achievements, in my opinion [*].  And
+they came out of a scientific community that, over most of that time,
+could get together in a single small room.
+
+Three things stand out, in retrospect.  
+
+First, at the time I didn't understand that anything remarkable was
+underway.  This was partially due to my youth: from 1993 to 1996
+corresponds to the years I was 19 to 23.  I just thought that's how
+science was done.  I shared offices or collaborated with many of the
+discoverers of the above phenomena, and thught little of it.  I wasn't
+yet scientifically mature enough to make a comparable contribution.
+
+XXX
+
+My second brush with scenius is merely a suspicion, at present,
+because I don't have the same historical and emotional distance.  From
+2007 to now I've concentrated my creative work on open science.  It's
+too early to say what the impact of open science will be.  But I hope
+that from the viewpoint of history the recent efforts will be seen as
+having helped initiate a major transformation in how science is done.
+They've been more scattered and diffuse than efforts in quantum
+computing.
+
+[*] This is not to say that all or indeed any of these will ever
+result in Nobel prizes.  Just that if I went to sleep tomorrow and
+woke up in 2050 I wouldn't be surprised to see any of the above on a
+list of Nobel prizes, or similarly prestigious awards.
+
 
 ## Appendix: Is the internet still a rich frontier?
 
@@ -566,11 +611,12 @@ but there's much less than I'd _a priori_ expect.
 ## Footnotes
 
 [1] I wonder about the importance of feedback effects.  The Florentine
-  Michaelangelo must at some point have realized that he had an
-  opportunity to be one of the great artists of all time.  That may
-  well have motivated him to work far harder (and thus become a better
-  artist) than if all he could hope for was to be a well-known local
-  artist.  The best way to sail is with the wind at your back.
+  Michaelangelo must have realized that he had an opportunity to be
+  one of the great artists of all time.  That may have motivated him
+  to work far harder (and thus become a better artist) than if all he
+  could hope for was to be a well-known local artist.  The same is
+  true of many leaders in other fields.  The best way to sail is with
+  the wind at your back.
 
 [*] Leonardo was also born in the Florentine countryside, and began to
 paint under the tutelage of a Florentine artist, and could arguably be
@@ -737,7 +783,7 @@ recall Brand saying something similar.
   doing deep work in some area.**
 
 **How I'm framing this:** I'm framing this as a choice: do deep work
-  or find scenius.  
+  or find scenius.  But you can alternate.
   
 
 
@@ -752,7 +798,8 @@ want to go beyond bland platitudes,
 ## Creating Scenius
 
 If I'm uncomfortable talking about characteristics of scenius, I am
-even more uncomfortable talking about
+even more uncomfortable talking about how to build organizations and
+institutions which create scenius.
 
 institutional design.
 
@@ -802,14 +849,13 @@ despite being high prestige.
 
 
 
-**The right types of failure are encouraged:** Some types of failure
- are punished, while others are rewarded.  When a scene is still
+**The right types of failure are encouraged:** When a scene is still
  small, people know each other.  They know when someone is a foolish
  dreamer with low standards, and when someone is a smart dreamer who
- holds themself to high standards.  The latter will be forgiven and
- perhaps even celebrated when they come up short, if much was learnt
- through the failure.
-
+ both gets things done and holds themself to high standards.  The
+ latter will be forgiven if they come up short, and and perhaps even
+ celebrated if much was learn through the failure.
+ 
 
 **A corollary to the above is to look for communities that are held
  together by something other than fashion, money, or prestige:**
@@ -825,30 +871,6 @@ shared ideal of what matters, and they believe so strongly in it that
 they're willing to live this way, pushing the frontier of climbing.
 
 
-
-## Brushes with scenius
-
-
-**Quantum computing:** I've had one or two experiences with scenius.
-  The first came in the field of quantum computing.  I worked on
-  quantum computing from 1992 to 2007.  From 1992-1994 I was largely
-  isolated from the (very small) community of people working on
-  quantum computing.  But in 1995 I started to become part of that
-  community.  And the scene was amazing.  From 1993 through 1996 saw
-  the invention of quantum teleportation, the fast quantum factoring
-  algorithm, the fast quantum search algorithm, quantum
-  error-correction, fault-tolerant quantum computing, and topological
-  quantum computing.  All of these are Nobel or near-Nobel level
-  achievements, in my opinion.  And they came out of a scientific
-  community that could get together in a small room for most of that
-  time.
-  
-  The second is too early to say.  But from 2007 to now I've
-  concentrated most of my creative work in open science.  And although
-  it's too early to say what the impact of open science will be, I
-  hope that from the viewpoint of history the current efforts will be
-  seen as having helped initiate a major transformation in how science
-  is done.
 
 
 ## Other notes
