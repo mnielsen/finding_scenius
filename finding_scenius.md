@@ -1,5 +1,5 @@
-<!-- 5501 words.  Revise section on the characteristics of scenius,
-and on brushes with scenius -->
+<!-- 5558 words.  Revise section on brushes with scenius and the
+characteristics of scenius -->
 
 # Finding scenius
 
@@ -219,8 +219,11 @@ just individual talent that matters.  It's at least as important to be
 working in the right area at the right time, and in a rich and
 stimulating environment.  And these things make scenius worth thinking
 about in depth.
-  
 
+In part because of this problem I'm going to alternate, sometimes
+using the term scenius, but also talking about a "great scene" on
+occasion.  The latter is more concrete, and reminds us that scenius
+isn't some mysterious property, but rather means something meaningful.
 
 ## Appendix: Isn't it a waste of time to talk about these squishy, vague ideas?
 
@@ -297,9 +300,10 @@ criterion.  So we can confidently reject the genius hypothesis.
 
 ## Appendix: Characteristics of scenius
 
-While writing these notes I spent quite a bit of time attempting to
-enumerate characterisitics of scenius.  Kevin Kelly has such a list in
-his blog post:
+While drafting these notes I spent considerable time attempting to
+list characteristics of scenius.  Kevin Kelly has a list of such
+characteristics in his
+[blog post](http://www.kk.org/thetechnium/archives/2008/06/scenius_or_comm.php):
 
 > + Mutual appreciation -- Risky moves are applauded by the group,
 >   subtlety is appreciated, and friendly competition goads the
@@ -317,14 +321,14 @@ his blog post:
 >   push back too hard against the transgressions of the scene. The
 >   renegades and mavericks are protected by this buffer zone.
 
-Such lists are interesting and stimulating.  But what bugs me, I
-think, is that at the end of the day these characteristics seem more
-like consequences of scenius than anything else.  I am, if you like,
-more interested in the _underlying mechanics_ of scenius than I am in
-the external _characteristics_.
+Such lists are interesting and stimulating.  But I found myself
+uncomfortable as I attempted to list such characteristics.  What bugs
+me is that such characteristics seem more like _consequences_ of
+scenius than _underlying causes_.  I'm much more interested in the
+mechanics of scenius than I am in the external characteristics.
 
-However, I will mention two characteristics that seem to me to be
-worth noting, and very close to the underlying mechanics.
+Because of this I'll list just two characteristics, both of which seem
+very close to the underlying mechanics of scenius.
 
 First, scenius requires _a high density of dedicated people_.  The
 people in a great scene don't need to be supremely talented, but they
@@ -334,10 +338,11 @@ wasn't coasting.
 Second, _the creative frontier is large, relative to the number of
 people involved_.  A field that is fun and stimulating when 50 people
 are involved may become overcrowded with 5,000 people.  People get
-squeeze into tiny boxes, pursuing tiny dreams.  Furthermore, people
-start to _feel_ as though there is more competition, even if there are
-actually more resources _per capita_.  They become more selfish, less
-helpful, and less willing to share.  You feel less buoyed by others.
+squeezed into tiny boxes, pursuing tiny dreams.  They start to feel as
+though there is more competition, even if there are actually more
+resources per capita.  As a result they become more selfish, less
+helpful, and less willing to share.  Outside your immediate colleagues
+you are less buoyed by others.
 
 I had an experience like this.  I worked in quantum computing from
 1992 through 2007.  And even though far more resources were available
@@ -1073,5 +1078,10 @@ other studios have.
   really do occur.  And we can .  Is there some way of designing
   institutions
   
-**Look of some of the people Lehrer citse.**
+**Look at some of the people Lehrer citse.**
 
+**Add some CC images: Michaelangelo.  Los ALamos.  The people there.
+  Etc.**
+
+**Make the notion of scenius as concrete as possible.** Images are
+  good.  This is part of what makes Camp 4 a good example.
