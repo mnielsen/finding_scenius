@@ -1,5 +1,5 @@
 <!-- 5558 words.  Revise section on brushes with scenius and the
-characteristics of scenius -->
+characteristics of scenius.  Insert some photos. -->
 
 # Finding scenius
 
@@ -27,6 +27,8 @@ As an example, conside the town of Florence in the 15th century.  At
 the time it had perhaps 100,000 inhabitants.  That's a tiny number,
 but included Michaelangelo, Botticelli, Masaccio, Fra Angelico,
 Donatello, and a host of lesser but still great painters.
+
+![Michaelangelo](http://en.wikipedia.org/wiki/File:Michelangelo-Buonarroti1.jpg)
 
 How remarkable a clustering of painters was this?
 
