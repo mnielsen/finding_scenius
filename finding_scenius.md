@@ -1,4 +1,4 @@
-<!-- 8437 words.  Revise section on the alternating approach -->
+<!-- 8413 words.  Revise section on the alternating approach -->
 
 # Finding scenius
 
@@ -125,12 +125,11 @@ example, and of the [Inklings](http://en.wikipedia.org/wiki/Inklings).
 
 Another way of countering the scenius hypothesis is to wonder whether
 ordinary statistical variation might explain the existence of a town
-like Florence.  After all, the world has contained many communities of
-100,000 people through history.  And some of those communities will
-contain an unusually large number of excellent artists, just by the
-luck of the draw.  Maybe the reason for Florence's success wasn't
-scenius, it was luck. _Some_ community had to have the most great
-artists, and maybe it just happened to be Florence.
+like Florence.  After all, just by the luck of the draw some
+communities will contain an unusually large number of excellent
+artists.  Maybe Florence wasn't successful because of scenius, but
+just because some community had to have the most great artists, and it
+just happened to be Florence.
 
 In the appendix I use a statistical model to test the idea that
 Florence was just lucky.  In particular, I test the _genius
@@ -431,11 +430,11 @@ in no uncertain terms:
   
 Torvalds's comment illustrates the attitude many technical people have
 about discussions of "soft" human-centred subjects.  And I'm acutely
-aware that this essay fits this bill just as much as do books such as
-Covery's.  We don't yet have a science which answers questions such as
-how to live an effective and meaningful life, how to create a great
-creative scene, and so on.  But such questions still matter, and so
-self-help books and essays rack up sales and pageviews.
+aware that this essay is an example of such.  We don't yet have a
+science which answers questions such as how to live an effective and
+meaningful life, how to create a great creative scene, and so on.  But
+such questions still matter, and so self-help books and essays rack up
+sales and pageviews.
   
 Many in the intellectual elite sneer at such self-help as
 witch-doctory.  "It's not real science", they say.  True.  But, and
