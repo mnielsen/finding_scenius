@@ -541,7 +541,7 @@ per person to do quantum computing in 2007, the field also felt (to
 me) like it was much more competitive, because while the number of
 people had exploded, the intellectual frontier had not.
 
-## Appendix: Creating Scenius
+## Appendix: Conjuring Scenius
 
 If I'm uncomfortable talking about characteristics of scenius, I am
 even more uncomfortable talking about how to build organizations and
@@ -580,12 +580,12 @@ The adjacent possible is the set of ideas, discoveries and inventions
 that we've _nearly_ made.  They're just waiting to happen, on the tip
 of our collective tongue.  In Johnson's words in the
 [Wall Street Journal](http://online.wsj.com/article/SB10001424052748703989304575503730101860838.html)
-(adapted from the book):
+(adapted from his book):
 
 > The adjacent possible is a kind of shadow future, hovering on the
 > edges of the present state of things, a map of all the ways in which
 > the present can reinvent itself.
-
+>
 > The strange and beautiful truth about the adjacent possible is that
 > its boundaries grow as you explore them. Each new combination opens
 > up the possibility of other new combinations. Think of it as a house
@@ -597,22 +597,25 @@ of our collective tongue.  In Johnson's words in the
 > opening new doors and eventually you'll have built a palace.
 
 An example of the adjacent possible is Einstein's development of his
-Special Theory of Relativity.  If you know nothing about the history
-it sounds like a miraculous breakthrough: Einstein shows up and tells
-the world that time, space, mass and energy are all radically
-different than we thought!  But if you look in detail at the history,
-Einstein's work is really an incremental step building on the work of
-his contemporaties and immediate predecessors.  People such as
+Special Theory of Relativity.  If you don't know the history, Special
+Relativity sounds like a miraculous bolt from the blue, this genius
+Einstein somehow divining that time, space, mass and energy are all
+radically different than we thought!  But if you examine the history
+in detail, Einstein's work is an incremental step building on the work
+of his contemporaties and immediate predecessors.  People such as
 Maxwell, Michelson, Morley, Lorentz, Fitzgerald and Poincaré had
-already realized that the speed of light might behave oddly in
-different reference frames, and that something might therefore be
-wrong with our intuitive notions of space and time.  Einstein built in
-part on their results, just as they built on their predecssors.  This
-is not to undervalue Einstein's work.  But his work was within the
-adjacent possible at the time.  
+already arrived at many of the key insights of relativity.
+Collectively, they'd realized that the speed of light might behave
+unexpectedly in different reference frames.  And they'd realized that
+something might therefore be wrong with our intuitive notions of space
+and time.  All this was in the air, with Einstein the person who
+finally put all these ideas together into a single, coherent
+theoretical package.  To some people this will sound like undervaluing
+Einstein's work.  But it's not.  It's merely to point out that his
+work was within the adjacent possible at the time.
 
 It's tempting to think the adjacent possible is just about low-hanging
-fruit.  But that's not quite the right way to think.  As an example,
+fruit.  But that's not the right way to think.  As an example,
 [quantum teleportation](http://en.wikipedia.org/wiki/Quantum_teleportation)
 was discovered in 1993.  Technically, it's an extremely simple use of
 the ideas of quantum mechanics.  It could likely have been discovered
@@ -741,49 +744,8 @@ the 1970s:
 > had squandered his time, in fact his entire career path--the
 > ventures in history, linguistics, economics, politics, math, as well
 > as physics--had been rewarding: a time of hard work, self-discovery,
-> and new insight into his potential based on growing experience.
+ > and new insight into his potential based on growing experience.
 
-## Brushes with scenius
-
-I've had two extended experiences with great scenes.
-
-The first was in the field of quantum computing.  I worked on quantum
-computing from 1992 to 2007.  From 1992 to 1994 I only had contact
-with a few people in the quantum computing community.  But in 1995 and
-especially 1996 I became a part of the international community of
-scientists working on quantum computing.
-
-The (theoretical) quantum computing scene at that time was amazing.
-From 1993 through 1996 saw the invention of
-[quantum teleportation](http://en.wikipedia.org/wiki/Quantum_teleportation),
-the fast
-[quantum factoring algorithm](http://en.wikipedia.org/wiki/Shor's_algorithm),
-the fast
-[quantum search algorithm](http://en.wikipedia.org/wiki/Grover's_algorithm),
-[quantum data compression](http://terpconnect.umd.edu/~dkafri/Jake_Taylor/articles/PhysRevA.51.2738.pdf),
-[quantum error correction](http://en.wikipedia.org/wiki/Quantum_error_correction),
-fault-tolerant quantum computing, and
-[topological quantum computing](http://www.theory.caltech.edu/~preskill/ph219/topological.pdf).
-All of these are Nobel- or near-Nobel-level achievements, in my
-opinion [*].  And they came out of a scientific community that, over
-most of that time, could get together in a single small room.
-
-It's notable that, at the time, I didn't understand that anything
-remarkable was underway.  This was partially due to inexperience: I
-was just 23 at the end of that period, in 1996.  I thought that's how
-science was done.  
-
-My second experience with scenius is more speculative.  From 2007 to
-the present I've concentrated my creative work on open science.  It's
-speculative because it's too early to say yet what the impact of open
-science will be.  But I hope that from the viewpoint of history the
-recent efforts will help initiate a major transformation in how
-science is done. 
-
-[*] This is not to say that all or indeed any of these will ever
-result in Nobel prizes.  Just that if I went to sleep tomorrow and
-woke up in 2050 I wouldn't be surprised to see any of the above on a
-list of Nobel prizes, or similarly prestigious awards.
 
 
 ## Appendix: Is the internet still a rich frontier?
@@ -1058,5 +1020,49 @@ repository [here](https://github.com/mnielsen/finding_scenius),
   And so it becomes hard to be a public intellectual in this sense.
   Problem with this story is exceptions: Darwin, Wilson, Dawkins (to
   some extent), and others.
+
+
+
+## Brushes with scenius
+
+I've had two extended experiences with great scenes.
+
+The first was in the field of quantum computing.  I worked on quantum
+computing from 1992 to 2007.  From 1992 to 1994 I only had contact
+with a few people in the quantum computing community.  But in 1995 and
+especially 1996 I became a part of the international community of
+scientists working on quantum computing.
+
+The (theoretical) quantum computing scene at that time was amazing.
+From 1993 through 1996 saw the invention of
+[quantum teleportation](http://en.wikipedia.org/wiki/Quantum_teleportation),
+the fast
+[quantum factoring algorithm](http://en.wikipedia.org/wiki/Shor's_algorithm),
+the fast
+[quantum search algorithm](http://en.wikipedia.org/wiki/Grover's_algorithm),
+[quantum data compression](http://terpconnect.umd.edu/~dkafri/Jake_Taylor/articles/PhysRevA.51.2738.pdf),
+[quantum error correction](http://en.wikipedia.org/wiki/Quantum_error_correction),
+fault-tolerant quantum computing, and
+[topological quantum computing](http://www.theory.caltech.edu/~preskill/ph219/topological.pdf).
+All of these are Nobel- or near-Nobel-level achievements, in my
+opinion [*].  And they came out of a scientific community that, over
+most of that time, could get together in a single small room.
+
+It's notable that, at the time, I didn't understand that anything
+remarkable was underway.  This was partially due to inexperience: I
+was just 23 at the end of that period, in 1996.  I thought that's how
+science was done.  
+
+My second experience with scenius is more speculative.  From 2007 to
+the present I've concentrated my creative work on open science.  It's
+speculative because it's too early to say yet what the impact of open
+science will be.  But I hope that from the viewpoint of history the
+recent efforts will help initiate a major transformation in how
+science is done. 
+
+[*] This is not to say that all or indeed any of these will ever
+result in Nobel prizes.  Just that if I went to sleep tomorrow and
+woke up in 2050 I wouldn't be surprised to see any of the above on a
+list of Nobel prizes, or similarly prestigious awards.
 
 -->
