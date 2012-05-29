@@ -792,16 +792,15 @@ Over the past decade I've heard many people say that the internet is
 over, and that the next great emerging frontier is clean energy, or
 space, _etc_.
 
-My instinct is that these people are wrong.  Not wrong to say that
-clean energy and space are emerging frontiers; they are.  But wrong to
-think that the internet is no longer a rich frontier.
+I believe these people are wrong.  Not wrong to say that clean energy
+and space are emerging frontiers (they are), but wrong to think the
+internet is no longer a rich frontier.
   
 There are huge problems still to be solved online.  We're a long way
 from networking every object and every event in the world.  We're
 drowning in human co-ordination problems.  We're drowning in data
-analysis problems.  Our tools for managing human attention are
-currently terrible.  And we're still a long way from artificial
-intelligence.
+analysis problems.  We still do a terrible job managing human
+attention.  And we're still a long way from artificial intelligence.
   
 Maybe there's insurmountable bottlenecks that will stop progress on
 all these problems.  But, at least today, progress on each continues
@@ -817,39 +816,44 @@ internet protocols and new server and client software.  Danny Hillis
 once [observed](http://www.edge.org/documents/digerati/Hillis.html)
 that the web --- i.e., the http protocol --- is "the slime mold of the
 Internet".  That seems exactly right to me.  Sure, the web and other
-existing protocols such as email and so on are neat.  But we've barely
-begun exploring what can be done with distributed user interfaces.
+existing protocols such as email, ftp and so on are neat.  But we've
+barely begun exploring what can be done with distributed user
+interfaces.
 
 Few communities are even exploring these issues in depth.  One which
 is is the online gaming community.  Games such as World of Warcraft
-start to show how remarkable distributed user interfaces can be.  But
-while that work is interesting, it's not leading to new open
-platforms.  We only see a trickle of work on developing new open
-platforms --- things like
-[BitTorrent](http://en.wikipedia.org/wiki/BitTorrent) and
-[SPDY](http://en.wikipedia.org/wiki/SPDY).  Over the next few decades
-we'll see many revolutions driven by new open platforms.
+are developing new ideas about distributed user interfaces and
+collective problem solving.  But while that work is interesting, it's
+not leading to new open platforms.  We only see a trickle of work on
+developing new open platforms --- things like
+[BitTorrent](http://en.wikipedia.org/wiki/BitTorrent),
+[SPDY](http://en.wikipedia.org/wiki/SPDY) and
+[Open Cobalt](http://en.wikipedia.org/wiki/Open_Cobalt).  Over the
+next few decades we'll see many revolutions driven by new open
+platforms.
 
-Now, none of this establishes that the internet is still a good place
-to find scenius.  What it establishes is that there are still huge
+None of this establishes that the internet is still a good place to
+find scenius.  What it establishes is that there are still huge
 problems worth solving, and arguably within reach.  But at the same
 time an enormous number of people are now working on internet
-companies.  Maybe that's diluted the scene over much?
+organizations.  Maybe that's diluted the scene over much?
 
-I don't think so.  It's true that most startups are focused on
-problems which don't matter, either because they're confused or
-unserious in their thinking (suprisingly common), or merely looking to
-make a quick buck.
+Provided one is a bit cautious, I don't think so.  It's true that most
+startups are focused on problems which don't matter, either because
+they're confused or unserious in their thinking, or merely looking to
+make a quick buck.  Somewhat surprisingly, I think the former is at
+least as much of a problem as the latter; I've met many startup
+founders who
 
 But there's also many startups making progress on problems which
 matter, with serious teams pushing the limits of deep ideas.
 Organizations such as Kickstarter, Kiva, and Khan Academy are all
 doing this.  And when small organizations are making real progress on
-fundamental problems, You know there's a lot of great stuff going on
+fundamental problems, you know there's a lot of great stuff going on
 inside those organizations.  So I think it's true that you need to
 avoid the confused, the unersious and the merely greedy.  But if you
 can do that, and instead find a serious group pushing on a problem
-that matters, then I think you're in good shape.
+that matters, then you have reason to be optimistic.
 
 ## Appendix: What should I actually do?
 
