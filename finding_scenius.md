@@ -789,47 +789,67 @@ list of Nobel prizes, or similarly prestigious awards.
 ## Appendix: Is the internet still a rich frontier?
 
 Over the past decade I've heard many people say that the internet is
-over, and that the great emerging frontier is clean energy, or space,
-_etc_.
+over, and that the next great emerging frontier is clean energy, or
+space, _etc_.
 
 My instinct is that these people are wrong.  Not wrong to say that
-clean energy and space are great emerging frontiers; they certainly
-are.  But wrong to think that the internet is over.
+clean energy and space are emerging frontiers; they are.  But wrong to
+think that the internet is no longer a rich frontier.
   
-There are huge problems that remain to be solved online.  We're a long
-way from networking every object and every event in the world.  We're
+There are huge problems still to be solved online.  We're a long way
+from networking every object and every event in the world.  We're
 drowning in human co-ordination problems.  We're drowning in data
-analysis problems.  And we're still a long way from artificial
+analysis problems.  Our tools for managing human attention are
+currently terrible.  And we're still a long way from artificial
 intelligence.
   
-Maybe there's insurmountable bottlenecks that will stop progress
-toward all these goals.  But, at least today, progress on each
-continues to hum along, and convincing bottlenecks hard to spot.  To
-paraphrase
+Maybe there's insurmountable bottlenecks that will stop progress on
+all these problems.  But, at least today, progress on each continues
+to hum along, and there's no convincing evidence of impassable
+bottlenecks.  To paraphrase
 [Alan Kay](http://www.vpri.org/pdf/m2007007a_revolution.pdf), the real
 internet revolution hasn't happened yet.
 	  
 One sign of this is the many low-hanging fruit which remain.  
 
-For instance, it surprises me how little work there is on developing
-new internet protocols and new server and client software.  Danny
-Hillis once
-[observed](http://www.edge.org/documents/digerati/Hillis.html) that
-the web --- i.e., the http protocol --- is "the slime mold of the
-Internet".
+As just one example, there's still enormous scope to develop new open
+internet protocols and new server and client software.  Danny Hillis
+once [observed](http://www.edge.org/documents/digerati/Hillis.html)
+that the web --- i.e., the http protocol --- is "the slime mold of the
+Internet".  That seems exactly right to me.  Sure, the web and other
+existing protocols such as email and so on are neat.  But we've barely
+begun exploring what can be done with distributed user interfaces.
 
-That summary seems exactly right.  Sure, the web and other existing
-protocols such as email and so on are neat.  But it's not as though
-we've done more than begin exploring what can be done with distributed
-user interfaces.  Few communities are even exploring this in depth.
-One which is is the online gaming community, and games such as World
-of Warcraft start to show how remarkable distributed user interfaces
-can be.  But while that work is interesting, it's not leading to new
-open platforms.  We only see a trickle of work on developing new open
+Few communities are even exploring these issues in depth.  One which
+is is the online gaming community.  Games such as World of Warcraft
+start to show how remarkable distributed user interfaces can be.  But
+while that work is interesting, it's not leading to new open
+platforms.  We only see a trickle of work on developing new open
 platforms --- things like
 [BitTorrent](http://en.wikipedia.org/wiki/BitTorrent) and
-[SPDY](http://en.wikipedia.org/wiki/SPDY).  Those things are great,
-but there's much less than I'd _a priori_ expect.
+[SPDY](http://en.wikipedia.org/wiki/SPDY).  Over the next few decades
+we'll see many revolutions driven by new open platforms.
+
+Now, none of this establishes that the internet is still a good place
+to find scenius.  What it establishes is that there are still huge
+problems worth solving, and arguably within reach.  But at the same
+time an enormous number of people are now working on internet
+companies.  Maybe that's diluted the scene over much?
+
+I don't think so.  It's true that most startups are focused on
+problems which don't matter, either because they're confused or
+unserious in their thinking (suprisingly common), or merely looking to
+make a quick buck.
+
+But there's also many startups making progress on problems which
+matter, with serious teams pushing the limits of deep ideas.
+Organizations such as Kickstarter, Kiva, and Khan Academy are all
+doing this.  And when small organizations are making real progress on
+fundamental problems, You know there's a lot of great stuff going on
+inside those organizations.  So I think it's true that you need to
+avoid the confused, the unersious and the merely greedy.  But if you
+can do that, and instead find a serious group pushing on a problem
+that matters, then I think you're in good shape.
 
 ## Appendix: What should I actually do?
 
