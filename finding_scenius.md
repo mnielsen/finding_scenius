@@ -817,6 +817,101 @@ avoid the confused, the unersious and the merely greedy.  But if you
 can do that, and instead find a serious group pushing on a problem
 that matters, then you have reason to be optimistic.
 
+A common criticim of the internet is that it has led to few truly
+major innovations.  Here's a
+[recent profile](http://www.newyorker.com/reporting/2011/11/28/111128fa_fact_packer?currentPage=all)
+of internet entrepreneur and venture capitalist Peter Thiel:
+
+> [Thiel] pulled an iPhone out of his jeans pocket and held it up. "I
+> don’t consider this to be a technological breakthrough," he
+> said. "Compare this with the Apollo space program."... The
+> information age has made Thiel rich, but it has also been a
+> disappointment to him. It hasn't created enough jobs, and it hasn’t
+> produced revolutionary improvements in manufacturing and
+> productivity. The creation of virtual worlds turns out to be no
+> substitute for advances in the physical world. "The Internet—I think
+> it's a net plus, but not a big one"
+
+Part of what makes this argument plausible is that the problems the
+net helps solve --- such as co-ordination and resource allocation --
+are intangible.  Services such as Kickstarter, Kiva and Meetup don't
+directly create qualitatively new classes of products.  That makes
+them intrinsically harder to appreciate than easily visible things
+like moon shots.  Instead, such services are meta-level innovations
+that enable us to allocate resources and to co-ordinate actions in
+ways that were formerly much harder or impossible.  Over the long run
+this intangible benefit may be more important than things such as moon
+shots.
+
+A similar situation occurred during the 17th century.  The late 17th
+century saw the invention of maritime insurance.  It probably seemed
+like a small thing compared to the heroic exploits of the great
+explorers of the age.  Yet, like Kickstarter and Kiva, maritime
+insurance provided a new way to allocate resources and to co-ordinate
+the actions of investors.  That was ultimately more important to the
+age of exploration than the bravery of few explorers.
+
+Another consequence of improved co-ordination technologies is the rise
+of the not-for-profit sector.  Between
+[1992](http://www.census.gov/prod/1/gen/95statab/socinsur.pdf) and
+[2007](http://www.census.gov/compendia/statab/cats/social_insurance_human_services/philanthropy_nonprofit_organizations_volunteering.html)
+the number of non-religious not-for-profits in the United States
+jumped from 36,000 to 313,000.  That's an astounding increase.  It's
+driven at least in part by improvement in co-ordination technologies.
+The author Paul Hawken has spoken movingly of the not-for-profit
+sector as providing the immune system of our civilization.  Some wrong
+or ill that you want to address?  Find some likeminded people and get
+together to attack the problem head on.  Some people (Thiel among
+them) will kvetch that the not-fr-profit sector is often inefficient
+or wrongheaded.  That's true.  But it's also true that they often
+address problems that cannot or are not being addressed by the
+for-profit sector.  They're the antibodies of our civilization, and
+the internet is nourishing them.
+
+None of the decisively rebuts Thiel's criticism.  But I think you can
+justifiably be skeptical, and optimistic that the internet is truly
+enabling great things.
+
+Another criticism of the internet is that much of it is frivolous. You
+can pay to
+[click on (premium) cows](http://www.bogost.com/blog/cow_clicker_1.shtml).
+[LOLCats](http://icanhascheezburger.com/).
+[TVTropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage).  
+
+I think the accusation of frivoloity is more easily dismissed.  In
+part that's because all general-purpose technologies are used for
+frivolous things.  That's just human nature.  We like to play and fool
+around.  The frivolity is also in part a consequence of the nature of
+innovation.  In any new sector people will try a lot of things that in
+retrospect seem silly, like
+[pets.com](http://en.wikipedia.org/wiki/Pets.com).  But this isn't a
+mistake, exactly.  Rather, it's a sign that the system is taking risks
+and trying things .  It's easy to say retrospectively that pets.com
+"obviously" wouldn't work.  Unfortunately, at the time it seemed even
+to optimists like Kevin Kelly and Larry Page that things like
+Wikipedia wouldn't work.  There's no substitute for actually trying
+things out.  But in hindisght that process of experimentation can seem
+frivolous.
+
+XXX
+
+Understanding the nature of the frontier: Perspective shift: looking
+at the internet as enabling active knowledge.  Then it becomes clear
+that we could have a billion people working on it and it would have
+many wonderful niches.  The key is to stay away from the crap.  The
+internet can no more be completed than can knowledge.  It's an
+open-ended platform for expressing certain types of knowledge.  It's
+actually expanding what we mean by knowledge.  We forget that software
+programs are really ideas.  They don't look like ideas --- they have
+the wrong superficial form.  But they are.  They're active, dynamic
+dieas that can change and interact with other programs. It's actually
+expanded the range of ideas.
+  
+Distinction: as a frontier for making money.  Cersus as a frontier for
+making interesting things.  It can be one, but not the other.  PARC
+and Bell Labs are interesting examples of this.  And there are flip
+side ideas to.
+
 ## Appendix: What should I actually do?
 
 Chandresakhar's story.  Brand's story.  
@@ -991,6 +1086,9 @@ repository [here](https://github.com/mnielsen/finding_scenius),
 
 **Make the notion of scenius as concrete as possible.** Images are
   good.  This is part of what makes Camp 4 a good example.
+
+
+
 
 -->
 
