@@ -1101,6 +1101,45 @@ repository [here](https://github.com/mnielsen/finding_scenius),
 **Make the notion of scenius as concrete as possible.** Images are
   good.  This is part of what makes Camp 4 a good example.
 
+Possible structure:
+
+Genius derived from scenius, not talent.
+
+My concerns: personal and immediate.  Intellectual. David Banks' point.
+
+What we're going to do: can we distill a more precise notion? How to
+find it?
+
+The vague and wishy-washy nature.  So as the essay goes on I will
+gradually pin the notion down, making it more and more specific.
+
+Rich frontier idea.  COntrast with Kelly's idea (and Eno's) that it's
+mostly social.  Summarize our view: it's both social and
+frontier-based.  More important than talent.
+
+Scenius and the adjacent possible.
+
+Is the internet still a rich frontier?
+
+Characteristics of scenius
+
+Prestige and money as scenius anti-patterns.  Maybe add the stuff
+about filtering.
+
+Conuring scenius.
+
+
+
+
+
+
+
+
+
+
+There's really two things.  One is narrowing it down.
+
+
 -->
 
 <!-- Repository of old notes
