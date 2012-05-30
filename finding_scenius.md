@@ -568,7 +568,8 @@ you need to explain why you're doing what you're doing.  For this to
 be convincing (and for you to get the grant) you need to explain why
 you're doing it within an existing narrative.  (XXX - insert notes on
 QC).  Unsurprisingly, grant agencies almost never fund
-narrative-defining work.
+narrative-defining work.  Their selection process almost guarantees
+that they can't fund such work.
 
 
 ## Appendix: Scenius and the adjacent possible
@@ -762,7 +763,9 @@ There are huge problems still to be solved online.  We're a long way
 from networking every object and every event in the world.  We're
 drowning in human co-ordination problems.  We're drowning in data
 analysis problems.  We still do a terrible job managing human
-attention.  And we're still a long way from artificial intelligence.
+attention.  We're still a considerable way from putting all the
+world's knowledge online in truly useful formats.  And we're still a
+long way from artificial intelligence.
   
 Maybe there's insurmountable bottlenecks that will stop progress on
 all these problems.  But, at least today, progress on each continues
@@ -820,7 +823,8 @@ that matters, then you have reason to be optimistic.
 A common criticim of the internet is that it has led to few truly
 major innovations.  Here's a
 [recent profile](http://www.newyorker.com/reporting/2011/11/28/111128fa_fact_packer?currentPage=all)
-of internet entrepreneur and venture capitalist Peter Thiel:
+of internet entrepreneur, venture capitalist and hedge fund manager
+Peter Thiel:
 
 > [Thiel] pulled an iPhone out of his jeans pocket and held it up. "I
 > don’t consider this to be a technological breakthrough," he
@@ -832,45 +836,48 @@ of internet entrepreneur and venture capitalist Peter Thiel:
 > substitute for advances in the physical world. "The Internet—I think
 > it's a net plus, but not a big one"
 
-Part of what makes this argument plausible is that the problems the
-net helps solve --- such as co-ordination and resource allocation --
-are intangible.  Services such as Kickstarter, Kiva and Meetup don't
-directly create qualitatively new classes of products.  That makes
-them intrinsically harder to appreciate than easily visible things
-like moon shots.  Instead, such services are meta-level innovations
-that enable us to allocate resources and to co-ordinate actions in
-ways that were formerly much harder or impossible.  Over the long run
-this intangible benefit may be more important than things such as moon
-shots.
+Part of what makes this argument plausible is that the internet is of
+most use in solving problems which are intangible, such as
+co-ordination and resource allocation.  Services such as Kickstarter,
+Kiva and Meetup don't directly create new classes of products.  That
+makes them harder to appreciate than easily visible things such as
+moon shots.  Instead, such services are meta-level innovations that
+enable us to allocate resources and to co-ordinate actions in ways
+that were formerly much harder or impossible.  Over the long run this
+intangible benefit may be more important than moon shots.
 
 A similar situation occurred during the 17th century.  The late 17th
 century saw the invention of maritime insurance.  It probably seemed
-like a small thing compared to the heroic exploits of the great
-explorers of the age.  Yet, like Kickstarter and Kiva, maritime
-insurance provided a new way to allocate resources and to co-ordinate
-the actions of investors.  That was ultimately more important to the
-age of exploration than the bravery of few explorers.
+like a small thing compared to the exploits of the great explorers of
+the age.  Yet, like Kickstarter and Kiva, maritime insurance provided
+a new way to allocate resources and to co-ordinate the actions of
+investors.  That was ultimately more important to the age of
+exploration than the bravery of a few explorers.
 
 Another consequence of improved co-ordination technologies is the rise
 of the not-for-profit sector.  Between
 [1992](http://www.census.gov/prod/1/gen/95statab/socinsur.pdf) and
 [2007](http://www.census.gov/compendia/statab/cats/social_insurance_human_services/philanthropy_nonprofit_organizations_volunteering.html)
 the number of non-religious not-for-profits in the United States
-jumped from 36,000 to 313,000.  That's an astounding increase.  It's
-driven at least in part by improvement in co-ordination technologies.
-The author Paul Hawken has spoken movingly of the not-for-profit
-sector as providing the immune system of our civilization.  Some wrong
-or ill that you want to address?  Find some likeminded people and get
-together to attack the problem head on.  Some people (Thiel among
-them) will kvetch that the not-fr-profit sector is often inefficient
-or wrongheaded.  That's true.  But it's also true that they often
-address problems that cannot or are not being addressed by the
-for-profit sector.  They're the antibodies of our civilization, and
-the internet is nourishing them.
+jumped from 36,000 to 313,000.  That astounding increase is driven in
+part by improvement in co-ordination technologies, which make it
+easier both for likeminded people to find one another, and also to
+co-ordinate their actions.
+
+Some people (Thiel among them) will kvetch that the not-for-profit
+sector is often inefficient or wrongheaded.  That's true.  But it's
+also true that the not-for-profit sector often address problems that
+cannot or are not being addressed by the for-profit sector.  The
+author Paul Hawken has
+[described](http://longnow.org/seminars/02007/jun/08/the-new-great-transformation/)
+the not-for-profit sector as the immune system of our civilization.
+They're what happens when likeminded people co-ordinate their actions
+to fix some ill or create some service.  They're the antibodies of our
+civilization, and they're being nourished by the internet.
 
 None of the decisively rebuts Thiel's criticism.  But I think you can
 justifiably be skeptical, and optimistic that the internet is truly
-enabling great things.
+capable of enabling great things.
 
 Another criticism of the internet is that much of it is frivolous. You
 can pay to
@@ -1086,9 +1093,6 @@ repository [here](https://github.com/mnielsen/finding_scenius),
 
 **Make the notion of scenius as concrete as possible.** Images are
   good.  This is part of what makes Camp 4 a good example.
-
-
-
 
 -->
 
