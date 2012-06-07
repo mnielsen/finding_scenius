@@ -22,37 +22,35 @@ how it's nurtured:
 > genius. Your like-minded peers, and the entire environment inspire
 > you.
 
-As an example, conside the town of Florence in the 15th century.  At
-the time it had perhaps 100,000 inhabitants.  That's a tiny number,
-but included Michaelangelo, Botticelli, Masaccio, Fra Angelico,
-Donatello, and a host of lesser but still great painters.
+Consider 15th century Florence.  At the time it had perhaps 100,000
+inhabitants.  That's a tiny number, but included Michaelangelo,
+Botticelli, Masaccio, Fra Angelico, Donatello, and a host of lesser
+but still great painters.
 
 How remarkable a clustering of painters was this?
 
 Numerical attempts to value creative work are always arguable, and I
-don't want to get caught up in arguing over details.  However, let us
-conservatively grant that several of these painters would be listed
-among the 100 greatest painters of all time.  For example, four of
-them appear on
+don't want argue over details.  However, I think we can conservatively
+grant that several of these painters would be listed among the 100
+greatest painters of all time.  For example, four of them appear on
 [this list](http://www.theartwolf.com/articles/most-important-painters.htm).
 A modern country of, say, 100 million inhabitants, might, if it were
-lucky, produce more than four painters of such quality in a century.
-But it is almost inconceivable that it would produce (say) 40 such
-painters.
+lucky, produce four painters of such quality in a century.  But it is
+almost inconceivable that it would produce (say) 40 such painters.
 
-In other words, if you were an artist who aspired to be considered a
-great painter, you upped your chances by a factor of perhaps a
-thousand by the good fortune of being born in Florence in the 15th
-century, rather than (say) in North America in the 20th century.
+In other words, an artist who aspired to be a great painter could up
+their chances by a factor of perhaps a thousand (and certainly more
+than a hundred-fold) by the good fortune of being born in Florence in
+the 15th century, rather than (say) in North America in the 20th
+century.
 
-We often think in terms of people such as Michaelangelo, Botticelli
-_et al_ being born with extraordinary, one in a million (or more)
-levels of talent.  But the lesson of Florence is that this is wrong.
-These people were more like one in 10,000 types of talent.  Indeed,
-they were probably far less: after all, painting was closed as a
-career to the great majority of Florentines, most of whom were of the
-wrong gender, or too poor, or faced some other near-insurmountable
-barrier.
+We often think of people such as Michaelangelo, Botticelli _et al_
+being born with extraordinary, one in a million (or more) levels of
+talent.  But the lesson of Florence is that this is wrong.  These
+people were more like one in 10,000 types of talent.  Indeed, even
+that is much too high, since painting was closed as a career to most
+Florentines, most of whom were of the wrong gender, or too poor, or
+faced some other near-insurmountable barrier.
 
 What truly set Michaelangelo _et al_ apart wasn't talent.  It was
 their great good fortune in being in the right place at the right
@@ -60,8 +58,7 @@ time.  Their genius derived from scenius.
 
 ## The problem of scenius
 
-Curiously, there seems to have been relatively little attention paid
-to scenius.  In his article
+Relatively little attention has been paid to scenius.  In his article
 ["The Problem of Excess Genius"](http://www.monad.com/sdg/Journal/genius.html),
 the statistician [David Banks](http://www.stat.duke.edu/~banks/)
 writes:
@@ -77,47 +74,60 @@ writes:
 > surprises me that essentially no scholarly effort has been directed
 > towards it.
 
-Of course, the above is only true when considered narrowly.  Mountains
-of literature has been written on what makes one organization or city
-more productive than others.  Many words (though fewer) have been
-written about why Florence was where the Renaissance started, or about
-the astonishing burst of creativity in Periclean Athens.  But none of
-that is quite to address the question: why are some some periods and
-places so astonishingly more productive than the rest?
+Of course, mountains of literature have been writen about related
+questions, such as what makes one organization or city more productive
+than others, or even about questions like why Florence was where the
+Renaissance started, or what made Periclean Athens so remarkable.  But
+none of that squarely addresses Banks's question: why are some some
+periods and places so astonishingly more productive than the rest?
 
 
 ## Is scenius really the _cause_ of genius?
 
-Can we really claim that scenius _caused_ Florence's 15th century
+Is it really fair to say that scenius _caused_ Florence's 15th century
 outbreak of artistic genius?  Maybe some other causal factor was
 responsible?
 
 To see what I mean, consider a case where it _seems_ as though scenius
-was occurring, but upon closer examination that explanation seems
-unlikely.  The example is the project to build the atomic bomb,
-carried out in the small town of Los Alamos during World War II.
-Living in town at the time were scientific luminaries such Feynman,
-Fermi, Bethe, and (on occasion) Bohr and von Neumann, as well many
-other scientists and engineers of great distinction.
+may have caused an outbreak of genius.  The Manhattan Project to build
+the atomic bomb brought together scientific luminaries such Feynman,
+Fermi, Bethe, and (on occasion) Bohr and von Neumann.  All these
+people were gathered into the small town of Los Alamos, New Mexico,
+together with many other scientists and engineers of great
+distinction.
 
-This is a galaxy of talent not unlike Florence in the 15th century.
-But, of course, the environment in Los Alamos did not _create_ such
-talent.  Most of the luminaries in town were already exceptionally
-accomplished before going to Los Alamos.  Perhaps the environment did
-make some positive difference to their future accomplishments, but it
-seems unlikely that it was primarily the environment which caused
-their future accomplishments.
+This is a galaxy of talent on a scale similar to Florence in the 15th
+century.  But, of course, the environment in Los Alamos didn't
+_create_ that talent.  People such as Fermi, Bethe, Bohr and von
+Neumann arguably did their best scientific work _before_ the bomb
+project started.  Instead, the bomb project _gathered_ talent in a
+single place, under pressure from an external cause (people's fear
+that Hitler would build an atomic bomb).
 
-By contrast, the great painters of Florence named above were all born
-in Florence, or in the countryside nearby [*].  And so it really was
-living in Florence during the 15th century which _caused_ these people
-to become better painters.
+So it seems as though Los Alamos didn't 
 
-I suspect that many other examples of supposed scenius are more like
-Los Alamos -- great aggregations of talent that will flourish no
-matter what -- than Florence, where just being in Florence at the
-right time seemed to help produce much better creative work.  I
-suspect this is at least partially true of
+This is not to say Los Alamos didn't have a small scenius factor.  A
+later collaborator of Richard Feynman's, the engineer Danny Hillis,
+has
+[written](http://longnow.org/essays/richard-feynman-connection-machine/):
+
+> Every great man that I have known has had a certain time and place
+> in their life that they use as a reference point; a time when things
+> worked as they were supposed to and great things were
+> accomplished. For Richard, that time was at Los Alamos during the
+> Manhattan Project. Whenever things got "cockeyed," Richard would
+> look back and try to understand how now was different than then.
+
+By contrast, the great painters of Florence I named above were all
+born in Florence, or in the countryside nearby [*].  And so it really
+was living in Florence during the 15th century which _caused_ these
+people to become better painters.
+
+I suspect that many other examples which seem superficially like
+scenius are more like Los Alamos -- great aggregations of talent that
+will flourish no matter what -- than Florence, where just being in
+Florence at the right time seemed to help produce much better creative
+work.  I suspect this is at least partially true of
 [Bloomsbury](http://en.wikipedia.org/wiki/Bloomsbury_Group), for
 example, and of the [Inklings](http://en.wikipedia.org/wiki/Inklings).
 
@@ -140,8 +150,8 @@ Michaelangelo could have been brought up in another small town of
 100,000 and, provided the town had some sort of artistic community, he
 would still have matured into a great artist.
 
-What I show in the appendix is that it's not possible to account for
-the creativity we find in Florence, even by the luck of the draw.
+The appendix shows is that it's not possible to account for the
+creativity we find in Florence, even by the luck of the draw.
 Instead, we must take seriously the _scenius hypothesis_, i.e., the
 notion that while intrinsic properties are important, the environment
 in which a creative type works may be far more important.
@@ -151,80 +161,66 @@ in which a creative type works may be far more important.
 Imagine it is the 18th century.  You are living in New York and you
 hear the first news of a major gold strike in California.  Many people
 rush out to California, dig for gold, and an unusually large fraction
-become wealthy.  Should we conclude from this that there was some
-special scenius in California that imbued those people with a special
-talent for generating wealth?  Were they picking up special
-wealth-generating skills from their friends and colleagues?
+become wealthy.  Should we conclude that there was some special
+scenius in California that imbued those people with a special talent
+for generating wealth?  Were they picking up special wealth-generating
+skills from their friends and colleagues?
 
-The answer, obviously, is no, it would be wrong to attribute the
-wealth to anything particularly important in the social environment.
-Rather, they chose to put themselves in the right place at the right
-time.
+The answer, obviously, is no, their wealth wasn't due to anything
+particularly important in the social environment.  Rather, they chose
+to put themselves in the right place at the right time.
 
-You can make a similar case for Florence.  There is a sense in which
-the 15th century Florence was a rich frontier waiting to be mined for
-great art, not unlike the mining of gold in the California gold
-fields.  At least three factors contributed to Florence being such a
-frontier: (1) it had been a leading European center for art for
-hundreds of years; (2) the rise of the Medici family created a
-business model to support a large number of artistic endeavours; and
-(3) the ideas, techniques and technologies of art had advanced to a
-point where they opened up a whole new world of artistic
-possibilities.
+You can make a similar case that 15th century Florence was a rich
+frontier waiting to be mined for great art, not unlike the mining of
+gold in the California gold fields.  At least three factors
+contributed to Florence being such a frontier: (1) it had been a
+leading European center for art for hundreds of years; (2) the rise of
+the Medici family created a business model to support a large number
+of artistic endeavours; and (3) the ideas, techniques and technologies
+of art had advanced to a point where they opened up a whole new world
+of artistic possibilities.  Take away any one of these three factors,
+and Florence would still have been important, but it would certainly
+no longer have been one of the pre-eminent centers of all time.
 
-Any one of these three facts would not have been enough to establish
-Florence as pre-eminent not just in its time, but arguably for all
-time.  But with all three factors occurring simultaneously, Florence
-became _the place_ to be for ambitious artists.
-
-This explanation for Florence's pre-eminence is subtly different from
-Eno's explanation of scenius.  It's not that the great painters of
-Florence were learning and benefiting from each other.  Instead, in
-this explanation they were more like gold miners who just happened to
-be first on the scene, just as a new vein of gold was found.
+This explanation for Florence's success is different from Brian Eno
+and Kevin Kelly's explanation of scenius.  It's not that the great
+painters of Florence were learning and benefiting from each other.
+Instead, in this explanation they were more like gold miners who just
+happened to be first on the scene, just as a new vein of gold was
+found.
 
 This is what might be called the _rich frontier_ hypothesis of genius:
 there's a huge advantage to getting in very early as a rich frontier
 is opening up.  There are relatively few other people present
-initially, and so not only pioneers stake a major claim, they're often
-able to remain ahead of the curve for many years or decades, even as
-the field matures.
+initially, and so not only can pioneers stake a major claim, they're
+often able to remain ahead of the curve for many years or decades,
+even as the field matures.
 
 So now we have an interesting question.  How much were the great
 Florentine artists benefiting from being at a rich frontier, and how
-much were they benefiting from a rich social environment?  I don't
-think it's at all clear what he answer to this question is.
+much were they benefiting from a rich social environment?  I think
+both mattered.  I don't think it's at all clear what the _balance_
+between the two was, or how much both were necessar.
 
-How does this affect our notion of scenius? 
+Given this, I want to extend and redefine Eno's notion of scenius.  It
+will still include the benefit a creative worker gets from their
+social scene.  But we'll also extend the notion to include the
+benefits from working at a rich frontier.  In this way of looking at
+things, scenius arises out of the combination of the rich frontier and
+a superb social environment.
 
-There are two paths we could take at this point.  One is to adopt a
-narrow notion of scenius as the benefit a creative worker gets from
-their social scene.  I'm prety sure this is how Eno intended it, and
-it's certainly how Kevin Kelly discusses it.  If we adopt this notion
-of scenius then it explicitly excludes the rich frontier.  Any attempt
-to explain Florence and similar events must engage the question of the
-relative contribution of both scenius and the rich frontier.
+Much of this seems like bland truisms: environment matters; being in
+the right place at the right time matters.  Everyone can agree with
+these statements.  They acquire most force when contrasted with other
+supposely obvious truisms.  Most people think great creative
+achievement requires supreme talent.  But the moral of the Florence
+Renaissance is that it's better to be moderately talented and in the
+right place at the right time than to be supremely talented and in the
+wrong place at the wrong time.
 
-The other approach is to embrace a broader notion of scenius which
-includes both the benefits from working at a rich frontier _and_ the
-benefit from a rich social environment.  In this essay, I'm going to
-adopt this broader notion of scenius.  I'll still occasionally find it
-helpful to break out both components of scenius --- the rich frontier
-and the rich social scene.
-
-A lot of what I've said so far seems like bland truisms. Yes,
-environment matters.  Yes, being in the right place at the right time
-matters.  Everyone can trivially agree with these statements.  But
-they acquire force when contrasted with other supposely obvious
-truisms.  Most people think great creative achievement requires
-supreme talent.  But the moral of the Florence Renaissance is that
-it's better to be moderately talented and in the right place at the
-right time than it is to be supremely talented and in the wrong place
-at the wrong time.  
-
-This over-emphasis we have on talent is enormously destructive.  It's
-not exactly a myth --- different people do have different levels of
-talent.  But it's such a tiny part of the overall picure, and we
+Our over-emphasis on talent is enormously destructive.  It's not
+exactly a myth --- different people do have different levels of
+talent.  But it's a small part of the overall picure, and we
 overemphasize talent at the expense of other, more important things.
 If Michaelangelo had grown up today in a Florence-sized town, he'd be
 a well-known local artist, admired within a small sphere, but
@@ -928,7 +924,9 @@ small but serious group pushing on a problem that matters.
 
 ## Appendix: What should I actually do?
 
-Chandresakhar's story.  Brand's story.  
+Chandresakhar's story.  Brand's story.  Chandra's stye:
+
+http://yabaluri.org/TRIVENI/CDWEB/profchandrasekharjan93.htm
 
 There's a real tension between such exploration and deep work.
 
@@ -1071,10 +1069,10 @@ of people involved.
   true of many leaders in other fields.  The best way to sail is with
   the wind at your back.
 
-[*] Leonardo was also born in the Florentine countryside, and began to
-paint under the tutelage of a Florentine artist, and could arguably be
-included on my list of great Florentine painters.  But much of his
-mature work was produced elsewhere, so I have omitted him.
+[*] Leonardo da Vinci was also born near Florence, and began his
+career in Florence, so he could arguably be included on my list of
+great Florentine painters.  But much of his mature work was produced
+elsewhere, so I have omitted him.
 
 [*] I've been unable to track down a source for this quote.  I believe
 Brand said it in conversation with Marvin Minsky, but don't recall
@@ -1095,127 +1093,3 @@ about these issues.
 
 As an experiment I drafted this essay on GitHub.  You can find the
 repository [here](https://github.com/mnielsen/finding_scenius),
-
-<!-- Instructions:
-
-**Make the notion of scenius as concrete as possible.** Images are
-  good.  This is part of what makes Camp 4 a good example.
-
-Possible structure:
-
-Genius derived from scenius, not talent.
-
-My concerns: personal and immediate.  Intellectual. David Banks' point.
-
-What we're going to do: can we distill a more precise notion? How to
-find it?
-
-The vague and wishy-washy nature.  So as the essay goes on I will
-gradually pin the notion down, making it more and more specific.
-
-Rich frontier idea.  COntrast with Kelly's idea (and Eno's) that it's
-mostly social.  Summarize our view: it's both social and
-frontier-based.  More important than talent.
-
-Scenius and the adjacent possible.
-
-Is the internet still a rich frontier?
-
-Characteristics of scenius
-
-Prestige and money as scenius anti-patterns.  Maybe add the stuff
-about filtering.
-
-Conuring scenius.
-
-
-
-
-
-
-
-
-
-
-There's really two things.  One is narrowing it down.
-
-
--->
-
-<!-- Repository of old notes
-
-**Phil Agre:** The information scientist Phil Agre has proposed an
-  interesting way to identify important emerging fields. He suggested
-  asking the very smartest undergrads what they're interested in, and
-  making a list of their replies. Cross the already fashionable
-  answers (cosmology, nanotech etc) off the list. Look instead for
-  fields that you've never heard of, that sound strange, and slightly
-  off the wall. Some of those fields will fail, of course. But chances
-  are that some of biggest fields a decade or two hence will be on
-  that list.
-
-**MARs photos**
-
-**Brainstorming questions:** How to find scenius?  Where is scenius
-  today?  How to create scenius?  How to recognize scenius?  What
-  impact should it have?
-
-**Other places:** Where in academia?  What do I think of academia in
-  this context, generally?  What about public intellectualism?
-  Probably not.  Most public intellectuals are providing new answers
-  to old, classic questions.  Scenius is often concerned with new
-  questions.  The narrative isn't yet even known by the mainstream.
-  And so it becomes hard to be a public intellectual in this sense.
-  Problem with this story is exceptions: Darwin, Wilson, Dawkins (to
-  some extent), and others.
-
-## Part of what's confusing about the internet as a frontier
-
-It can be a frontier for serious creativity, but not making money, and
-vice versa.  PARC and Bell Labs are interesting examples of this.  And
-there are flip side ideas to.
-
-
-## Brushes with scenius
-
-I've had two extended experiences with great scenes.
-
-The first was in the field of quantum computing.  I worked on quantum
-computing from 1992 to 2007.  From 1992 to 1994 I only had contact
-with a few people in the quantum computing community.  But in 1995 and
-especially 1996 I became a part of the international community of
-scientists working on quantum computing.
-
-The (theoretical) quantum computing scene at that time was amazing.
-From 1993 through 1996 saw the invention of
-[quantum teleportation](http://en.wikipedia.org/wiki/Quantum_teleportation),
-the fast
-[quantum factoring algorithm](http://en.wikipedia.org/wiki/Shor's_algorithm),
-the fast
-[quantum search algorithm](http://en.wikipedia.org/wiki/Grover's_algorithm),
-[quantum data compression](http://terpconnect.umd.edu/~dkafri/Jake_Taylor/articles/PhysRevA.51.2738.pdf),
-[quantum error correction](http://en.wikipedia.org/wiki/Quantum_error_correction),
-fault-tolerant quantum computing, and
-[topological quantum computing](http://www.theory.caltech.edu/~preskill/ph219/topological.pdf).
-All of these are Nobel- or near-Nobel-level achievements, in my
-opinion [*].  And they came out of a scientific community that, over
-most of that time, could get together in a single small room.
-
-It's notable that, at the time, I didn't understand that anything
-remarkable was underway.  This was partially due to inexperience: I
-was just 23 at the end of that period, in 1996.  I thought that's how
-science was done.  
-
-My second experience with scenius is more speculative.  From 2007 to
-the present I've concentrated my creative work on open science.  It's
-speculative because it's too early to say yet what the impact of open
-science will be.  But I hope that from the viewpoint of history the
-recent efforts will help initiate a major transformation in how
-science is done. 
-
-[*] This is not to say that all or indeed any of these will ever
-result in Nobel prizes.  Just that if I went to sleep tomorrow and
-woke up in 2050 I wouldn't be surprised to see any of the above on a
-list of Nobel prizes, or similarly prestigious awards.
-
--->

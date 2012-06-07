@@ -1,0 +1,113 @@
+* Ideas for improvement
+** Make the notion of scenius as concrete as possible
+** Images are good
+This is part of what makes Camp 4 a good example.
+
+* Possible structure:
+
+Genius derived from scenius, not talent.
+
+My concerns: personal and immediate.  Intellectual. David Banks' point.
+
+What we're going to do: can we distill a more precise notion? How to
+find it?
+
+The vague and wishy-washy nature.  So as the essay goes on I will
+gradually pin the notion down, making it more and more specific.
+
+Rich frontier idea.  COntrast with Kelly's idea (and Eno's) that it's
+mostly social.  Summarize our view: it's both social and
+frontier-based.  More important than talent.
+
+Scenius and the adjacent possible.
+
+Is the internet still a rich frontier?
+
+Characteristics of scenius
+
+Prestige and money as scenius anti-patterns.  Maybe add the stuff
+about filtering.
+
+Conuring scenius.
+
+* Analysis
+** Los Alamos
+Los Alamos really has multiple lessons.  Did it have an enormous
+impact on long-run impact?  The answer seems to be no.  But what about
+on how well people worked at the time?
+** Location, location, location
+For creative work, even more than real estate, it's location,
+location, location.
+
+<!-- Repository of old notes
+
+**Phil Agre:** The information scientist Phil Agre has proposed an
+  interesting way to identify important emerging fields. He suggested
+  asking the very smartest undergrads what they're interested in, and
+  making a list of their replies. Cross the already fashionable
+  answers (cosmology, nanotech etc) off the list. Look instead for
+  fields that you've never heard of, that sound strange, and slightly
+  off the wall. Some of those fields will fail, of course. But chances
+  are that some of biggest fields a decade or two hence will be on
+  that list.
+
+**MARs photos**
+
+**Brainstorming questions:** How to find scenius?  Where is scenius
+  today?  How to create scenius?  How to recognize scenius?  What
+  impact should it have?
+
+**Other places:** Where in academia?  What do I think of academia in
+  this context, generally?  What about public intellectualism?
+  Probably not.  Most public intellectuals are providing new answers
+  to old, classic questions.  Scenius is often concerned with new
+  questions.  The narrative isn't yet even known by the mainstream.
+  And so it becomes hard to be a public intellectual in this sense.
+  Problem with this story is exceptions: Darwin, Wilson, Dawkins (to
+  some extent), and others.
+
+## Part of what's confusing about the internet as a frontier
+
+It can be a frontier for serious creativity, but not making money, and
+vice versa.  PARC and Bell Labs are interesting examples of this.  And
+there are flip side ideas to.
+
+The first was in the field of quantum computing.  I worked on quantum
+computing from 1992 to 2007.  From 1992 to 1994 I only had contact
+with a few people in the quantum computing community.  But in 1995 and
+especially 1996 I became a part of the international community of
+scientists working on quantum computing.
+
+The (theoretical) quantum computing scene at that time was amazing.
+From 1993 through 1996 saw the invention of
+[quantum teleportation](http://en.wikipedia.org/wiki/Quantum_teleportation),
+the fast
+[quantum factoring algorithm](http://en.wikipedia.org/wiki/Shor's_algorithm),
+the fast
+[quantum search algorithm](http://en.wikipedia.org/wiki/Grover's_algorithm),
+[quantum data compression](http://terpconnect.umd.edu/~dkafri/Jake_Taylor/articles/PhysRevA.51.2738.pdf),
+[quantum error correction](http://en.wikipedia.org/wiki/Quantum_error_correction),
+fault-tolerant quantum computing, and
+[topological quantum computing](http://www.theory.caltech.edu/~preskill/ph219/topological.pdf).
+All of these are Nobel- or near-Nobel-level achievements, in my
+opinion [*].  And they came out of a scientific community that, over
+most of that time, could get together in a single small room.
+
+It's notable that, at the time, I didn't understand that anything
+remarkable was underway.  This was partially due to inexperience: I
+was just 23 at the end of that period, in 1996.  I thought that's how
+science was done.  
+
+My second experience with scenius is more speculative.  From 2007 to
+the present I've concentrated my creative work on open science.  It's
+speculative because it's too early to say yet what the impact of open
+science will be.  But I hope that from the viewpoint of history the
+recent efforts will help initiate a major transformation in how
+science is done. 
+
+[*] This is not to say that all or indeed any of these will ever
+result in Nobel prizes.  Just that if I went to sleep tomorrow and
+woke up in 2050 I wouldn't be surprised to see any of the above on a
+list of Nobel prizes, or similarly prestigious awards.
+
+-->
