@@ -56,16 +56,18 @@ What truly set Michaelangelo _et al_ apart wasn't talent.  It was
 their great good fortune in being in the right place at the right
 time.  Their genius derived from scenius.
 
-## The problem of scenius
+## This essay
 
-It's obvious that environment matters for creative work.  But I'm
-making a much stronger claim: I'm saying that environment sometimes
-matters far more than intrinsic talent.  While the Florentine
-Renaissance supports this claim, the analysis of the last section is
-not a watertight argument.  In the remainder of part I of this essay
-I'll sharpen up our understanding of when scenius matters, and when it
-doesn't.  Then, in part II of the essay I'll discuss what this means
-for the choice of creative work.
+It is, of course, a bland truism that environment matters for creative
+work.  But in part I of this essay I'll make a much stronger claim:
+environment sometimes matters far more than intrinsic talent.  To
+support this claim, we'll take apart the notion of scenius.  We'll
+start by attacking it: maybe Florence was just a lucky fluke (wrong,
+we'll show).  That disposed of, we'll ask what causal factors create a
+great scene.  The result is that we'll distill the notion of scenius
+into something much sharper than the definitions offered by Eno or
+Kelly.  Then, in part II of the essay I'll discuss what this means for
+the choice of creative work.
 
 ## Was Florence just lucky?
 
@@ -79,63 +81,73 @@ In this view of the world, what makes an artist such as Michaelangelo
 great is some intrinsic property of the artist, not the environment in
 which he found himself.  According to this hypothesis, Michaelangelo
 could have been brought up in another small town of 100,000 and he
-would still have matured into a great artist.  I will call this the
-_genius hypothesis_.
+would still have matured into a great artist.  This is pretty close to
+the point of view many people hold.  Consider, for example, on
+often-repeated
+[quote from the programmer Alan Perlis](http://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html):
 
-Of course, you might immediately object that this genius hypothesis is
-obviously wrong: if Michaelangelo had been born in a town where art
-was unknown, or suppressed or impractical for some reason, then
-obviously even someone as talented as he would likely have not
-flourished.  So let's amend the genius hypothesis slightly,
-stipulating that what makes an artist such as Michaelangelo great is
-some intrinsic property of the artist, provided he's brought up in an
-environment in which art receives some basic level of support and
-respect.
+> Everyone can be taught to sculpt: Michelangelo would have had to be
+> taught how not to.  
+
+I will call this point of view the _genius hypothesis_.
+
+You may object that this genius hypothesis is too strong to be
+plausible.  If, for exampe, Michaelangelo had been born in a town
+where art was completely unknown, or had been banned by the
+authorities, then even he would not have flourished.  So let's amend
+the genius hypothesis, stipulating that greatness is an intrinsic
+property of the artist, _provided_ he or she is in an environment
+where art receives some baseline level of support and respect.  With
+this amendment, I believe this is quite a common point of view, and
+has been held seriously by many people.
 
 Over the next few paragraphs I'll show is that if the genius
-hypothesis is true, then it's simply not possible to account for the
-creativity we find in Florence, even by the luck of the draw.  There
-is a little bit of mathematics in this analysis, and if you don't like
+hypothesis is true, then it's not possible to account for the creative
+explosion we find in Florence, even by the luck of the draw.  There is
+a little bit of mathematics in this analysis, and if you don't like
 mathematics, then you can just take note of the conclusion: even
 adopting very conservative assumptions, there is no way to account for
-Florence by the luck of the draw.  Instead, we must take seriously the
-_scenius hypothesis_, i.e., the notion that while intrinsic properties
-are important, the environment in which a creative type works may be
-far more important.
+Florence by the luck of the draw.  So we must abandon the genius
+hypothesis as flawed, and instead take seriously the notion that while
+intrinsic properties are important, the environment in which a
+creative type works may be far more important.  This is the _scenius
+hypothesis_.
 
-To test the genius hypothesis, suppose we assume the genius hypothesis
-as true, and believe that someone will achieve greatness as a painter
-with a fixed probability, say p = 1 in ten million, independent of
-their environment.  Then in a community of n = 100,000 people, the
-probability of having k or more great painters (k a small positive
-integer) is approximately:
+Okay, let's test the genius hypothesis.  We'll suppose the genius
+hypothesis is true, and that someone will achieve greatness as a
+painter with a fixed probability, say p = 1 in ten million,
+independent of their environment.  Then in a community of n = 100,000
+people, the probability of having k or more great painters (k a small
+positive integer) is approximately:
   
 (np)^k / k! = (1/100)^k / k!
   
-When k = 4, this probability is less than one in a billion.  And so if
-the genius hypothesis is true, then Florence is far outside the bounds
-of what can be expected statistically.
+When k = 4, this probability is less than one in a billion.  There
+have certainly not been anything like one billion communities of
+100,000 inhabitants.  And so, if the genius hypothesis is true, then
+Florence is far outside the bounds of what can be expected
+statistically.  In other words, the existence of Florence is evidence
+that the genius hypothesis is wrong.
   
 Of course, the outcome of this calculation depends on exactly what we
 mean for a painter to be "great".  If we adopt more modest standards,
 say p = 1 in a million, then the probability above increases quite a
-bit, to about 1 in a quarter million.  This is still too small --
-there have not been anything like a quarter million such communities
-in history -- but is at least getting closer to statistical
-plausibility.  The problem is that if we adopt this value of p, then
-we're saying that we expect a great painter to emerge from about 1
-city in every 10 of size 100,000.  While some notable painters will
-likely come out of such a collection of cities, I frankly think that's
-far too modest a criterion.  So we can confidently reject the genius
-hypothesis.  While intrinsic talent certainly matters, other
-environmentla effects must also matter.  And, given the size of the
-disparity above, they must matter a _lot_.
+bit, to about 1 in a quarter million, and we're getting closer to
+statistical plausibility.  The problem is that if we adopt this value
+of p, then we're saying that we expect a great painter to emerge from
+about 1 city in every 10 of size 100,000.  Cities of several million
+should, on average, have dozens of great painters.  Frankly, I think
+that's far too modest a criterion for greatness.  And so we are led to
+reject the genius hypothesis.  While intrinsic talent matters,
+environmental effects must also matter.  And, given the statistical
+disparity above, environmental effects must matter a _lot_ in a place
+like Florence.
 
 ## Is scenius really the _cause_ of genius?
 
-Is it really fair to say that scenius _caused_ Florence's 15th century
-outbreak of artistic genius?  Maybe some other causal factor was
-responsible?
+Is it really correct to say that scenius _caused_ Florence's 15th
+century outbreak of artistic genius?  Maybe some other causal factor
+was responsible?
 
 To see what I mean, consider a case where it _seems_ as though scenius
 may have caused an outbreak of genius.  The Manhattan Project to build
@@ -234,22 +246,6 @@ benefits from working at a rich frontier.  In this way of looking at
 things, scenius arises out of the combination of the rich frontier and
 a superb social environment.
 
-Much of this seems like bland truisms: environment matters; being in
-the right place at the right time matters.  Everyone can agree with
-these statements.  They acquire most force when contrasted with other
-supposely obvious truisms.  Most people think great creative
-achievement requires supreme talent.  But the moral of the Florence
-Renaissance is that it's better to be moderately talented and in the
-right place at the right time than to be supremely talented and in the
-wrong place at the wrong time.
-
-Our over-emphasis on talent is enormously destructive.  It's not
-exactly a myth --- different people do have different levels of
-talent.  But it's a small part of the overall picure, and we
-overemphasize talent at the expense of other, more important things.
-If Michaelangelo had grown up today in a Florence-sized town, he'd be
-a well-known local artist, admired within a small sphere, but
-forgotten by history [1].
   
 
 ## The problems of "scenius"
