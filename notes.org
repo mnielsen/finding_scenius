@@ -1,7 +1,20 @@
+* Constraint
+No more than 12,000 words.
+
+Of course, it would be possible to write a lot more.  SO I need to
+discover a 12,000-word narrative that I find compelling.
+
 * Ideas for improvement
 ** Make the notion of scenius as concrete as possible
 ** Images are good
 This is part of what makes Camp 4 a good example.
+** My own deficit
+Of course, part of the reason I'm finding scenius interesting is that
+I undervalue it.  I've never thought all that hard about the value of
+a great scene, nor about the value of working at a rich frontier.  I
+tend to undervalue the great scene, and you can see that in much of my
+work, which has been done in relative isolation --- connected by the
+internet, true, but not more than that.
 
 * Possible structure:
 
@@ -35,43 +48,160 @@ Conuring scenius.
 Los Alamos really has multiple lessons.  Did it have an enormous
 impact on long-run impact?  The answer seems to be no.  But what about
 on how well people worked at the time?
+** Do the great creative peope find scenius?
+
+I don't know.  It seems that Ed Witten tried something like this.  He found a home in high-energy physics where he thought he could contribute commensurate to his abilities.
+
+What about someone like Einstein?
+
+He certainly spent many years working very hard
+** Why don't I brainstorm some possible themes?
+
+It's rather amorphous at present.
+
+Creating scenius.  Finding scenius as the imperative of the young.  Finding scenius as a possible imperative for older people.  WHat are the great scenes?
+
+Alright, that's not radical enough.  Why don't I try for some more radical ideas.
+
+Scenius as the driver of history: This is kind of plausible.  Recall the remark about the Swiss and peace and prospetriy.
+
+Creative cauldrons.  
+
+I do wonder if the best work is always done on the edge of great scenes.
+
+I don't have a single theme.  What I have instead is a collection of themes.
+
+WHy don't I collect some of those themes?
+
++ Scenius is more important than talent.  This is a good theme.
++ What should I do?  I can actually generalize this a bit.  I think
+  most people don't move around enough.  I like the Witten-Eno model.
+  We make these enormous decisions about what to work on, when we
+  don't know anything about how to choose.  And then we stay in the
+  same area.  We quickly hit the point of diminishing returns, and
+  don't refresh ourselves or our netowkrs.  Our networks age and
+  (creatively) atrophy.  This becomes something more like: "How should
+  scenius factor into creative decisions?"
++ Scenius and the choice of work.  Ed Witten.  Eno and the way he
+  moved around.  Brand.  Chandra.  Why people don't move more than
+  once. Why they don't 
+
+I could certainly do a two-parter.  Part I: Scenius is more important
+than talent.  Part II: Scenius and the choice of work.  I rather like
+this structure.  I have two mini-narratives.  The bridge between them
+is basically me, and my interest.  
+** Outline a structure
+
+Part I: Scenius is more important than talent
+
++ Florence.  The probability calculation.
+
+
++ What we're going to do: I just claimed that merely being in FLorence
+  at the right time was enough to confer a huge creative advantage.
+  In other words, environment sometimes matters much more than
+  intrinsic talent. That's a big claim, and while FLorence offers a
+  plauislbe argument, it's hardly watertight.  So in part I of this
+  essay I'll dig into this much more.  We'll see that it's right to be
+  skeptical: sometimes there are scenes which look like scenius, but
+  which aren't.  In essence, part I of the essay is about tying down
+  whether scenius really matters. Having established that scenius
+  really matters, in part II of the essay I'll discuss what this means
+  for the choice of creative work.
+
++ What are the actual causal factors?  Great scene. ANd a rich
+  intellectual frontier.
+
++ The problem with the word scenius: the romanticisation of the word
+  genius.  One of the strangest words in our language is the word
+  "genius".  How did Picasso paint those marvellous paintings?  He was
+  a genius.  This obscures more than anything else.  I sometimes
+  wonder if it's a defensive mechanism.  We can all excuse ourselves
+  for falling short of Picasso's standard because we attribute to him
+  superhuman qualities.  If we were not to do that, and we
+
+Part II: Scenius and the choice of work
+
++ Witten.  Part of what makes this striking is the fact that it's so
+  uncommon.
++ Bridge: different strategies.  Most common approach: to make a
+  decision while young.
++ Is the internet still a rich frontier?
++ Why frontiers tend to be in areas without cash.  It's a form of buy
+  low, sell high.
++ Scenius and the adjacent possible.
+ 
+** How goofy?
+It's interesting to contrast the ventures of ELon Musk with Peter
+Thiel.  SpaceX and Tesla seem like obvious bets.  Thiel has bet on
+Seasteading, the Singularity Institute, etc.  It sounds crazy.  But I thin that the difference is mainly in risk 
+
+Some people will mock some of Thiel's ventures. It's easy to make fun
+of something like the SI, simply because ome of their pronouncements
+sound so far outside the mainsteam.  If you're tempted to do that it's
+worth remembering that great discoveries in the past have also often
+looked goofy.  One of Heiseberg's professors failed him for his PhD.
+That was _after_ he had co-invented quantum mechanics.  YOu can make a
+case that quantum mechanics is the second greatest scientific
+discovery of all time, only after Newton's original mechanics.
+
+
 ** Location, location, location
 For creative work, even more than real estate, it's location,
 location, location.
+* Old notes
+** My interest
+I recently finished a book that I worked on for four years.  So I find
+myself deciding what to do next.  Part of my reason for thinking about
+scenius is to figure about what problems to focus on next, and where
+to work.
 
-<!-- Repository of old notes
+But there are also broader reasons to be interested.  I'm fascinated
+by how people decide what to work on.  Most people make bad choices
+about what to work on when they're young, simply because they don't
+know very much.  It's easy to make a mistake.  Then they stick with
+those bad choices because of the sunk cost fallacy, and because it's
+hard to switch, and because they're worried that things won't work.
 
-**Phil Agre:** The information scientist Phil Agre has proposed an
-  interesting way to identify important emerging fields. He suggested
-  asking the very smartest undergrads what they're interested in, and
-  making a list of their replies. Cross the already fashionable
-  answers (cosmology, nanotech etc) off the list. Look instead for
-  fields that you've never heard of, that sound strange, and slightly
-  off the wall. Some of those fields will fail, of course. But chances
-  are that some of biggest fields a decade or two hence will be on
-  that list.
+The few people who make good choices early on (often because of luck)
 
-**MARs photos**
 
-**Brainstorming questions:** How to find scenius?  Where is scenius
-  today?  How to create scenius?  How to recognize scenius?  What
-  impact should it have?
 
-**Other places:** Where in academia?  What do I think of academia in
-  this context, generally?  What about public intellectualism?
-  Probably not.  Most public intellectuals are providing new answers
-  to old, classic questions.  Scenius is often concerned with new
-  questions.  The narrative isn't yet even known by the mainstream.
-  And so it becomes hard to be a public intellectual in this sense.
-  Problem with this story is exceptions: Darwin, Wilson, Dawkins (to
-  some extent), and others.
+The ideas I'm going to cover.  What I won't cover.  I'm interested
+because I think people fuck this up.  They make bad choices because
+they're young and stupid.  And then they stick with them because of
+the sunk cost fallacy and because it's hard to switch and because
+they're not confident that things will work.  There's a fascinating
+question of institutional and community design here: how to create a
+society where scenius flourishes?
 
-## Part of what's confusing about the internet as a frontier
+** Agre
+The information scientist Phil Agre has proposed a way of identify
+important emerging fields. He suggested asking the smartest undergrads
+what they're interested in, and making a list of their replies. Cross
+off the list the already fashionable answers (cosmology, nanotech
+etc). Look instead for fields that you've never heard of, that sound
+strange, and slightly off the wall. Some of those fields will fail.
+But some of biggest fields a decade or two hence will be on that list.
+** MARS photos
+** Brainstorming questions
+How to find scenius?  Where is scenius today?  How to create scenius?
+How to recognize scenius?  What impact should it have?
+** Other places to find scenius
+Where in academia?  What do I think of academia in this context,
+generally?  What about public intellectualism?  Probably not.  Most
+public intellectuals are providing new answers to old, classic
+questions.  Scenius is often concerned with new questions.  The
+narrative isn't yet even known by the mainstream.  And so it becomes
+hard to be a public intellectual in this sense.  Problem with this
+story is exceptions: Darwin, Wilson, Dawkins (to some extent), and
+others.
+** Part of what's confusing about the internet as frontier
 
 It can be a frontier for serious creativity, but not making money, and
 vice versa.  PARC and Bell Labs are interesting examples of this.  And
 there are flip side ideas to.
-
+** My brushes with scenius
 The first was in the field of quantum computing.  I worked on quantum
 computing from 1992 to 2007.  From 1992 to 1994 I only had contact
 with a few people in the quantum computing community.  But in 1995 and
@@ -79,16 +209,18 @@ especially 1996 I became a part of the international community of
 scientists working on quantum computing.
 
 The (theoretical) quantum computing scene at that time was amazing.
-From 1993 through 1996 saw the invention of
-[quantum teleportation](http://en.wikipedia.org/wiki/Quantum_teleportation),
-the fast
-[quantum factoring algorithm](http://en.wikipedia.org/wiki/Shor's_algorithm),
-the fast
-[quantum search algorithm](http://en.wikipedia.org/wiki/Grover's_algorithm),
-[quantum data compression](http://terpconnect.umd.edu/~dkafri/Jake_Taylor/articles/PhysRevA.51.2738.pdf),
-[quantum error correction](http://en.wikipedia.org/wiki/Quantum_error_correction),
-fault-tolerant quantum computing, and
-[topological quantum computing](http://www.theory.caltech.edu/~preskill/ph219/topological.pdf).
+From 1993 through 1996 saw the invention of [quantum
+teleportation](http://en.wikipedia.org/wiki/Quantum_teleportation),
+the fast [quantum factoring
+algorithm](http://en.wikipedia.org/wiki/Shor's_algorithm), the fast
+[quantum search
+algorithm](http://en.wikipedia.org/wiki/Grover's_algorithm), [quantum
+data
+compression](http://terpconnect.umd.edu/~dkafri/Jake_Taylor/articles/PhysRevA.51.2738.pdf),
+[quantum error
+correction](http://en.wikipedia.org/wiki/Quantum_error_correction),
+fault-tolerant quantum computing, and [topological quantum
+computing](http://www.theory.caltech.edu/~preskill/ph219/topological.pdf).
 All of these are Nobel- or near-Nobel-level achievements, in my
 opinion [*].  And they came out of a scientific community that, over
 most of that time, could get together in a single small room.
@@ -96,18 +228,40 @@ most of that time, could get together in a single small room.
 It's notable that, at the time, I didn't understand that anything
 remarkable was underway.  This was partially due to inexperience: I
 was just 23 at the end of that period, in 1996.  I thought that's how
-science was done.  
+science was done.
 
 My second experience with scenius is more speculative.  From 2007 to
 the present I've concentrated my creative work on open science.  It's
 speculative because it's too early to say yet what the impact of open
 science will be.  But I hope that from the viewpoint of history the
 recent efforts will help initiate a major transformation in how
-science is done. 
+science is done.
 
 [*] This is not to say that all or indeed any of these will ever
 result in Nobel prizes.  Just that if I went to sleep tomorrow and
 woke up in 2050 I wouldn't be surprised to see any of the above on a
 list of Nobel prizes, or similarly prestigious awards.
+** Banks and the lack of attention to scenius
 
--->
+Relatively little attention has been paid to scenius.  In his article
+["The Problem of Excess Genius"](http://www.monad.com/sdg/Journal/genius.html),
+the statistician [David Banks](http://www.stat.duke.edu/~banks/)
+writes:
+
+> The most important question we can ask of historians is "Why are
+> some periods and places so astonishingly more productive than the
+> rest?" It is intellectually embarrassing that this is almost never
+> posed squarely [...]  The question has never been the focus of
+> professional attention in social history, although its answer would
+> have thrilling implications for education, politics, science and
+> art. [...] The problem of excess genius is one of the most important
+> questions I can imagine, but very little progress has been made. It
+> surprises me that essentially no scholarly effort has been directed
+> towards it.
+
+Of course, mountains of literature have been writen about related
+questions, such as what makes one organization or city more productive
+than others, or even about questions like why Florence was where the
+Renaissance started, or what made Periclean Athens so remarkable.  But
+none of that squarely addresses Banks's question: why are some some
+periods and places so astonishingly more productive than the rest?

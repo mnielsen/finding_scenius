@@ -2,7 +2,7 @@
 
 # Finding scenius
 
-_Rough working notes._
+## Part I: A great scene sometimes matters far more than individual talent
 
 The artist Brian Eno has
 [introduced](http://www.kk.org/thetechnium/archives/2008/06/scenius_or_comm.php)
@@ -58,29 +58,78 @@ time.  Their genius derived from scenius.
 
 ## The problem of scenius
 
-Relatively little attention has been paid to scenius.  In his article
-["The Problem of Excess Genius"](http://www.monad.com/sdg/Journal/genius.html),
-the statistician [David Banks](http://www.stat.duke.edu/~banks/)
-writes:
+It's obvious that environment matters for creative work.  But I'm
+making a much stronger claim: I'm saying that environment sometimes
+matters far more than intrinsic talent.  While the Florentine
+Renaissance supports this claim, the analysis of the last section is
+not a watertight argument.  In the remainder of part I of this essay
+I'll sharpen up our understanding of when scenius matters, and when it
+doesn't.  Then, in part II of the essay I'll discuss what this means
+for the choice of creative work.
 
-> The most important question we can ask of historians is "Why are
-> some periods and places so astonishingly more productive than the
-> rest?" It is intellectually embarrassing that this is almost never
-> posed squarely [...]  The question has never been the focus of
-> professional attention in social history, although its answer would
-> have thrilling implications for education, politics, science and
-> art. [...] The problem of excess genius is one of the most important
-> questions I can imagine, but very little progress has been made. It
-> surprises me that essentially no scholarly effort has been directed
-> towards it.
+## Was Florence just lucky?
 
-Of course, mountains of literature have been writen about related
-questions, such as what makes one organization or city more productive
-than others, or even about questions like why Florence was where the
-Renaissance started, or what made Periclean Athens so remarkable.  But
-none of that squarely addresses Banks's question: why are some some
-periods and places so astonishingly more productive than the rest?
+One thing you might wonder is whether Florence was just lucky.  After
+all, just by the luck of the draw some communities will contain an
+unusually large number of excellent artists.  Maybe Florence wasn't
+successful because of scenius, but rather because some community had
+to have the most great artists, and it happened to be Florence.
 
+In this view of the world, what makes an artist such as Michaelangelo
+great is some intrinsic property of the artist, not the environment in
+which he found himself.  According to this hypothesis, Michaelangelo
+could have been brought up in another small town of 100,000 and he
+would still have matured into a great artist.  I will call this the
+_genius hypothesis_.
+
+Of course, you might immediately object that this genius hypothesis is
+obviously wrong: if Michaelangelo had been born in a town where art
+was unknown, or suppressed or impractical for some reason, then
+obviously even someone as talented as he would likely have not
+flourished.  So let's amend the genius hypothesis slightly,
+stipulating that what makes an artist such as Michaelangelo great is
+some intrinsic property of the artist, provided he's brought up in an
+environment in which art receives some basic level of support and
+respect.
+
+Over the next few paragraphs I'll show is that if the genius
+hypothesis is true, then it's simply not possible to account for the
+creativity we find in Florence, even by the luck of the draw.  There
+is a little bit of mathematics in this analysis, and if you don't like
+mathematics, then you can just take note of the conclusion: even
+adopting very conservative assumptions, there is no way to account for
+Florence by the luck of the draw.  Instead, we must take seriously the
+_scenius hypothesis_, i.e., the notion that while intrinsic properties
+are important, the environment in which a creative type works may be
+far more important.
+
+To test the genius hypothesis, suppose we assume the genius hypothesis
+as true, and believe that someone will achieve greatness as a painter
+with a fixed probability, say p = 1 in ten million, independent of
+their environment.  Then in a community of n = 100,000 people, the
+probability of having k or more great painters (k a small positive
+integer) is approximately:
+  
+(np)^k / k! = (1/100)^k / k!
+  
+When k = 4, this probability is less than one in a billion.  And so if
+the genius hypothesis is true, then Florence is far outside the bounds
+of what can be expected statistically.
+  
+Of course, the outcome of this calculation depends on exactly what we
+mean for a painter to be "great".  If we adopt more modest standards,
+say p = 1 in a million, then the probability above increases quite a
+bit, to about 1 in a quarter million.  This is still too small --
+there have not been anything like a quarter million such communities
+in history -- but is at least getting closer to statistical
+plausibility.  The problem is that if we adopt this value of p, then
+we're saying that we expect a great painter to emerge from about 1
+city in every 10 of size 100,000.  While some notable painters will
+likely come out of such a collection of cities, I frankly think that's
+far too modest a criterion.  So we can confidently reject the genius
+hypothesis.  While intrinsic talent certainly matters, other
+environmentla effects must also matter.  And, given the size of the
+disparity above, they must matter a _lot_.
 
 ## Is scenius really the _cause_ of genius?
 
@@ -131,30 +180,6 @@ work.  I suspect this is at least partially true of
 [Bloomsbury](http://en.wikipedia.org/wiki/Bloomsbury_Group), for
 example, and of the [Inklings](http://en.wikipedia.org/wiki/Inklings).
 
-## Was Florence just at the tail end of the distribution?
-
-Another way of countering the scenius hypothesis is to wonder whether
-ordinary statistical variation might explain the existence of a town
-like Florence.  After all, just by the luck of the draw some
-communities will contain an unusually large number of excellent
-artists.  Maybe Florence wasn't successful because of scenius, but
-just because some community had to have the most great artists, and it
-just happened to be Florence.
-
-In the appendix I use a statistical model to test the idea that
-Florence was just lucky.  In particular, I test the _genius
-hypothesis_, the idea that what makes a great artist such as
-Michaelangelo is some intrinsic property of the artist, not the
-environment in which he found himself.  According to this hypothesis,
-Michaelangelo could have been brought up in another small town of
-100,000 and, provided the town had some sort of artistic community, he
-would still have matured into a great artist.
-
-The appendix shows is that it's not possible to account for the
-creativity we find in Florence, even by the luck of the draw.
-Instead, we must take seriously the _scenius hypothesis_, i.e., the
-notion that while intrinsic properties are important, the environment
-in which a creative type works may be far more important.
 
 ## Maybe Florence was just the right place at the right time?
 
@@ -461,29 +486,6 @@ no reason to refrain from attempting to answer it.
 
 ## Appendix: Was Florence a statistical fluke?
 
-Suppose we assume the genius hypothesis as true, and believe that
-someone will achieve greatness as a painter with a fixed probability,
-say p = 1 in ten million, independent of their environment.  Then in a
-community of n = 100,000 people, the probability of having k or more
-great painters (k a small positive integer) is approximately:
-  
-(np)^k / k! = (1/100)^k / k!
-  
-When k = 4, this probability is less than one in a billion.  And so if
-the genius hypothesis is true, then Florence is far outside the bounds
-of what can be expected statistically.
-  
-Of course, the outcome here depends a lot on exactly what we mean for
-a painter to be "great".  If we adopt more modest standards, say p = 1
-in a million, then the probability above increases quite a bit, to
-about 1 in a quarter million.  This is still too small -- there have
-not been anything like a quarter million such communities in history
--- but is at least getting closer to statistical plausibility.  The
-problem is that if we adopt this value of p, then we're saying that we
-expect a great painter to emerge from about 1 city in every 10 of size
-100,000.  While some notable painters will likely come out of such a
-collection of cities, I frankly think that's far too modest a
-criterion.  So we can confidently reject the genius hypothesis.
 
 ## Appendix: Characteristics of scenius
 
